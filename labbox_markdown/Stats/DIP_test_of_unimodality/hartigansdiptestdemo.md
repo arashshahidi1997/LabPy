@@ -1,0 +1,21 @@
+# hartigansdiptestdemo
+
+## Function Calls
+- [title](Stats/DIP_test_of_unimodality/title.md)
+- [ones](Stats/DIP_test_of_unimodality/ones.md)
+- [pval](Stats/DIP_test_of_unimodality/pval.md)
+- [sort](Stats/DIP_test_of_unimodality/sort.md)
+- [randn](Stats/DIP_test_of_unimodality/randn.md)
+- [figure](Stats/DIP_test_of_unimodality/figure.md)
+- [num2str](Stats/DIP_test_of_unimodality/num2str.md)
+- [MultimodalTest](Stats/DIP_test_of_unimodality/MultimodalTest.md)
+- [subplot](Stats/DIP_test_of_unimodality/subplot.md)
+- [Cent1](Stats/DIP_test_of_unimodality/Cent1.md)
+- [xpdf](Stats/DIP_test_of_unimodality/xpdf.md)
+- [Cent2](Stats/DIP_test_of_unimodality/Cent2.md)
+- [xlim](Stats/DIP_test_of_unimodality/xlim.md)
+- [dip](Stats/DIP_test_of_unimodality/dip.md)
+- [p](Stats/DIP_test_of_unimodality/p.md)
+- [HartigansDipSignifTest](Stats/DIP_test_of_unimodality/HartigansDipSignifTest.md)
+- [hist](Stats/DIP_test_of_unimodality/hist.md)
+- [length](Stats/DIP_test_of_unimodality/length.md)

@@ -1,0 +1,21 @@
+# SmoothFiring
+
+## Function Calls
+- [isstr](TF/isstr.md)
+- [sparse](TF/sparse.md)
+- [sum](TF/sum.md)
+- [zeros](TF/zeros.md)
+- [if ](TF/if .md)
+- [max](TF/max.md)
+- [Res](TF/Res.md)
+- [floor](TF/floor.md)
+- [SmoothFiring](TF/SmoothFiring.md)
+- [tRange](TF/tRange.md)
+- [LoadClu](TF/LoadClu.md)
+- [range ](TF/range .md)
+- [min](TF/min.md)
+- [ceil](TF/ceil.md)
+- [f](TF/f.md)
+- [load](TF/load.md)
+- [length](TF/length.md)
+- [find](TF/find.md)

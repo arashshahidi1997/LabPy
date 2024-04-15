@@ -1,0 +1,20 @@
+# MeanSmooth
+
+## Function Calls
+- [y](Stats/y.md)
+- [sort](Stats/sort.md)
+- [Bins](Stats/Bins.md)
+- [m](Stats/m.md)
+- [sorted](Stats/sorted.md)
+- [zeros](Stats/zeros.md)
+- [if ](Stats/if .md)
+- [sqrt](Stats/sqrt.md)
+- [isempty](Stats/isempty.md)
+- [std](Stats/std.md)
+- [mean](Stats/mean.md)
+- [x](Stats/x.md)
+- [sd](Stats/sd.md)
+- [MeanSmooth](Stats/MeanSmooth.md)
+- [stderr](Stats/stderr.md)
+- [length](Stats/length.md)
+- [find](Stats/find.md)

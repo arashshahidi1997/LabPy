@@ -1,0 +1,20 @@
+# EMG_rm_example
+
+## Function Calls
+- [SWRpower](EMG_removing/SWRpower.md)
+- [opf1](EMG_removing/opf1.md)
+- [legend](EMG_removing/legend.md)
+- [plot](EMG_removing/plot.md)
+- [zeros](EMG_removing/zeros.md)
+- [EMG_au](EMG_removing/EMG_au.md)
+- [ACh](EMG_removing/ACh.md)
+- [opf](EMG_removing/opf.md)
+- [size](EMG_removing/size.md)
+- [std](EMG_removing/std.md)
+- [x](EMG_removing/x.md)
+- [min](EMG_removing/min.md)
+- [EMG_rm](EMG_removing/EMG_rm.md)
+- [xlim](EMG_removing/xlim.md)
+- [bsxfun](EMG_removing/bsxfun.md)
+- [data](EMG_removing/data.md)
+- [length](EMG_removing/length.md)

@@ -1,0 +1,22 @@
+# str2cell
+
+## Function Calls
+- [ischar](Helper/ischar.md)
+- [k](Helper/k.md)
+- [isspace](Helper/isspace.md)
+- [reshape](Helper/reshape.md)
+- [ix](Helper/ix.md)
+- [str2cell](Helper/str2cell.md)
+- [diff](Helper/diff.md)
+- [s](Helper/s.md)
+- [cell](Helper/cell.md)
+- [matrix ](Helper/matrix .md)
+- [findstr](Helper/findstr.md)
+- [find](Helper/find.md)
+- [size](Helper/size.md)
+- [ismember](Helper/ismember.md)
+- [length](Helper/length.md)
+- [ones](Helper/ones.md)
+- [sort](Helper/sort.md)
+- [isempty](Helper/isempty.md)
+- [isnan](Helper/isnan.md)

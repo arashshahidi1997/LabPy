@@ -1,0 +1,21 @@
+# KTFigure
+
+## Function Calls
+- [set](IO/blackrock/NPMK/@KTFigure/set.md)
+- [methods ](IO/blackrock/NPMK/@KTFigure/methods .md)
+- [figure](IO/blackrock/NPMK/@KTFigure/figure.md)
+- [EnlargeFigureWide](IO/blackrock/NPMK/@KTFigure/EnlargeFigureWide.md)
+- [CloseFigure](IO/blackrock/NPMK/@KTFigure/CloseFigure.md)
+- [getHandle](IO/blackrock/NPMK/@KTFigure/getHandle.md)
+- [close](IO/blackrock/NPMK/@KTFigure/close.md)
+- [ShowFigure](IO/blackrock/NPMK/@KTFigure/ShowFigure.md)
+- [MakeBackgroundGray](IO/blackrock/NPMK/@KTFigure/MakeBackgroundGray.md)
+- [MakeBackgroundBlack](IO/blackrock/NPMK/@KTFigure/MakeBackgroundBlack.md)
+- [properties ](IO/blackrock/NPMK/@KTFigure/properties .md)
+- [HideFigure](IO/blackrock/NPMK/@KTFigure/HideFigure.md)
+- [MakeBackgroundWhite](IO/blackrock/NPMK/@KTFigure/MakeBackgroundWhite.md)
+- [get](IO/blackrock/NPMK/@KTFigure/get.md)
+- [SetActive](IO/blackrock/NPMK/@KTFigure/SetActive.md)
+- [EnlargeFigure](IO/blackrock/NPMK/@KTFigure/EnlargeFigure.md)
+- [getScreenSize](IO/blackrock/NPMK/@KTFigure/getScreenSize.md)
+- [screenSize](IO/blackrock/NPMK/@KTFigure/screenSize.md)

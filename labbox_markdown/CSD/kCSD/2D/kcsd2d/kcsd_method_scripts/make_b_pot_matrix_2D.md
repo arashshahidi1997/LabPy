@@ -1,0 +1,20 @@
+# make_b_pot_matrix_2D
+
+## Function Calls
+- [uint16](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/uint16.md)
+- [el_pos](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/el_pos.md)
+- [X_src](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/X_src.md)
+- [zeros](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/zeros.md)
+- [sqrt](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/sqrt.md)
+- [disp](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/disp.md)
+- [b_pot_matrix](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/b_pot_matrix.md)
+- [max](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/max.md)
+- [ind2sub](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/ind2sub.md)
+- [norm](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/norm.md)
+- [make_b_pot_matrix_2D](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/make_b_pot_matrix_2D.md)
+- [positions ](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/positions .md)
+- [size](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/size.md)
+- [min](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/min.md)
+- [dist_table](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/dist_table.md)
+- [Y_src](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/Y_src.md)
+- [length](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/length.md)

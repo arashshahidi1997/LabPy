@@ -1,0 +1,21 @@
+# lmin
+
+## Function Calls
+- [y](Helper/y.md)
+- [c](Helper/c.md)
+- [iind](Helper/iind.md)
+- [sin](Helper/sin.md)
+- [plot](Helper/plot.md)
+- [phone ](Helper/phone .md)
+- [if ](Helper/if .md)
+- [xx](Helper/xx.md)
+- [indd](Helper/indd.md)
+- [cos](Helper/cos.md)
+- [isempty](Helper/isempty.md)
+- [conv](Helper/conv.md)
+- [fax ](Helper/fax .md)
+- [x](Helper/x.md)
+- [lmin](Helper/lmin.md)
+- [min](Helper/min.md)
+- [val](Helper/val.md)
+- [length](Helper/length.md)

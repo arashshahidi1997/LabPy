@@ -1,0 +1,20 @@
+# ShufflePhase
+
+## Function Calls
+- [Mine](TF/Mine.md)
+- [ones](TF/ones.md)
+- [sort](TF/sort.md)
+- [PhMod](TF/PhMod.md)
+- [mod](TF/mod.md)
+- [ShuffleClus](TF/ShuffleClus.md)
+- [SpkPh](TF/SpkPh.md)
+- [ShufflePhase](TF/ShufflePhase.md)
+- [unique](TF/unique.md)
+- [isempty](TF/isempty.md)
+- [rand](TF/rand.md)
+- [Clu](TF/Clu.md)
+- [PermMat](TF/PermMat.md)
+- [size](TF/size.md)
+- [repmat](TF/repmat.md)
+- [length](TF/length.md)
+- [find](TF/find.md)

@@ -1,0 +1,22 @@
+# intersectLineEdge
+
+## Function Calls
+- [point](Graphics/point.md)
+- [line](Graphics/line.md)
+- [xi](Graphics/xi.md)
+- [y0](Graphics/y0.md)
+- [x1](Graphics/x1.md)
+- [dy2](Graphics/dy2.md)
+- [intersectLineEdge](Graphics/intersectLineEdge.md)
+- [x0](Graphics/x0.md)
+- [dy1](Graphics/dy1.md)
+- [yi](Graphics/yi.md)
+- [abs](Graphics/abs.md)
+- [y1](Graphics/y1.md)
+- [edge](Graphics/edge.md)
+- [find](Graphics/find.md)
+- [dx1](Graphics/dx1.md)
+- [dx2](Graphics/dx2.md)
+- [isPointOnEdge](Graphics/isPointOnEdge.md)
+- [length](Graphics/length.md)
+- [repmat](Graphics/repmat.md)

@@ -1,0 +1,22 @@
+# nsx2dat
+
+## Function Calls
+- [NSX2DAT](IO/blackrock/conversion/NSX2DAT.md)
+- [fread](IO/blackrock/conversion/fread.md)
+- [nsxDataConvert](IO/blackrock/conversion/nsxDataConvert.md)
+- [section](IO/blackrock/conversion/section.md)
+- [fopen](IO/blackrock/conversion/fopen.md)
+- [GB ](IO/blackrock/conversion/GB .md)
+- [struct](IO/blackrock/conversion/struct.md)
+- [fseek](IO/blackrock/conversion/fseek.md)
+- [ftell](IO/blackrock/conversion/ftell.md)
+- [nsx2dat](IO/blackrock/conversion/nsx2dat.md)
+- [Busse ](IO/blackrock/conversion/Busse .md)
+- [ReadNSxHeader](IO/blackrock/conversion/ReadNSxHeader.md)
+- [openNSx](IO/blackrock/conversion/openNSx.md)
+- [error](IO/blackrock/conversion/error.md)
+- [fclose](IO/blackrock/conversion/fclose.md)
+- [fileparts](IO/blackrock/conversion/fileparts.md)
+- [fullfile](IO/blackrock/conversion/fullfile.md)
+- [fprintf](IO/blackrock/conversion/fprintf.md)
+- [uigetfile](IO/blackrock/conversion/uigetfile.md)

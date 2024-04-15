@@ -1,0 +1,23 @@
+# Session_11.12.20
+
+## Function Calls
+- [rData](Tutorials/rData.md)
+- [figure](Tutorials/figure.md)
+- [Lines](Tutorials/Lines.md)
+- [reshape](Tutorials/reshape.md)
+- [title](Tutorials/title.md)
+- [hist](Tutorials/hist.md)
+- [imagesc](Tutorials/imagesc.md)
+- [strcmp](Tutorials/strcmp.md)
+- [A](Tutorials/A.md)
+- [hist2](Tutorials/hist2.md)
+- [load](Tutorials/load.md)
+- [colorbar](Tutorials/colorbar.md)
+- [myVarInd](Tutorials/myVarInd.md)
+- [size](Tutorials/size.md)
+- [length](Tutorials/length.md)
+- [subplot2](Tutorials/subplot2.md)
+- [plot](Tutorials/plot.md)
+- [permute](Tutorials/permute.md)
+- [subplot](Tutorials/subplot.md)
+- [data](Tutorials/data.md)

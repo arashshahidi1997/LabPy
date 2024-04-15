@@ -1,0 +1,22 @@
+# demo_shadedErrorBar
+
+## Function Calls
+- [shadedErrorBar](Graphics/shadedErrorBar/shadedErrorBar.md)
+- [set](Graphics/shadedErrorBar/set.md)
+- [elseif ](Graphics/shadedErrorBar/elseif .md)
+- [sin](Graphics/shadedErrorBar/sin.md)
+- [mean](Graphics/shadedErrorBar/mean.md)
+- [if ](Graphics/shadedErrorBar/if .md)
+- [cos](Graphics/shadedErrorBar/cos.md)
+- [size](Graphics/shadedErrorBar/size.md)
+- [length](Graphics/shadedErrorBar/length.md)
+- [lines ](Graphics/shadedErrorBar/lines .md)
+- [ones](Graphics/shadedErrorBar/ones.md)
+- [randn](Graphics/shadedErrorBar/randn.md)
+- [sum](Graphics/shadedErrorBar/sum.md)
+- [plot](Graphics/shadedErrorBar/plot.md)
+- [subplot](Graphics/shadedErrorBar/subplot.md)
+- [ver](Graphics/shadedErrorBar/ver.md)
+- [bsxfun](Graphics/shadedErrorBar/bsxfun.md)
+- [legend](Graphics/shadedErrorBar/legend.md)
+- [linspace](Graphics/shadedErrorBar/linspace.md)

@@ -1,0 +1,22 @@
+# gui_adv
+
+## Function Calls
+- [figure](EMG_removing/util/FastICA_25/figure.md)
+- [num2str](EMG_removing/util/FastICA_25/num2str.md)
+- [mu ](EMG_removing/util/FastICA_25/mu .md)
+- [epsilon ](EMG_removing/util/FastICA_25/epsilon .md)
+- [tune ](EMG_removing/util/FastICA_25/tune .md)
+- [size ](EMG_removing/util/FastICA_25/size .md)
+- [FIGURESIZE](EMG_removing/util/FastICA_25/FIGURESIZE.md)
+- [set](EMG_removing/util/FastICA_25/set.md)
+- [set ](EMG_removing/util/FastICA_25/set .md)
+- [pos_t ](EMG_removing/util/FastICA_25/pos_t .md)
+- [a2 ](EMG_removing/util/FastICA_25/a2 .md)
+- [a1 ](EMG_removing/util/FastICA_25/a1 .md)
+- [get](EMG_removing/util/FastICA_25/get.md)
+- [pos_frame](EMG_removing/util/FastICA_25/pos_frame.md)
+- [uicontrol](EMG_removing/util/FastICA_25/uicontrol.md)
+- [findobj](EMG_removing/util/FastICA_25/findobj.md)
+- [gui_adv](EMG_removing/util/FastICA_25/gui_adv.md)
+- [isempty](EMG_removing/util/FastICA_25/isempty.md)
+- [error](EMG_removing/util/FastICA_25/error.md)

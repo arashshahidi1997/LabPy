@@ -1,0 +1,20 @@
+# inputparser
+
+## Function Calls
+- [isstruct](oephys/files_not_in_use/isstruct.md)
+- [strcmp](oephys/files_not_in_use/strcmp.md)
+- [mod](oephys/files_not_in_use/mod.md)
+- [disp](oephys/files_not_in_use/disp.md)
+- [options ](oephys/files_not_in_use/options .md)
+- [isempty](oephys/files_not_in_use/isempty.md)
+- [iscell](oephys/files_not_in_use/iscell.md)
+- [error](oephys/files_not_in_use/error.md)
+- [sprintf](oephys/files_not_in_use/sprintf.md)
+- [defaults](oephys/files_not_in_use/defaults.md)
+- [defaults ](oephys/files_not_in_use/defaults .md)
+- [cell2struct](oephys/files_not_in_use/cell2struct.md)
+- [isfield](oephys/files_not_in_use/isfield.md)
+- [inputparser](oephys/files_not_in_use/inputparser.md)
+- [options](oephys/files_not_in_use/options.md)
+- [length](oephys/files_not_in_use/length.md)
+- [fieldnames](oephys/files_not_in_use/fieldnames.md)

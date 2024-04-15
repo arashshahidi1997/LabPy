@@ -1,0 +1,21 @@
+# cell2array
+
+## Function Calls
+- [if](Helper/if.md)
+- [vector ](Helper/vector .md)
+- [ndims](Helper/ndims.md)
+- [zeros](Helper/zeros.md)
+- [class](Helper/class.md)
+- [maxsiz](Helper/maxsiz.md)
+- [max](Helper/max.md)
+- [rand](Helper/rand.md)
+- [iscell](Helper/iscell.md)
+- [cell2array](Helper/cell2array.md)
+- [error](Helper/error.md)
+- [size](Helper/size.md)
+- [min](Helper/min.md)
+- [Y](Helper/Y.md)
+- [cell](Helper/cell.md)
+- [all](Helper/all.md)
+- [numel](Helper/numel.md)
+- [arrayToDims](Helper/arrayToDims.md)

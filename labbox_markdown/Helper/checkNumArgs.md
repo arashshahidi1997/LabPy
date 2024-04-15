@@ -1,0 +1,21 @@
+# checkNumArgs
+
+## Function Calls
+- [if](Helper/if.md)
+- [ones](Helper/ones.md)
+- [ndims](Helper/ndims.md)
+- [num2str](Helper/num2str.md)
+- [mod](Helper/mod.md)
+- [createErrMsg](Helper/createErrMsg.md)
+- [isnumeric](Helper/isnumeric.md)
+- [isempty](Helper/isempty.md)
+- [error](Helper/error.md)
+- [length](Helper/length.md)
+- [inputname](Helper/inputname.md)
+- [size](Helper/size.md)
+- [all](Helper/all.md)
+- [x](Helper/x.md)
+- [integers ](Helper/integers .md)
+- [x ](Helper/x .md)
+- [numel](Helper/numel.md)
+- [checkNumArgs](Helper/checkNumArgs.md)

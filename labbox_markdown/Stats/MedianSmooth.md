@@ -1,0 +1,21 @@
+# MedianSmooth
+
+## Function Calls
+- [y](Stats/y.md)
+- [Resid](Stats/Resid.md)
+- [sort](Stats/sort.md)
+- [m](Stats/m.md)
+- [iqr](Stats/iqr.md)
+- [sorted](Stats/sorted.md)
+- [zeros](Stats/zeros.md)
+- [if ](Stats/if .md)
+- [median](Stats/median.md)
+- [iq](Stats/iq.md)
+- [isempty](Stats/isempty.md)
+- [size](Stats/size.md)
+- [cell](Stats/cell.md)
+- [x](Stats/x.md)
+- [find](Stats/find.md)
+- [Bins](Stats/Bins.md)
+- [length](Stats/length.md)
+- [MedianSmooth](Stats/MedianSmooth.md)

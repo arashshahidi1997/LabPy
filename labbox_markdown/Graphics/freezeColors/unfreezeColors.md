@@ -1,0 +1,23 @@
+# unfreezeColors
+
+## Function Calls
+- [all](Graphics/freezeColors/all.md)
+- [separately ](Graphics/freezeColors/separately .md)
+- [isfield](Graphics/freezeColors/isfield.md)
+- [isappdata](Graphics/freezeColors/isappdata.md)
+- [strcmp](Graphics/freezeColors/strcmp.md)
+- [set](Graphics/freezeColors/set.md)
+- [getappdata](Graphics/freezeColors/getappdata.md)
+- [rmappdata](Graphics/freezeColors/rmappdata.md)
+- [warning](Graphics/freezeColors/warning.md)
+- [get](Graphics/freezeColors/get.md)
+- [ishandle](Graphics/freezeColors/ishandle.md)
+- [unfreezeColors](Graphics/freezeColors/unfreezeColors.md)
+- [size](Graphics/freezeColors/size.md)
+- [findobj](Graphics/freezeColors/findobj.md)
+- [nargchk](Graphics/freezeColors/nargchk.md)
+- [cbfreeze](Graphics/freezeColors/cbfreeze.md)
+- [permute](Graphics/freezeColors/permute.md)
+- [Iversen ](Graphics/freezeColors/Iversen .md)
+- [cdata](Graphics/freezeColors/cdata.md)
+- [error](Graphics/freezeColors/error.md)

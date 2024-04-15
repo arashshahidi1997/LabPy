@@ -1,0 +1,21 @@
+# data_fmri
+
+## Function Calls
+- [randn](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/randn.md)
+- [plot](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/plot.md)
+- [jrand_set_seed](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/jrand_set_seed.md)
+- [go](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/go.md)
+- [V](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/V.md)
+- [Data](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/Data.md)
+- [jsize](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/jsize.md)
+- [remove_signal](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/remove_signal.md)
+- [zeros](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/zeros.md)
+- [FoneD](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/FoneD.md)
+- [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/size.md)
+- [std](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/std.md)
+- [zz](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/zz.md)
+- [array ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/array .md)
+- [jcorr](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/jcorr.md)
+- [fprintf](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/fprintf.md)
+- [jmake_stereoW](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/jmake_stereoW.md)
+- [title](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/title.md)

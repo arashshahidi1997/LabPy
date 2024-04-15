@@ -1,0 +1,21 @@
+# user_string
+
+## Function Calls
+- [user_string](Graphics/export_fig/user_string.md)
+- [writable ](Graphics/export_fig/writable .md)
+- [ischar](Graphics/export_fig/ischar.md)
+- [exist](Graphics/export_fig/exist.md)
+- [mkdir](Graphics/export_fig/mkdir.md)
+- [Copyright ](Graphics/export_fig/Copyright .md)
+- [fprintf](Graphics/export_fig/fprintf.md)
+- [mfilename](Graphics/export_fig/mfilename.md)
+- [fopen](Graphics/export_fig/fopen.md)
+- [fileattrib](Graphics/export_fig/fileattrib.md)
+- [fgetl](Graphics/export_fig/fgetl.md)
+- [error](Graphics/export_fig/error.md)
+- [isempty](Graphics/export_fig/isempty.md)
+- [fclose](Graphics/export_fig/fclose.md)
+- [fileparts](Graphics/export_fig/fileparts.md)
+- [fullfile](Graphics/export_fig/fullfile.md)
+- [any](Graphics/export_fig/any.md)
+- [folder ](Graphics/export_fig/folder .md)

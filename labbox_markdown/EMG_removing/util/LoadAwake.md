@@ -1,0 +1,21 @@
+# LoadAwake
+
+## Function Calls
+- [LoadAwake](EMG_removing/util/LoadAwake.md)
+- [sum](EMG_removing/util/sum.md)
+- [AWAKE ](EMG_removing/util/AWAKE .md)
+- [max](EMG_removing/util/max.md)
+- [diff](EMG_removing/util/diff.md)
+- [subplot](EMG_removing/util/subplot.md)
+- [isempty](EMG_removing/util/isempty.md)
+- [s](EMG_removing/util/s.md)
+- [PeriodsSWS](EMG_removing/util/PeriodsSWS.md)
+- [sprintf](EMG_removing/util/sprintf.md)
+- [size](EMG_removing/util/size.md)
+- [eval](EMG_removing/util/eval.md)
+- [PeriodsAWAKE](EMG_removing/util/PeriodsAWAKE.md)
+- [per2](EMG_removing/util/per2.md)
+- [PlotIntervals](EMG_removing/util/PlotIntervals.md)
+- [loadrangefiles](EMG_removing/util/loadrangefiles.md)
+- [true](EMG_removing/util/true.md)
+- [load](EMG_removing/util/load.md)

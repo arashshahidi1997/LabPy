@@ -1,0 +1,20 @@
+# copyfig
+
+## Function Calls
+- [fwrite](Graphics/export_fig/fwrite.md)
+- [writable ](Graphics/export_fig/writable .md)
+- [copyfig](Graphics/export_fig/copyfig.md)
+- [findall](Graphics/export_fig/findall.md)
+- [hgload](Graphics/export_fig/hgload.md)
+- [delete](Graphics/export_fig/delete.md)
+- [Copyright ](Graphics/export_fig/Copyright .md)
+- [copyobj ](Graphics/export_fig/copyobj .md)
+- [fopen](Graphics/export_fig/fopen.md)
+- [isempty](Graphics/export_fig/isempty.md)
+- [hgsave](Graphics/export_fig/hgsave.md)
+- [fclose](Graphics/export_fig/fclose.md)
+- [fileparts](Graphics/export_fig/fileparts.md)
+- [fullfile](Graphics/export_fig/fullfile.md)
+- [files ](Graphics/export_fig/files .md)
+- [warning](Graphics/export_fig/warning.md)
+- [copyobj](Graphics/export_fig/copyobj.md)

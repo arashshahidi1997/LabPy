@@ -1,0 +1,23 @@
+# BinSmooth
+
+## Function Calls
+- [y](Stats/y.md)
+- [iqr](Stats/iqr.md)
+- [m](Stats/m.md)
+- [zeros](Stats/zeros.md)
+- [MedX](Stats/MedX.md)
+- [sorted](Stats/sorted.md)
+- [cell](Stats/cell.md)
+- [x](Stats/x.md)
+- [Bins](Stats/Bins.md)
+- [find](Stats/find.md)
+- [BinSmooth](Stats/BinSmooth.md)
+- [Resid](Stats/Resid.md)
+- [median](Stats/median.md)
+- [if ](Stats/if .md)
+- [iq](Stats/iq.md)
+- [size](Stats/size.md)
+- [feval](Stats/feval.md)
+- [length](Stats/length.md)
+- [sort](Stats/sort.md)
+- [isempty](Stats/isempty.md)

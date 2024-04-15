@@ -1,0 +1,21 @@
+# ErrorBarMatrix
+
+## Function Calls
+- [ones](Graphics/ones.md)
+- [if](Graphics/if.md)
+- [isstr](Graphics/isstr.md)
+- [Filter0](Graphics/Filter0.md)
+- [sum](Graphics/sum.md)
+- [ndims](Graphics/ndims.md)
+- [elseif ](Graphics/elseif .md)
+- [if ](Graphics/if .md)
+- [subplot](Graphics/subplot.md)
+- [arguments ](Graphics/arguments .md)
+- [error](Graphics/error.md)
+- [PlotMatrix](Graphics/PlotMatrix.md)
+- [size](Graphics/size.md)
+- [errorbard](Graphics/errorbard.md)
+- [Y](Graphics/Y.md)
+- [exp](Graphics/exp.md)
+- [BarMatrix](Graphics/BarMatrix.md)
+- [E](Graphics/E.md)

@@ -1,0 +1,23 @@
+# DisplayData
+
+## Function Calls
+- [figure](Helper/figure.md)
+- [wstr](Helper/wstr.md)
+- [eval](Helper/eval.md)
+- [Seg](Helper/Seg.md)
+- [reshape](Helper/reshape.md)
+- [DisplayData](Helper/DisplayData.md)
+- [matposind](Helper/matposind.md)
+- [find](Helper/find.md)
+- [arg ](Helper/arg .md)
+- [isstr](Helper/isstr.md)
+- [gBrowseData](Helper/gBrowseData.md)
+- [size](Helper/size.md)
+- [length](Helper/length.md)
+- [AdDisplayData](Helper/AdDisplayData.md)
+- [subplot](Helper/subplot.md)
+- [FuncEval](Helper/FuncEval.md)
+- [isempty](Helper/isempty.md)
+- [error](Helper/error.md)
+- [Layout](Helper/Layout.md)
+- [repmat](Helper/repmat.md)

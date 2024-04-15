@@ -1,0 +1,20 @@
+# sticahist
+
+## Function Calls
+- [err2](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/err2.md)
+- [inv](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/inv.md)
+- [randn](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/randn.md)
+- [figure](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/figure.md)
+- [stica](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/stica.md)
+- [subplot](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/subplot.md)
+- [max](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/max.md)
+- [err1](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/err1.md)
+- [ica](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/ica.md)
+- [maxcorr](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/maxcorr.md)
+- [randk](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/randk.md)
+- [axis](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/axis.md)
+- [x](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/x.md)
+- [bar](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/bar.md)
+- [hist](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/hist.md)
+- [linspace](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/linspace.md)
+- [hist1](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/hist1.md)

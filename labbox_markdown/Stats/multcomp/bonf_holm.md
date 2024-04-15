@@ -1,0 +1,22 @@
+# bonf_holm
+
+## Function Calls
+- [bonf_holm](Stats/multcomp/bonf_holm.md)
+- [level ](Stats/multcomp/level .md)
+- [dimensionality ](Stats/multcomp/dimensionality .md)
+- [reshape](Stats/multcomp/reshape.md)
+- [isvector](Stats/multcomp/isvector.md)
+- [find](Stats/multcomp/find.md)
+- [significant ](Stats/multcomp/significant .md)
+- [prod](Stats/multcomp/prod.md)
+- [max](Stats/multcomp/max.md)
+- [size](Stats/multcomp/size.md)
+- [Holm ](Stats/multcomp/Holm .md)
+- [length](Stats/multcomp/length.md)
+- [cor_p_sorted](Stats/multcomp/cor_p_sorted.md)
+- [sort](Stats/multcomp/sort.md)
+- [adj_p](Stats/multcomp/adj_p.md)
+- [isempty](Stats/multcomp/isempty.md)
+- [error](Stats/multcomp/error.md)
+- [p](Stats/multcomp/p.md)
+- [fprintf](Stats/multcomp/fprintf.md)

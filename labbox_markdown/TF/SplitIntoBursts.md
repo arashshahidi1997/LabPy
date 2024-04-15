@@ -1,0 +1,23 @@
+# SplitIntoBursts
+
+## Function Calls
+- [ToSum](TF/ToSum.md)
+- [zeros](TF/zeros.md)
+- [cumsum](TF/cumsum.md)
+- [event ](TF/event .md)
+- [SplitIntoBursts](TF/SplitIntoBursts.md)
+- [BurstLen](TF/BurstLen.md)
+- [events ](TF/events .md)
+- [Res](TF/Res.md)
+- [diff](TF/diff.md)
+- [warning](TF/warning.md)
+- [Burst](TF/Burst.md)
+- [train ](TF/train .md)
+- [find](TF/find.md)
+- [BurstInd](TF/BurstInd.md)
+- [ToSum2](TF/ToSum2.md)
+- [length](TF/length.md)
+- [ones](TF/ones.md)
+- [FromBurst](TF/FromBurst.md)
+- [isempty](TF/isempty.md)
+- [BurstStop](TF/BurstStop.md)

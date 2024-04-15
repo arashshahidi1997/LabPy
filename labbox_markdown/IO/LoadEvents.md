@@ -1,0 +1,23 @@
+# LoadEvents
+
+## Function Calls
+- [LoadEvents](IO/LoadEvents.md)
+- [line](IO/line.md)
+- [Copyright ](IO/Copyright .md)
+- [unique](IO/unique.md)
+- [regexp](IO/regexp.md)
+- [fopen](IO/fopen.md)
+- [fscanf](IO/fscanf.md)
+- [fgetl](IO/fgetl.md)
+- [CurOrder](IO/CurOrder.md)
+- [sscanf](IO/sscanf.md)
+- [sort](IO/sort.md)
+- [exist](IO/exist.md)
+- [cellfun](IO/cellfun.md)
+- [Labels](IO/Labels.md)
+- [isempty](IO/isempty.md)
+- [error](IO/error.md)
+- [fclose](IO/fclose.md)
+- [DefaultArgs](IO/DefaultArgs.md)
+- [feof](IO/feof.md)
+- [time](IO/time.md)

@@ -1,0 +1,23 @@
+# arrayToDims
+
+## Function Calls
+- [if](Helper/if.md)
+- [from ](Helper/from .md)
+- [siz](Helper/siz.md)
+- [any](Helper/any.md)
+- [dims](Helper/dims.md)
+- [arrayCrop](Helper/arrayCrop.md)
+- [if ](Helper/if .md)
+- [d ](Helper/d .md)
+- [endLocs](Helper/endLocs.md)
+- [floor](Helper/floor.md)
+- [padEl ](Helper/padEl .md)
+- [size](Helper/size.md)
+- [checkNumArgs](Helper/checkNumArgs.md)
+- [ones](Helper/ones.md)
+- [randn](Helper/randn.md)
+- [ndims](Helper/ndims.md)
+- [isempty](Helper/isempty.md)
+- [error](Helper/error.md)
+- [strLocs](Helper/strLocs.md)
+- [arrayToDims](Helper/arrayToDims.md)

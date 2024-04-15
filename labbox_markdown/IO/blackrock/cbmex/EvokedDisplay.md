@@ -1,0 +1,23 @@
+# EvokedDisplay
+
+## Function Calls
+- [frequency ](IO/blackrock/cbmex/frequency .md)
+- [while ](IO/blackrock/cbmex/while .md)
+- [log10](IO/blackrock/cbmex/log10.md)
+- [ylabel](IO/blackrock/cbmex/ylabel.md)
+- [min](IO/blackrock/cbmex/min.md)
+- [title](IO/blackrock/cbmex/title.md)
+- [set](IO/blackrock/cbmex/set.md)
+- [xlabel](IO/blackrock/cbmex/xlabel.md)
+- [periodogram](IO/blackrock/cbmex/periodogram.md)
+- [ishandle](IO/blackrock/cbmex/ishandle.md)
+- [if ](IO/blackrock/cbmex/if .md)
+- [size](IO/blackrock/cbmex/size.md)
+- [cbmex](IO/blackrock/cbmex/cbmex.md)
+- [plot](IO/blackrock/cbmex/plot.md)
+- [subplot](IO/blackrock/cbmex/subplot.md)
+- [isempty](IO/blackrock/cbmex/isempty.md)
+- [magnitude ](IO/blackrock/cbmex/magnitude .md)
+- [toc](IO/blackrock/cbmex/toc.md)
+- [sprintf](IO/blackrock/cbmex/sprintf.md)
+- [data](IO/blackrock/cbmex/data.md)

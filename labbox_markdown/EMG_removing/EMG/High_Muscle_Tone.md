@@ -1,0 +1,23 @@
+# High_Muscle_Tone
+
+## Function Calls
+- [zscore](EMG_removing/EMG/zscore.md)
+- [conv](EMG_removing/EMG/conv.md)
+- [reshape](EMG_removing/EMG/reshape.md)
+- [High_Muscle_Tone](EMG_removing/EMG/High_Muscle_Tone.md)
+- [randperm](EMG_removing/EMG/randperm.md)
+- [opf_r](EMG_removing/EMG/opf_r.md)
+- [fix](EMG_removing/EMG/fix.md)
+- [mean](EMG_removing/EMG/mean.md)
+- [x](EMG_removing/EMG/x.md)
+- [tmp_x](EMG_removing/EMG/tmp_x.md)
+- [prctile](EMG_removing/EMG/prctile.md)
+- [size](EMG_removing/EMG/size.md)
+- [cov_x](EMG_removing/EMG/cov_x.md)
+- [ButFilter](EMG_removing/EMG/ButFilter.md)
+- [ones](EMG_removing/EMG/ones.md)
+- [opf_c](EMG_removing/EMG/opf_c.md)
+- [nan](EMG_removing/EMG/nan.md)
+- [isempty](EMG_removing/EMG/isempty.md)
+- [DefaultArgs](EMG_removing/EMG/DefaultArgs.md)
+- [bsxfun](EMG_removing/EMG/bsxfun.md)

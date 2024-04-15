@@ -1,0 +1,21 @@
+# readsinglech
+
+## Function Calls
+- [zeros](IO/zeros.md)
+- [if ](IO/if .md)
+- [LoadBinary](IO/LoadBinary.md)
+- [fopen](IO/fopen.md)
+- [isempty](IO/isempty.md)
+- [sprintf](IO/sprintf.md)
+- [verdisp](IO/verdisp.md)
+- [ceil](IO/ceil.md)
+- [fread](IO/fread.md)
+- [data1](IO/data1.md)
+- [DefaultArgs](IO/DefaultArgs.md)
+- [feof](IO/feof.md)
+- [fileinfo](IO/fileinfo.md)
+- [fclose](IO/fclose.md)
+- [data](IO/data.md)
+- [mean](IO/mean.md)
+- [dir](IO/dir.md)
+- [readsinglech](IO/readsinglech.md)

@@ -1,0 +1,20 @@
+# basicfg
+
+## Function Calls
+- [y](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/y.md)
+- [sort](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/sort.md)
+- [log ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/log .md)
+- [sum](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/sum.md)
+- [inv](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/inv.md)
+- [tanh](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/tanh.md)
+- [fprintf](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/fprintf.md)
+- [det](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/det.md)
+- [reorder_cols](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/reorder_cols.md)
+- [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/size.md)
+- [mean](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/mean.md)
+- [abs](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/abs.md)
+- [log](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/log.md)
+- [exp](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/exp.md)
+- [basicfg](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/basicfg.md)
+- [deriv ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/deriv .md)
+- [sech](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/sech.md)

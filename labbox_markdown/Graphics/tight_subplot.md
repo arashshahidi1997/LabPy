@@ -1,0 +1,20 @@
+# tight_subplot
+
+## Function Calls
+- [hight ](Graphics/hight .md)
+- [marg_h](Graphics/marg_h.md)
+- [set](Graphics/set.md)
+- [randn](Graphics/randn.md)
+- [sum](Graphics/sum.md)
+- [units ](Graphics/units .md)
+- [plot](Graphics/plot.md)
+- [ha](Graphics/ha.md)
+- [isempty](Graphics/isempty.md)
+- [error](Graphics/error.md)
+- [gobjects](Graphics/gobjects.md)
+- [axes](Graphics/axes.md)
+- [tight_subplot](Graphics/tight_subplot.md)
+- [gap](Graphics/gap.md)
+- [numel](Graphics/numel.md)
+- [marg_w](Graphics/marg_w.md)
+- [width ](Graphics/width .md)

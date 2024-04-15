@@ -1,0 +1,20 @@
+# RemoveOutliers
+
+## Function Calls
+- [MatIn ](Helper/MatIn .md)
+- [InEach](Helper/InEach.md)
+- [RemoveOutliers](Helper/RemoveOutliers.md)
+- [Threshold ](Helper/Threshold .md)
+- [in ](Helper/in .md)
+- [MatIn](Helper/MatIn.md)
+- [MatOut](Helper/MatOut.md)
+- [interp1](Helper/interp1.md)
+- [prctile](Helper/prctile.md)
+- [percentiles ](Helper/percentiles .md)
+- [all](Helper/all.md)
+- [size](Helper/size.md)
+- [find](Helper/find.md)
+- [ThrValues](Helper/ThrValues.md)
+- [DefaultArgs](Helper/DefaultArgs.md)
+- [bsxfun](Helper/bsxfun.md)
+- [outliers ](Helper/outliers .md)

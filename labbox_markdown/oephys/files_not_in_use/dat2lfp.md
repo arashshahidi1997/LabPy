@@ -1,0 +1,23 @@
+# dat2lfp
+
+## Function Calls
+- [m](oephys/files_not_in_use/m.md)
+- [num2str](oephys/files_not_in_use/num2str.md)
+- [double](oephys/files_not_in_use/double.md)
+- [fwrite](oephys/files_not_in_use/fwrite.md)
+- [int16](oephys/files_not_in_use/int16.md)
+- [fopen](oephys/files_not_in_use/fopen.md)
+- [channels ](oephys/files_not_in_use/channels .md)
+- [xml2struct](oephys/files_not_in_use/xml2struct.md)
+- [disp](oephys/files_not_in_use/disp.md)
+- [delete](oephys/files_not_in_use/delete.md)
+- [length](oephys/files_not_in_use/length.md)
+- [datfn](oephys/files_not_in_use/datfn.md)
+- [dat2lfp](oephys/files_not_in_use/dat2lfp.md)
+- [dir](oephys/files_not_in_use/dir.md)
+- [str2num](oephys/files_not_in_use/str2num.md)
+- [memmapfile](oephys/files_not_in_use/memmapfile.md)
+- [memory ](oephys/files_not_in_use/memory .md)
+- [exist](oephys/files_not_in_use/exist.md)
+- [fclose](oephys/files_not_in_use/fclose.md)
+- [resample](oephys/files_not_in_use/resample.md)

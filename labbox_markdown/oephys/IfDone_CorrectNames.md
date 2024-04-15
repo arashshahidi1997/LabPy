@@ -1,0 +1,22 @@
+# IfDone_CorrectNames
+
+## Function Calls
+- [session ](oephys/session .md)
+- [IfDone_CorrectNames](oephys/IfDone_CorrectNames.md)
+- [regexp](oephys/regexp.md)
+- [n](oephys/n.md)
+- [strcmp](oephys/strcmp.md)
+- [list_files](oephys/list_files.md)
+- [tmp](oephys/tmp.md)
+- [nSubsesFiles](oephys/nSubsesFiles.md)
+- [prod](oephys/prod.md)
+- [disp](oephys/disp.md)
+- [out](oephys/out.md)
+- [ismember](oephys/ismember.md)
+- [length](oephys/length.md)
+- [dir](oephys/dir.md)
+- [arrayfun](oephys/arrayfun.md)
+- [sum](oephys/sum.md)
+- [isempty](oephys/isempty.md)
+- [error](oephys/error.md)
+- [fileparts](oephys/fileparts.md)

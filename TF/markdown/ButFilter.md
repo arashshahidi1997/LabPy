@@ -1,8 +1,8 @@
 # ButFilter
 
 ## Function Calls
-- butter (external or built-in)
-- size (external or built-in)
-- DefaultArgs (external or built-in)
-- filtfilt (external or built-in)
-- [ButFilter](ButFilter.md)
+- [butter](./butter.md)
+- [size](./size.md)
+- [DefaultArgs](./DefaultArgs.md)
+- [filtfilt](./filtfilt.md)
+- [ButFilter](./ButFilter.md)

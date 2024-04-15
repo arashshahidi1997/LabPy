@@ -1,0 +1,21 @@
+# make_cubic_splines
+
+## Function Calls
+- [compute_Ematrixes](CSD/CSDplotter-0.1.1/methods/compute_Ematrixes.md)
+- [zeros](CSD/CSDplotter-0.1.1/methods/zeros.md)
+- [el_pos_with_ends](CSD/CSDplotter-0.1.1/methods/el_pos_with_ends.md)
+- [A2](CSD/CSDplotter-0.1.1/methods/A2.md)
+- [diff](CSD/CSDplotter-0.1.1/methods/diff.md)
+- [A1](CSD/CSDplotter-0.1.1/methods/A1.md)
+- [make_cubic_splines](CSD/CSDplotter-0.1.1/methods/make_cubic_splines.md)
+- [function](CSD/CSDplotter-0.1.1/methods/function.md)
+- [A0](CSD/CSDplotter-0.1.1/methods/A0.md)
+- [A3](CSD/CSDplotter-0.1.1/methods/A3.md)
+- [cs_pot](CSD/CSDplotter-0.1.1/methods/cs_pot.md)
+- [size](CSD/CSDplotter-0.1.1/methods/size.md)
+- [mean](CSD/CSDplotter-0.1.1/methods/mean.md)
+- [out_zs](CSD/CSDplotter-0.1.1/methods/out_zs.md)
+- [pot](CSD/CSDplotter-0.1.1/methods/pot.md)
+- [my_CSD](CSD/CSDplotter-0.1.1/methods/my_CSD.md)
+- [contact_positions](CSD/CSDplotter-0.1.1/methods/contact_positions.md)
+- [length](CSD/CSDplotter-0.1.1/methods/length.md)

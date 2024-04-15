@@ -1,0 +1,21 @@
+# LoadFet
+
+## Function Calls
+- [strfind](IO/strfind.md)
+- [str2num](IO/str2num.md)
+- [LoadFet](IO/LoadFet.md)
+- [num2str](IO/num2str.md)
+- [ResolvePath](IO/ResolvePath.md)
+- [FileName](IO/FileName.md)
+- [fopen](IO/fopen.md)
+- [ismember](IO/ismember.md)
+- [isempty](IO/isempty.md)
+- [error](IO/error.md)
+- [feof](IO/feof.md)
+- [fclose](IO/fclose.md)
+- [LoadClu](IO/LoadClu.md)
+- [DefaultArgs](IO/DefaultArgs.md)
+- [isinf](IO/isinf.md)
+- [Fet](IO/Fet.md)
+- [fscanf](IO/fscanf.md)
+- [FileExists](IO/FileExists.md)

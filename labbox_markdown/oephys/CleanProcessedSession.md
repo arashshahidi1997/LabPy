@@ -1,0 +1,21 @@
+# CleanProcessedSession
+
+## Function Calls
+- [copyfile](oephys/copyfile.md)
+- [dir](oephys/dir.md)
+- [exist](oephys/exist.md)
+- [session ](oephys/session .md)
+- [delete](oephys/delete.md)
+- [data ](oephys/data .md)
+- [cd](oephys/cd.md)
+- [isempty](oephys/isempty.md)
+- [CleanProcessedSession](oephys/CleanProcessedSession.md)
+- [error](oephys/error.md)
+- [files](oephys/files.md)
+- [sprintf](oephys/sprintf.md)
+- [any](oephys/any.md)
+- [regexp](oephys/regexp.md)
+- [LoadXml_ER](oephys/LoadXml_ER.md)
+- [fprintf](oephys/fprintf.md)
+- [ismember](oephys/ismember.md)
+- [length](oephys/length.md)

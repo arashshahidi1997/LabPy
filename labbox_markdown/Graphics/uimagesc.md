@@ -1,0 +1,22 @@
+# uimagesc
+
+## Function Calls
+- [isequal](Graphics/isequal.md)
+- [ishold](Graphics/ishold.md)
+- [ischar](Graphics/ischar.md)
+- [min](Graphics/min.md)
+- [uimage](Graphics/uimage.md)
+- [set](Graphics/set.md)
+- [rem](Graphics/rem.md)
+- [uimagesc](Graphics/uimagesc.md)
+- [find](Graphics/find.md)
+- [str](Graphics/str.md)
+- [UIMAGE](Graphics/UIMAGE.md)
+- [ancestor](Graphics/ancestor.md)
+- [size](Graphics/size.md)
+- [switch ](Graphics/switch .md)
+- [varargin](Graphics/varargin.md)
+- [length](Graphics/length.md)
+- [false](Graphics/false.md)
+- [isempty](Graphics/isempty.md)
+- [UIMAGESC](Graphics/UIMAGESC.md)

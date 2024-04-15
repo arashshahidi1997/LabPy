@@ -1,0 +1,20 @@
+# SetStructFields
+
+## Function Calls
+- [SUBSASGN](Helper/SUBSASGN.md)
+- [Sfrom](Helper/Sfrom.md)
+- [cat](Helper/cat.md)
+- [subsasgn](Helper/subsasgn.md)
+- [shiftdim](Helper/shiftdim.md)
+- [SetStructFields](Helper/SetStructFields.md)
+- [max](Helper/max.md)
+- [A](Helper/A.md)
+- [isempty](Helper/isempty.md)
+- [sz](Helper/sz.md)
+- [size](Helper/size.md)
+- [S](Helper/S.md)
+- [struct](Helper/struct.md)
+- [DefaultArgs](Helper/DefaultArgs.md)
+- [name](Helper/name.md)
+- [length](Helper/length.md)
+- [fieldnames](Helper/fieldnames.md)

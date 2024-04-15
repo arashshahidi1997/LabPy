@@ -1,0 +1,21 @@
+# load_binary
+
+## Function Calls
+- [tmp](oephys/files_not_in_use/tmp.md)
+- [filename](oephys/files_not_in_use/filename.md)
+- [xml2struct](oephys/files_not_in_use/xml2struct.md)
+- [strcmp](oephys/files_not_in_use/strcmp.md)
+- [str2num](oephys/files_not_in_use/str2num.md)
+- [dir](oephys/files_not_in_use/dir.md)
+- [disp](oephys/files_not_in_use/disp.md)
+- [zeros](oephys/files_not_in_use/zeros.md)
+- [m](oephys/files_not_in_use/m.md)
+- [channels](oephys/files_not_in_use/channels.md)
+- [load_binary](oephys/files_not_in_use/load_binary.md)
+- [isempty](oephys/files_not_in_use/isempty.md)
+- [iscell](oephys/files_not_in_use/iscell.md)
+- [strjoin](oephys/files_not_in_use/strjoin.md)
+- [split_string](oephys/files_not_in_use/split_string.md)
+- [data](oephys/files_not_in_use/data.md)
+- [memmapfile](oephys/files_not_in_use/memmapfile.md)
+- [length](oephys/files_not_in_use/length.md)

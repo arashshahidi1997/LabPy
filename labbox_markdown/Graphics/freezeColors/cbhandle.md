@@ -1,0 +1,23 @@
+# cbhandle
+
+## Function Calls
+- [web](Graphics/freezeColors/web.md)
+- [Copyright ](Graphics/freezeColors/Copyright .md)
+- [double](Graphics/freezeColors/double.md)
+- [all](Graphics/freezeColors/all.md)
+- [isappdata](Graphics/freezeColors/isappdata.md)
+- [strcmp](Graphics/freezeColors/strcmp.md)
+- [set](Graphics/freezeColors/set.md)
+- [elseif ](Graphics/freezeColors/elseif .md)
+- [getappdata](Graphics/freezeColors/getappdata.md)
+- [cbhandle](Graphics/freezeColors/cbhandle.md)
+- [Aguilera ](Graphics/freezeColors/Aguilera .md)
+- [handle](Graphics/freezeColors/handle.md)
+- [get](Graphics/freezeColors/get.md)
+- [ishandle](Graphics/freezeColors/ishandle.md)
+- [if     ](Graphics/freezeColors/if     .md)
+- [findobj](Graphics/freezeColors/findobj.md)
+- [length](Graphics/freezeColors/length.md)
+- [gca ](Graphics/freezeColors/gca .md)
+- [isempty](Graphics/freezeColors/isempty.md)
+- [H](Graphics/freezeColors/H.md)

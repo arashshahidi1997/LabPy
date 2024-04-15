@@ -1,0 +1,22 @@
+# gui_lc
+
+## Function Calls
+- [gui_help](EMG_removing/util/FastICA_25/gui_help.md)
+- [any ](EMG_removing/util/FastICA_25/any .md)
+- [evalin](EMG_removing/util/FastICA_25/evalin.md)
+- [eval](EMG_removing/util/FastICA_25/eval.md)
+- [gui_lc ](EMG_removing/util/FastICA_25/gui_lc .md)
+- [size ](EMG_removing/util/FastICA_25/size .md)
+- [set](EMG_removing/util/FastICA_25/set.md)
+- [double ](EMG_removing/util/FastICA_25/double .md)
+- [get](EMG_removing/util/FastICA_25/get.md)
+- [isnan ](EMG_removing/util/FastICA_25/isnan .md)
+- [watchoff ](EMG_removing/util/FastICA_25/watchoff .md)
+- [close](EMG_removing/util/FastICA_25/close.md)
+- [isempty](EMG_removing/util/FastICA_25/isempty.md)
+- [isa ](EMG_removing/util/FastICA_25/isa .md)
+- [fprintf ](EMG_removing/util/FastICA_25/fprintf .md)
+- [regular ](EMG_removing/util/FastICA_25/regular .md)
+- [fprintf](EMG_removing/util/FastICA_25/fprintf.md)
+- [assignin](EMG_removing/util/FastICA_25/assignin.md)
+- [length ](EMG_removing/util/FastICA_25/length .md)

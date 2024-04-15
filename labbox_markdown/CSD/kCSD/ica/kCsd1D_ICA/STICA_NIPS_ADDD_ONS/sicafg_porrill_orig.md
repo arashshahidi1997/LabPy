@@ -1,0 +1,20 @@
+# sicafg_porrill_orig
+
+## Function Calls
+- [inv](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/inv.md)
+- [sum](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sum.md)
+- [col ](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/col .md)
+- [zeros](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/zeros.md)
+- [sqrt](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sqrt.md)
+- [g](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/g.md)
+- [repmat](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/repmat.md)
+- [det](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/det.md)
+- [sicafg](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sicafg.md)
+- [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/size.md)
+- [mean](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/mean.md)
+- [W](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/W.md)
+- [log](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/log.md)
+- [abs](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/abs.md)
+- [reshape](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/reshape.md)
+- [exponents ](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/exponents .md)
+- [x ](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/x .md)

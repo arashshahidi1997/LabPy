@@ -1,0 +1,20 @@
+# Clickemall
+
+## Function Calls
+- [strcmp](Graphics/strcmp.md)
+- [set](Graphics/set.md)
+- [others ](Graphics/others .md)
+- [clear](Graphics/clear.md)
+- [sum](Graphics/sum.md)
+- [hLines](Graphics/hLines.md)
+- [delete](Graphics/delete.md)
+- [double](Graphics/double.md)
+- [hPan](Graphics/hPan.md)
+- [isempty](Graphics/isempty.md)
+- [Lines](Graphics/Lines.md)
+- [mousecoord](Graphics/mousecoord.md)
+- [Clickemall](Graphics/Clickemall.md)
+- [DefaultArgs](Graphics/DefaultArgs.md)
+- [isnan](Graphics/isnan.md)
+- [get](Graphics/get.md)
+- [length](Graphics/length.md)

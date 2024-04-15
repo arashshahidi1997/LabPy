@@ -1,0 +1,22 @@
+# SaveBinary
+
+## Function Calls
+- [ischar](IO/ischar.md)
+- [num2str](IO/num2str.md)
+- [Copyright ](IO/Copyright .md)
+- [isstring](IO/isstring.md)
+- [parameters ](IO/parameters .md)
+- [fwrite](IO/fwrite.md)
+- [mod](IO/mod.md)
+- [SaveBinary](IO/SaveBinary.md)
+- [fopen](IO/fopen.md)
+- [property ](IO/property .md)
+- [pairs ](IO/pairs .md)
+- [switch](IO/switch.md)
+- [length](IO/length.md)
+- [lower](IO/lower.md)
+- [precision ](IO/precision .md)
+- [error](IO/error.md)
+- [fclose](IO/fclose.md)
+- [fseek](IO/fseek.md)
+- [writing ](IO/writing .md)

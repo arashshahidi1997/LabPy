@@ -1,0 +1,22 @@
+# confplot
+
+## Function Calls
+- [std](Graphics/std.md)
+- [min](Graphics/min.md)
+- [eval](Graphics/eval.md)
+- [set](Graphics/set.md)
+- [sin](Graphics/sin.md)
+- [PhD ](Graphics/PhD .md)
+- [confplot](Graphics/confplot.md)
+- [get](Graphics/get.md)
+- [disp](Graphics/disp.md)
+- [if ](Graphics/if .md)
+- [delete](Graphics/delete.md)
+- [size](Graphics/size.md)
+- [CONFPLOT](Graphics/CONFPLOT.md)
+- [area](Graphics/area.md)
+- [length](Graphics/length.md)
+- [ones](Graphics/ones.md)
+- [plot](Graphics/plot.md)
+- [isempty](Graphics/isempty.md)
+- [sprintf](Graphics/sprintf.md)

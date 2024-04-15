@@ -1,0 +1,23 @@
+# LoadMyPar
+
+## Function Calls
+- [session ](basic_lfp_analysis/helpers/session .md)
+- [textscan](basic_lfp_analysis/helpers/textscan.md)
+- [LoadMyPar](basic_lfp_analysis/helpers/LoadMyPar.md)
+- [strcmp](basic_lfp_analysis/helpers/strcmp.md)
+- [fopen](basic_lfp_analysis/helpers/fopen.md)
+- [rem](basic_lfp_analysis/helpers/rem.md)
+- [find](basic_lfp_analysis/helpers/find.md)
+- [isnumeric](basic_lfp_analysis/helpers/isnumeric.md)
+- [dots ](basic_lfp_analysis/helpers/dots .md)
+- [length](basic_lfp_analysis/helpers/length.md)
+- [str2num](basic_lfp_analysis/helpers/str2num.md)
+- [exist](basic_lfp_analysis/helpers/exist.md)
+- [ext](basic_lfp_analysis/helpers/ext.md)
+- [isempty](basic_lfp_analysis/helpers/isempty.md)
+- [error](basic_lfp_analysis/helpers/error.md)
+- [sprintf](basic_lfp_analysis/helpers/sprintf.md)
+- [fclose](basic_lfp_analysis/helpers/fclose.md)
+- [fileparts](basic_lfp_analysis/helpers/fileparts.md)
+- [fprintf](basic_lfp_analysis/helpers/fprintf.md)
+- [repmat](basic_lfp_analysis/helpers/repmat.md)

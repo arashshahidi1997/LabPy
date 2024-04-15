@@ -1,0 +1,20 @@
+# SetStructFields
+
+## Function Calls
+- [SUBSASGN](Behavior/draft/SUBSASGN.md)
+- [Sfrom](Behavior/draft/Sfrom.md)
+- [cat](Behavior/draft/cat.md)
+- [subsasgn](Behavior/draft/subsasgn.md)
+- [shiftdim](Behavior/draft/shiftdim.md)
+- [SetStructFields](Behavior/draft/SetStructFields.md)
+- [max](Behavior/draft/max.md)
+- [A](Behavior/draft/A.md)
+- [isempty](Behavior/draft/isempty.md)
+- [sz](Behavior/draft/sz.md)
+- [size](Behavior/draft/size.md)
+- [S](Behavior/draft/S.md)
+- [struct](Behavior/draft/struct.md)
+- [DefaultArgs](Behavior/draft/DefaultArgs.md)
+- [name](Behavior/draft/name.md)
+- [length](Behavior/draft/length.md)
+- [fieldnames](Behavior/draft/fieldnames.md)

@@ -1,0 +1,21 @@
+# HistFiring
+
+## Function Calls
+- [isstr](TF/isstr.md)
+- [zeros](TF/zeros.md)
+- [if ](TF/if .md)
+- [h](TF/h.md)
+- [t](TF/t.md)
+- [max](TF/max.md)
+- [Res](TF/Res.md)
+- [histc](TF/histc.md)
+- [tRange](TF/tRange.md)
+- [LoadClu](TF/LoadClu.md)
+- [range ](TF/range .md)
+- [min](TF/min.md)
+- [ceil](TF/ceil.md)
+- [mean](TF/mean.md)
+- [f](TF/f.md)
+- [HistFiring](TF/HistFiring.md)
+- [load](TF/load.md)
+- [find](TF/find.md)

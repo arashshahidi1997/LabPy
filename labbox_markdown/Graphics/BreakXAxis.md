@@ -1,0 +1,23 @@
+# BreakXAxis
+
+## Function Calls
+- [y](Graphics/y.md)
+- [rand](Graphics/rand.md)
+- [x2](Graphics/x2.md)
+- [min](Graphics/min.md)
+- [text](Graphics/text.md)
+- [ytick](Graphics/ytick.md)
+- [set](Graphics/set.md)
+- [sin](Graphics/sin.md)
+- [x](Graphics/x.md)
+- [get](Graphics/get.md)
+- [BreakXAxis](Graphics/BreakXAxis.md)
+- [find](Graphics/find.md)
+- [max](Graphics/max.md)
+- [floor](Graphics/floor.md)
+- [size](Graphics/size.md)
+- [length](Graphics/length.md)
+- [sum](Graphics/sum.md)
+- [plot](Graphics/plot.md)
+- [sprintf](Graphics/sprintf.md)
+- [xtick](Graphics/xtick.md)

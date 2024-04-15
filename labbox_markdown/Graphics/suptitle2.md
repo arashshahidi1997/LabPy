@@ -1,0 +1,22 @@
+# suptitle2
+
+## Function Calls
+- [version ](Graphics/version .md)
+- [text](Graphics/text.md)
+- [pos](Graphics/pos.md)
+- [strcmp](Graphics/strcmp.md)
+- [set](Graphics/set.md)
+- [get](Graphics/get.md)
+- [ishandle](Graphics/ishandle.md)
+- [if ](Graphics/if .md)
+- [delete](Graphics/delete.md)
+- [height ](Graphics/height .md)
+- [findobj](Graphics/findobj.md)
+- [axes](Graphics/axes.md)
+- [length](Graphics/length.md)
+- [h](Graphics/h.md)
+- [ch](Graphics/ch.md)
+- [SUPTITLE](Graphics/SUPTITLE.md)
+- [the ](Graphics/the .md)
+- [subplots ](Graphics/subplots .md)
+- [suptitle2](Graphics/suptitle2.md)

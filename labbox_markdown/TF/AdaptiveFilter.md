@@ -1,0 +1,21 @@
+# AdaptiveFilter
+
+## Function Calls
+- [dbs](TF/dbs.md)
+- [y](TF/y.md)
+- [strcmp](TF/strcmp.md)
+- [hilbert](TF/hilbert.md)
+- [AdaptiveFilter](TF/AdaptiveFilter.md)
+- [median](TF/median.md)
+- [MTFilter](TF/MTFilter.md)
+- [myRange](TF/myRange.md)
+- [repmat](TF/repmat.md)
+- [size](TF/size.md)
+- [RayleighTest](TF/RayleighTest.md)
+- [x](TF/x.md)
+- [angle](TF/angle.md)
+- [DefaultArgs](TF/DefaultArgs.md)
+- [nextpow2](TF/nextpow2.md)
+- [ButFilter](TF/ButFilter.md)
+- [ProcessInChunks](TF/ProcessInChunks.md)
+- [length](TF/length.md)

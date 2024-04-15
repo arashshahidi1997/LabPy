@@ -1,0 +1,23 @@
+# avgNSx
+
+## Function Calls
+- [TimeStamp](IO/blackrock/NPMK/TimeStamp.md)
+- [zeros](IO/blackrock/NPMK/zeros.md)
+- [double](IO/blackrock/NPMK/double.md)
+- [avgWindow](IO/blackrock/NPMK/avgWindow.md)
+- [channels](IO/blackrock/NPMK/channels.md)
+- [event ](IO/blackrock/NPMK/event .md)
+- [elseif ](IO/blackrock/NPMK/elseif .md)
+- [cell](IO/blackrock/NPMK/cell.md)
+- [avgNSx](IO/blackrock/NPMK/avgNSx.md)
+- [disp](IO/blackrock/NPMK/disp.md)
+- [if ](IO/blackrock/NPMK/if .md)
+- [Data](IO/blackrock/NPMK/Data.md)
+- [max](IO/blackrock/NPMK/max.md)
+- [floor](IO/blackrock/NPMK/floor.md)
+- [size](IO/blackrock/NPMK/size.md)
+- [timeIdx](IO/blackrock/NPMK/timeIdx.md)
+- [length](IO/blackrock/NPMK/length.md)
+- [strcmpi](IO/blackrock/NPMK/strcmpi.md)
+- [isempty](IO/blackrock/NPMK/isempty.md)
+- [uint32](IO/blackrock/NPMK/uint32.md)

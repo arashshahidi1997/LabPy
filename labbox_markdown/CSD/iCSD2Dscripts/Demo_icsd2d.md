@@ -1,0 +1,20 @@
+# Demo_icsd2d
+
+## Function Calls
+- [squeeze](CSD/iCSD2Dscripts/squeeze.md)
+- [exist](CSD/iCSD2Dscripts/exist.md)
+- [not](CSD/iCSD2Dscripts/not.md)
+- [colormap](CSD/iCSD2Dscripts/colormap.md)
+- [data ](CSD/iCSD2Dscripts/data .md)
+- [splines ](CSD/iCSD2Dscripts/splines .md)
+- [max](CSD/iCSD2Dscripts/max.md)
+- [flipud](CSD/iCSD2Dscripts/flipud.md)
+- [initspline2d](CSD/iCSD2Dscripts/initspline2d.md)
+- [icsd2d](CSD/iCSD2Dscripts/icsd2d.md)
+- [fullfile](CSD/iCSD2Dscripts/fullfile.md)
+- [abs](CSD/iCSD2Dscripts/abs.md)
+- [interp2d](CSD/iCSD2Dscripts/interp2d.md)
+- [csd2](CSD/iCSD2Dscripts/csd2.md)
+- [initlin2d](CSD/iCSD2Dscripts/initlin2d.md)
+- [load](CSD/iCSD2Dscripts/load.md)
+- [imagesc](CSD/iCSD2Dscripts/imagesc.md)

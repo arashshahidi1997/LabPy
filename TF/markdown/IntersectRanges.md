@@ -1,12 +1,12 @@
 # IntersectRanges
 
 ## Function Calls
-- zeros (external or built-in)
-- max (external or built-in)
-- [IntersectRanges](IntersectRanges.md)
-- v1 (external or built-in)
-- size (external or built-in)
-- min (external or built-in)
-- R1 (external or built-in)
-- R2 (external or built-in)
-- v2 (external or built-in)
+- [zeros](./zeros.md)
+- [max](./max.md)
+- [IntersectRanges](./IntersectRanges.md)
+- [v1](./v1.md)
+- [size](./size.md)
+- [min](./min.md)
+- [R1](./R1.md)
+- [R2](./R2.md)
+- [v2](./v2.md)

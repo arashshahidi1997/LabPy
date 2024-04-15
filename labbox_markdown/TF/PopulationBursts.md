@@ -1,0 +1,20 @@
+# PopulationBursts
+
+## Function Calls
+- [histcI](TF/histcI.md)
+- [sort](TF/sort.md)
+- [PopulationBursts](TF/PopulationBursts.md)
+- [sum](TF/sum.md)
+- [zeros](TF/zeros.md)
+- [cnt](TF/cnt.md)
+- [BurstBool](TF/BurstBool.md)
+- [max](TF/max.md)
+- [Res](TF/Res.md)
+- [Ind](TF/Ind.md)
+- [Clu](TF/Clu.md)
+- [SplitIntoBursts](TF/SplitIntoBursts.md)
+- [Accumulate](TF/Accumulate.md)
+- [sq](TF/sq.md)
+- [Burst](TF/Burst.md)
+- [linspace](TF/linspace.md)
+- [length](TF/length.md)

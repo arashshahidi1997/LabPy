@@ -1,0 +1,22 @@
+# compute_Ematrixes
+
+## Function Calls
+- [zeros](CSD/CSDplotter-0.1.1/methods/zeros.md)
+- [C_j0](CSD/CSDplotter-0.1.1/methods/C_j0.md)
+- [diff](CSD/CSDplotter-0.1.1/methods/diff.md)
+- [Tjp1](CSD/CSDplotter-0.1.1/methods/Tjp1.md)
+- [matrix ](CSD/CSDplotter-0.1.1/methods/matrix .md)
+- [C_jall](CSD/CSDplotter-0.1.1/methods/C_jall.md)
+- [C_vec](CSD/CSDplotter-0.1.1/methods/C_vec.md)
+- [Tj0](CSD/CSDplotter-0.1.1/methods/Tj0.md)
+- [C_mat3](CSD/CSDplotter-0.1.1/methods/C_mat3.md)
+- [length](CSD/CSDplotter-0.1.1/methods/length.md)
+- [compute_Ematrixes](CSD/CSDplotter-0.1.1/methods/compute_Ematrixes.md)
+- [Tjp1a](CSD/CSDplotter-0.1.1/methods/Tjp1a.md)
+- [el_pos](CSD/CSDplotter-0.1.1/methods/el_pos.md)
+- [sum](CSD/CSDplotter-0.1.1/methods/sum.md)
+- [eye](CSD/CSDplotter-0.1.1/methods/eye.md)
+- [C_jm1](CSD/CSDplotter-0.1.1/methods/C_jm1.md)
+- [Tja](CSD/CSDplotter-0.1.1/methods/Tja.md)
+- [Tjm1](CSD/CSDplotter-0.1.1/methods/Tjm1.md)
+- [z_js](CSD/CSDplotter-0.1.1/methods/z_js.md)

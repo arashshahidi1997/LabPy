@@ -1,0 +1,20 @@
+# ibar
+
+## Function Calls
+- [str2num](Graphics/str2num.md)
+- [set](Graphics/set.md)
+- [if ](Graphics/if .md)
+- [h](Graphics/h.md)
+- [delete](Graphics/delete.md)
+- [LENGTH](Graphics/LENGTH.md)
+- [vtemp2](Graphics/vtemp2.md)
+- [ibar](Graphics/ibar.md)
+- [rand](Graphics/rand.md)
+- [iscell](Graphics/iscell.md)
+- [patch](Graphics/patch.md)
+- [size](Graphics/size.md)
+- [vtemp](Graphics/vtemp.md)
+- [get](Graphics/get.md)
+- [bar](Graphics/bar.md)
+- [v](Graphics/v.md)
+- [length](Graphics/length.md)

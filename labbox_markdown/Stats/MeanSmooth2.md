@@ -1,0 +1,23 @@
+# MeanSmooth2
+
+## Function Calls
+- [m](Stats/m.md)
+- [zeros](Stats/zeros.md)
+- [std](Stats/std.md)
+- [min](Stats/min.md)
+- [MeanSmooth2](Stats/MeanSmooth2.md)
+- [range](Stats/range.md)
+- [xBins](Stats/xBins.md)
+- [yBins](Stats/yBins.md)
+- [mean](Stats/mean.md)
+- [x](Stats/x.md)
+- [find](Stats/find.md)
+- [if ](Stats/if .md)
+- [sqrt](Stats/sqrt.md)
+- [size](Stats/size.md)
+- [MeanSmooth](Stats/MeanSmooth.md)
+- [stderr](Stats/stderr.md)
+- [length](Stats/length.md)
+- [z](Stats/z.md)
+- [isempty](Stats/isempty.md)
+- [sd](Stats/sd.md)
