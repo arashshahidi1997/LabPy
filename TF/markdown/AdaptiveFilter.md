@@ -1,0 +1,21 @@
+# AdaptiveFilter
+
+## Function Calls
+- dbs (external or built-in)
+- y (external or built-in)
+- strcmp (external or built-in)
+- hilbert (external or built-in)
+- [AdaptiveFilter](AdaptiveFilter.md)
+- median (external or built-in)
+- [MTFilter](MTFilter.md)
+- myRange (external or built-in)
+- repmat (external or built-in)
+- size (external or built-in)
+- RayleighTest (external or built-in)
+- x (external or built-in)
+- angle (external or built-in)
+- DefaultArgs (external or built-in)
+- nextpow2 (external or built-in)
+- [ButFilter](ButFilter.md)
+- ProcessInChunks (external or built-in)
+- length (external or built-in)

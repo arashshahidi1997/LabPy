@@ -1,0 +1,20 @@
+# mtparamEd
+
+## Function Calls
+- imag (external or built-in)
+- cat (external or built-in)
+- if  (external or built-in)
+- round (external or built-in)
+- max (external or built-in)
+- nOverlap (external or built-in)
+- rem (external or built-in)
+- isempty (external or built-in)
+- fix (external or built-in)
+- size (external or built-in)
+- any (external or built-in)
+- FreqRange (external or built-in)
+- [mtparam](mtparam.md)
+- isreal (external or built-in)
+- f (external or built-in)
+- length (external or built-in)
+- find (external or built-in)

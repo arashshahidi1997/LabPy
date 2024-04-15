@@ -1,0 +1,21 @@
+# SmoothFiring
+
+## Function Calls
+- isstr (external or built-in)
+- sparse (external or built-in)
+- sum (external or built-in)
+- zeros (external or built-in)
+- if  (external or built-in)
+- max (external or built-in)
+- Res (external or built-in)
+- floor (external or built-in)
+- [SmoothFiring](SmoothFiring.md)
+- tRange (external or built-in)
+- LoadClu (external or built-in)
+- range  (external or built-in)
+- min (external or built-in)
+- ceil (external or built-in)
+- f (external or built-in)
+- load (external or built-in)
+- length (external or built-in)
+- find (external or built-in)

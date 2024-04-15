@@ -1,0 +1,23 @@
+# SplitIntoBursts
+
+## Function Calls
+- ToSum (external or built-in)
+- zeros (external or built-in)
+- cumsum (external or built-in)
+- event  (external or built-in)
+- [SplitIntoBursts](SplitIntoBursts.md)
+- BurstLen (external or built-in)
+- events  (external or built-in)
+- Res (external or built-in)
+- diff (external or built-in)
+- warning (external or built-in)
+- Burst (external or built-in)
+- train  (external or built-in)
+- find (external or built-in)
+- BurstInd (external or built-in)
+- ToSum2 (external or built-in)
+- length (external or built-in)
+- ones (external or built-in)
+- FromBurst (external or built-in)
+- isempty (external or built-in)
+- BurstStop (external or built-in)

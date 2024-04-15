@@ -1,0 +1,21 @@
+# Scalogram
+
+## Function Calls
+- log2 (external or built-in)
+- taxis (external or built-in)
+- sqrt (external or built-in)
+- log10 (external or built-in)
+- round (external or built-in)
+- sc (external or built-in)
+- diff (external or built-in)
+- isempty (external or built-in)
+- uimagesc (external or built-in)
+- FreqRange (external or built-in)
+- abs (external or built-in)
+- [Scalogram](Scalogram.md)
+- DefaultArgs (external or built-in)
+- period  (external or built-in)
+- mother  (external or built-in)
+- time (external or built-in)
+- length (external or built-in)
+- [Wavelet](Wavelet.md)

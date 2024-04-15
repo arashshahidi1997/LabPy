@@ -1,0 +1,20 @@
+# ShufflePhase
+
+## Function Calls
+- Mine (external or built-in)
+- ones (external or built-in)
+- sort (external or built-in)
+- PhMod (external or built-in)
+- mod (external or built-in)
+- ShuffleClus (external or built-in)
+- SpkPh (external or built-in)
+- [ShufflePhase](ShufflePhase.md)
+- unique (external or built-in)
+- isempty (external or built-in)
+- rand (external or built-in)
+- Clu (external or built-in)
+- PermMat (external or built-in)
+- size (external or built-in)
+- repmat (external or built-in)
+- length (external or built-in)
+- find (external or built-in)

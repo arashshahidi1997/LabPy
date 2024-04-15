@@ -1,0 +1,21 @@
+# HistFiring
+
+## Function Calls
+- isstr (external or built-in)
+- zeros (external or built-in)
+- if  (external or built-in)
+- h (external or built-in)
+- t (external or built-in)
+- max (external or built-in)
+- Res (external or built-in)
+- histc (external or built-in)
+- tRange (external or built-in)
+- LoadClu (external or built-in)
+- range  (external or built-in)
+- min (external or built-in)
+- ceil (external or built-in)
+- mean (external or built-in)
+- f (external or built-in)
+- [HistFiring](HistFiring.md)
+- load (external or built-in)
+- find (external or built-in)

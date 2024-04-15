@@ -1,0 +1,20 @@
+# PopulationBursts
+
+## Function Calls
+- histcI (external or built-in)
+- sort (external or built-in)
+- [PopulationBursts](PopulationBursts.md)
+- sum (external or built-in)
+- zeros (external or built-in)
+- cnt (external or built-in)
+- BurstBool (external or built-in)
+- max (external or built-in)
+- Res (external or built-in)
+- Ind (external or built-in)
+- Clu (external or built-in)
+- [SplitIntoBursts](SplitIntoBursts.md)
+- Accumulate (external or built-in)
+- sq (external or built-in)
+- Burst (external or built-in)
+- linspace (external or built-in)
+- length (external or built-in)
