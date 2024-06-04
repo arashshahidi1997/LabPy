@@ -27,7 +27,7 @@
 - [EMG_Prd](EMG_removing/EMG/EMG_Prd.md)
 - [FileName](EMG_removing/EMG/FileName.md)
 - [p1](EMG_removing/EMG/p1.md)
-- [EMG_rm_viewnoise](EMG_removing/EMG/EMG_rm_viewnoise.md)
+- [EMG_rm_viewnoise](EMG_rm_viewnoise.md)
 - [ceil](EMG_removing/EMG/ceil.md)
 - [time ](EMG_removing/EMG/time .md)
 - [length](EMG_removing/EMG/length.md)

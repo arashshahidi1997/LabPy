@@ -5,5 +5,5 @@
 - [ux](Helper/ux.md)
 - [size](Helper/size.md)
 - [x](Helper/x.md)
-- [mud](Helper/mud.md)
-- [MakeUniformDistr](Helper/MakeUniformDistr.md)
+- [mud](mud.md)
+- [MakeUniformDistr](MakeUniformDistr.md)

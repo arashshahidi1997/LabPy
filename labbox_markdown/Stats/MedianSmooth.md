@@ -18,4 +18,4 @@
 - [find](Stats/find.md)
 - [Bins](Stats/Bins.md)
 - [length](Stats/length.md)
-- [MedianSmooth](Stats/MedianSmooth.md)
+- [MedianSmooth](MedianSmooth.md)

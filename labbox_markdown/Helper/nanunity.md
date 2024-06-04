@@ -6,6 +6,6 @@
 - [std](Helper/std.md)
 - [mean](Helper/mean.md)
 - [size](Helper/size.md)
-- [unity](Helper/unity.md)
+- [unity](unity.md)
 - [nanmean](Helper/nanmean.md)
-- [nanunity](Helper/nanunity.md)
+- [nanunity](nanunity.md)

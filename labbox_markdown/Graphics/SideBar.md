@@ -1,7 +1,7 @@
 # SideBar
 
 ## Function Calls
-- [SideBar](Graphics/SideBar.md)
+- [SideBar](SideBar.md)
 - [set](Graphics/set.md)
 - [fullsize ](Graphics/fullsize .md)
 - [colorbar](Graphics/colorbar.md)

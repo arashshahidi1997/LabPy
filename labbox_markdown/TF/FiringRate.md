@@ -7,7 +7,7 @@
 - [unique](TF/unique.md)
 - [Res](TF/Res.md)
 - [diff](TF/diff.md)
-- [FiringRate](TF/FiringRate.md)
+- [FiringRate](FiringRate.md)
 - [isempty](TF/isempty.md)
 - [myISI](TF/myISI.md)
 - [LoadClu](TF/LoadClu.md)

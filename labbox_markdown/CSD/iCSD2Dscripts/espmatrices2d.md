@@ -9,4 +9,4 @@
 - [Gy](CSD/iCSD2Dscripts/Gy.md)
 - [espmatrices2d ](CSD/iCSD2Dscripts/espmatrices2d .md)
 - [E](CSD/iCSD2Dscripts/E.md)
-- [gmatrix](CSD/iCSD2Dscripts/gmatrix.md)
+- [gmatrix](gmatrix.md)

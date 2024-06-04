@@ -1,7 +1,7 @@
 # SavePar1
 
 ## Function Calls
-- [SavePar1](IO/SavePar1.md)
+- [SavePar1](SavePar1.md)
 - [fopen](IO/fopen.md)
 - [A](IO/A.md)
 - [fclose](IO/fclose.md)

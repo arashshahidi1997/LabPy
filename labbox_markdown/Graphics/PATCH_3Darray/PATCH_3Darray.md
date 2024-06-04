@@ -42,7 +42,7 @@
 - [gridY ](Graphics/PATCH_3Darray/gridY .md)
 - [find](Graphics/PATCH_3Darray/find.md)
 - [cmap](Graphics/PATCH_3Darray/cmap.md)
-- [PATCH_3Darray](Graphics/PATCH_3Darray/PATCH_3Darray.md)
+- [PATCH_3Darray](PATCH_3Darray.md)
 - [gridXsteps](Graphics/PATCH_3Darray/gridXsteps.md)
 - [normalCOtemp](Graphics/PATCH_3Darray/normalCOtemp.md)
 - [gridZ ](Graphics/PATCH_3Darray/gridZ .md)

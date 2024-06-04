@@ -3,7 +3,7 @@
 ## Function Calls
 - [zeros](TF/zeros.md)
 - [max](TF/max.md)
-- [IntersectRanges](TF/IntersectRanges.md)
+- [IntersectRanges](IntersectRanges.md)
 - [v1](TF/v1.md)
 - [size](TF/size.md)
 - [min](TF/min.md)

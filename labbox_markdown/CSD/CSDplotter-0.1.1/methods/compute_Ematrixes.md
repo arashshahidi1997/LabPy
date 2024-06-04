@@ -11,7 +11,7 @@
 - [Tj0](CSD/CSDplotter-0.1.1/methods/Tj0.md)
 - [C_mat3](CSD/CSDplotter-0.1.1/methods/C_mat3.md)
 - [length](CSD/CSDplotter-0.1.1/methods/length.md)
-- [compute_Ematrixes](CSD/CSDplotter-0.1.1/methods/compute_Ematrixes.md)
+- [compute_Ematrixes](compute_Ematrixes.md)
 - [Tjp1a](CSD/CSDplotter-0.1.1/methods/Tjp1a.md)
 - [el_pos](CSD/CSDplotter-0.1.1/methods/el_pos.md)
 - [sum](CSD/CSDplotter-0.1.1/methods/sum.md)

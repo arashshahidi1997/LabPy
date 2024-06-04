@@ -31,7 +31,7 @@
 - [values ](basic_lfp_analysis/theta/values .md)
 - [PowerHarm](basic_lfp_analysis/theta/PowerHarm.md)
 - [SessionList](basic_lfp_analysis/theta/SessionList.md)
-- [ThetaHarmonicsQuantification1_GroupStat2](basic_lfp_analysis/theta/ThetaHarmonicsQuantification1_GroupStat2.md)
+- [ThetaHarmonicsQuantification1_GroupStat2](ThetaHarmonicsQuantification1_GroupStat2.md)
 - [diff](basic_lfp_analysis/theta/diff.md)
 - [GROUPS ](basic_lfp_analysis/theta/GROUPS .md)
 - [save](basic_lfp_analysis/theta/save.md)

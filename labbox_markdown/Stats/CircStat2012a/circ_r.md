@@ -11,4 +11,4 @@
 - [abs](Stats/CircStat2012a/abs.md)
 - [exp](Stats/CircStat2012a/exp.md)
 - [r ](Stats/CircStat2012a/r .md)
-- [circ_r](Stats/CircStat2012a/circ_r.md)
+- [circ_r](circ_r.md)

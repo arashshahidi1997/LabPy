@@ -12,7 +12,7 @@
 - [fread](basic_lfp_analysis/drift/fread.md)
 - [nPer](basic_lfp_analysis/drift/nPer.md)
 - [fwrite](basic_lfp_analysis/drift/fwrite.md)
-- [CorrectDrift](basic_lfp_analysis/drift/CorrectDrift.md)
+- [CorrectDrift](CorrectDrift.md)
 - [Block](basic_lfp_analysis/drift/Block.md)
 - [sin](basic_lfp_analysis/drift/sin.md)
 - [int16](basic_lfp_analysis/drift/int16.md)

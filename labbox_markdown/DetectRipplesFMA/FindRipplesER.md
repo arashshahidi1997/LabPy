@@ -69,7 +69,7 @@
 - [long ](DetectRipplesFMA/long .md)
 - [NaN](DetectRipplesFMA/NaN.md)
 - [j](DetectRipplesFMA/j.md)
-- [FindRipplesER](DetectRipplesFMA/FindRipplesER.md)
+- [FindRipplesER](FindRipplesER.md)
 - [min](DetectRipplesFMA/min.md)
 - [title](DetectRipplesFMA/title.md)
 - [MaxNormalizedPowerOnNoiseChan](DetectRipplesFMA/MaxNormalizedPowerOnNoiseChan.md)

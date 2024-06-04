@@ -6,6 +6,6 @@
 - [error](Stats/error.md)
 - [besseli](Stats/besseli.md)
 - [exp](Stats/exp.md)
-- [VonMisesPdf](Stats/VonMisesPdf.md)
+- [VonMisesPdf](VonMisesPdf.md)
 - [VonMises](Stats/VonMises.md)
-- [VonMisesFit](Stats/VonMisesFit.md)
+- [VonMisesFit](VonMisesFit.md)

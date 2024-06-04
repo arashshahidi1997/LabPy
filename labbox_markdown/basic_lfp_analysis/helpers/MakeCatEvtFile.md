@@ -1,7 +1,7 @@
 # MakeCatEvtFile
 
 ## Function Calls
-- [SessionLength](basic_lfp_analysis/helpers/SessionLength.md)
+- [SessionLength](SessionLength.md)
 - [exist](basic_lfp_analysis/helpers/exist.md)
 - [session ](basic_lfp_analysis/helpers/session .md)
 - [t](basic_lfp_analysis/helpers/t.md)
@@ -10,7 +10,7 @@
 - [error](basic_lfp_analysis/helpers/error.md)
 - [sprintf](basic_lfp_analysis/helpers/sprintf.md)
 - [fclose](basic_lfp_analysis/helpers/fclose.md)
-- [MakeCatEvtFile](basic_lfp_analysis/helpers/MakeCatEvtFile.md)
+- [MakeCatEvtFile](MakeCatEvtFile.md)
 - [Evgeny ](basic_lfp_analysis/helpers/Evgeny .md)
 - [fprintf](basic_lfp_analysis/helpers/fprintf.md)
 - [length ](basic_lfp_analysis/helpers/length .md)

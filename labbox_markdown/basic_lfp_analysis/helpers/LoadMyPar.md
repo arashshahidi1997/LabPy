@@ -3,7 +3,7 @@
 ## Function Calls
 - [session ](basic_lfp_analysis/helpers/session .md)
 - [textscan](basic_lfp_analysis/helpers/textscan.md)
-- [LoadMyPar](basic_lfp_analysis/helpers/LoadMyPar.md)
+- [LoadMyPar](LoadMyPar.md)
 - [strcmp](basic_lfp_analysis/helpers/strcmp.md)
 - [fopen](basic_lfp_analysis/helpers/fopen.md)
 - [rem](basic_lfp_analysis/helpers/rem.md)

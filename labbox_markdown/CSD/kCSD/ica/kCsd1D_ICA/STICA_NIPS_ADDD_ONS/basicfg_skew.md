@@ -20,7 +20,7 @@
 - [col ](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/col .md)
 - [g](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/g.md)
 - [sqrt](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sqrt.md)
-- [basicfg_skew](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/basicfg_skew.md)
+- [basicfg_skew](basicfg_skew.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/size.md)
 - [ones](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/ones.md)
 - [sum](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sum.md)

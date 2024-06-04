@@ -8,7 +8,7 @@
 - [delete](Graphics/delete.md)
 - [LENGTH](Graphics/LENGTH.md)
 - [vtemp2](Graphics/vtemp2.md)
-- [ibar](Graphics/ibar.md)
+- [ibar](ibar.md)
 - [rand](Graphics/rand.md)
 - [iscell](Graphics/iscell.md)
 - [patch](Graphics/patch.md)

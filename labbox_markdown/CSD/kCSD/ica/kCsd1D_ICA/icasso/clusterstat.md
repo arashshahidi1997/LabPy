@@ -12,7 +12,7 @@
 - [mean](CSD/kCSD/ica/kCsd1D_ICA/icasso/mean.md)
 - [find](CSD/kCSD/ica/kCsd1D_ICA/icasso/find.md)
 - [partition ](CSD/kCSD/ica/kCsd1D_ICA/icasso/partition .md)
-- [clusterstat](CSD/kCSD/ica/kCsd1D_ICA/icasso/clusterstat.md)
+- [clusterstat](clusterstat.md)
 - [avg](CSD/kCSD/ica/kCsd1D_ICA/icasso/avg.md)
 - [max](CSD/kCSD/ica/kCsd1D_ICA/icasso/max.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/icasso/size.md)

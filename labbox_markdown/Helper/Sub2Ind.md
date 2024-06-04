@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [SUBS](Helper/SUBS.md)
-- [SUB2IND](Helper/SUB2IND.md)
+- [Sub2Ind](Sub2Ind.md)
 - [IND](Helper/IND.md)
 - [subs](Helper/subs.md)
 - [k](Helper/k.md)
@@ -14,7 +14,7 @@
 - [if ](Helper/if .md)
 - [size](Helper/size.md)
 - [cumprod](Helper/cumprod.md)
-- [Sub2Ind](Helper/Sub2Ind.md)
+- [Sub2Ind](Sub2Ind.md)
 - [length](Helper/length.md)
 - [SIZE](Helper/SIZE.md)
 - [ones](Helper/ones.md)

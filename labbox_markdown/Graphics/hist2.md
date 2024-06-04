@@ -11,7 +11,7 @@
 - [set](Graphics/set.md)
 - [segments ](Graphics/segments .md)
 - [count ](Graphics/count .md)
-- [hist2](Graphics/hist2.md)
+- [hist2](hist2.md)
 - [nanmax](Graphics/nanmax.md)
 - [SmoothMatrix2](Graphics/SmoothMatrix2.md)
 - [warning](Graphics/warning.md)

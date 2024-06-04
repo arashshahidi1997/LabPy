@@ -10,5 +10,5 @@
 - [cell](CSD/kCSD/ica/kCsd1D/cell.md)
 - [Ind_train](CSD/kCSD/ica/kCsd1D/Ind_train.md)
 - [mean](CSD/kCSD/ica/kCsd1D/mean.md)
-- [cross_validation](CSD/kCSD/ica/kCsd1D/cross_validation.md)
-- [calc_err](CSD/kCSD/ica/kCsd1D/calc_err.md)
+- [cross_validation](cross_validation.md)
+- [calc_err](calc_err.md)

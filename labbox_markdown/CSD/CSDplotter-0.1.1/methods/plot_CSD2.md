@@ -7,7 +7,7 @@
 - [ylabel](CSD/CSDplotter-0.1.1/methods/ylabel.md)
 - [min](CSD/CSDplotter-0.1.1/methods/min.md)
 - [imagesc](CSD/CSDplotter-0.1.1/methods/imagesc.md)
-- [plot_CSD](CSD/CSDplotter-0.1.1/methods/plot_CSD.md)
+- [plot_CSD](plot_CSD.md)
 - [set](CSD/CSDplotter-0.1.1/methods/set.md)
 - [xlabel](CSD/CSDplotter-0.1.1/methods/xlabel.md)
 - [round](CSD/CSDplotter-0.1.1/methods/round.md)

@@ -9,7 +9,7 @@
 - [FileLength](basic_lfp_analysis/helpers/FileLength.md)
 - [fix](basic_lfp_analysis/helpers/fix.md)
 - [strcat](basic_lfp_analysis/helpers/strcat.md)
-- [SessionLength](basic_lfp_analysis/helpers/SessionLength.md)
+- [SessionLength](SessionLength.md)
 - [datatypesize](basic_lfp_analysis/helpers/datatypesize.md)
 - [ceil](basic_lfp_analysis/helpers/ceil.md)
 - [length](basic_lfp_analysis/helpers/length.md)

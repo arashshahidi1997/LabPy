@@ -11,7 +11,7 @@
 - [max](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/max.md)
 - [ind2sub](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/ind2sub.md)
 - [norm](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/norm.md)
-- [make_b_pot_matrix_2D](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/make_b_pot_matrix_2D.md)
+- [make_b_pot_matrix_2D](make_b_pot_matrix_2D.md)
 - [positions ](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/positions .md)
 - [size](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/size.md)
 - [min](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/min.md)

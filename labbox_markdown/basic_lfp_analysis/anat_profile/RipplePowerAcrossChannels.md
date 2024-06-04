@@ -63,7 +63,7 @@
 - [isempty](basic_lfp_analysis/anat_profile/isempty.md)
 - [upper](basic_lfp_analysis/anat_profile/upper.md)
 - [error](basic_lfp_analysis/anat_profile/error.md)
-- [RipplePowerAcrossChannels](basic_lfp_analysis/anat_profile/RipplePowerAcrossChannels.md)
+- [RipplePowerAcrossChannels](RipplePowerAcrossChannels.md)
 - [sprintf](basic_lfp_analysis/anat_profile/sprintf.md)
 - [FreqRange](basic_lfp_analysis/anat_profile/FreqRange.md)
 - [export_fig](basic_lfp_analysis/anat_profile/export_fig.md)

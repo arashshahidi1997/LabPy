@@ -9,7 +9,7 @@
 - [setdiff](Physiology/setdiff.md)
 - [size](Physiology/size.md)
 - [vectors ](Physiology/vectors .md)
-- [IsolationDistance](Physiology/IsolationDistance.md)
+- [IsolationDistance](IsolationDistance.md)
 - [spikes ](Physiology/spikes .md)
 - [Fet](Physiology/Fet.md)
 - [ismember](Physiology/ismember.md)

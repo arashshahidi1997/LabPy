@@ -7,7 +7,7 @@
 - [std](TF/std.md)
 - [mud](TF/mud.md)
 - [exp](TF/exp.md)
-- [PowerModulation](TF/PowerModulation.md)
+- [PowerModulation](PowerModulation.md)
 - [Rsh](TF/Rsh.md)
 - [mod](TF/mod.md)
 - [ind](TF/ind.md)

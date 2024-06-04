@@ -17,7 +17,7 @@
 - [nextpow2](basic_lfp_analysis/functional_connectivity/nextpow2.md)
 - [struct](basic_lfp_analysis/functional_connectivity/struct.md)
 - [round2](basic_lfp_analysis/functional_connectivity/round2.md)
-- [ProcessFunctionalConnectivity](basic_lfp_analysis/functional_connectivity/ProcessFunctionalConnectivity.md)
+- [ProcessFunctionalConnectivity](ProcessFunctionalConnectivity.md)
 - [ProcessFunctionalConnectivity_ChannelList                     ](basic_lfp_analysis/functional_connectivity/ProcessFunctionalConnectivity_ChannelList                     .md)
 - [yw](basic_lfp_analysis/functional_connectivity/yw.md)
 - [spectrograms ](basic_lfp_analysis/functional_connectivity/spectrograms .md)

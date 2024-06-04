@@ -5,7 +5,7 @@
 - [sort](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sort.md)
 - [diag](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/diag.md)
 - [sqrt](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sqrt.md)
-- [mv_pca](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/mv_pca.md)
+- [mv_pca](mv_pca.md)
 - [pca](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/pca.md)
 - [evec](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/evec.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/size.md)

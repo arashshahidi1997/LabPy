@@ -12,7 +12,7 @@
 - [tril](TF/tril.md)
 - [any](TF/any.md)
 - [abs](TF/abs.md)
-- [LocalMinimaN](TF/LocalMinimaN.md)
+- [LocalMinimaN](LocalMinimaN.md)
 - [isnan](TF/isnan.md)
 - [BelowThreshCol](TF/BelowThreshCol.md)
 - [vicinity ](TF/vicinity .md)

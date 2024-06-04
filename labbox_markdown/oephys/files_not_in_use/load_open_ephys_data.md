@@ -13,7 +13,7 @@
 - [isfield](oephys/files_not_in_use/isfield.md)
 - [reshape](oephys/files_not_in_use/reshape.md)
 - [strcmp](oephys/files_not_in_use/strcmp.md)
-- [load_open_ephys_data](oephys/files_not_in_use/load_open_ephys_data.md)
+- [load_open_ephys_data](load_open_ephys_data.md)
 - [elseif ](oephys/files_not_in_use/elseif .md)
 - [nsamples](oephys/files_not_in_use/nsamples.md)
 - [nodeId](oephys/files_not_in_use/nodeId.md)

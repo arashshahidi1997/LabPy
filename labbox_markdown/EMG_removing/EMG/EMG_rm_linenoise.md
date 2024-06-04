@@ -5,7 +5,7 @@
 - [W](EMG_removing/EMG/W.md)
 - [mtcsdfast](EMG_removing/EMG/mtcsdfast.md)
 - [fastica](EMG_removing/EMG/fastica.md)
-- [EMG_rm_linenoise](EMG_removing/EMG/EMG_rm_linenoise.md)
+- [EMG_rm_linenoise](EMG_rm_linenoise.md)
 - [A](EMG_removing/EMG/A.md)
 - [mean](EMG_removing/EMG/mean.md)
 - [x](EMG_removing/EMG/x.md)

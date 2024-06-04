@@ -4,7 +4,7 @@
 - [print](Graphics/print.md)
 - [strcmp](Graphics/strcmp.md)
 - [disp](Graphics/disp.md)
-- [SaveForIllustrator](Graphics/SaveForIllustrator.md)
+- [SaveForIllustrator](SaveForIllustrator.md)
 - [isempty](Graphics/isempty.md)
 - [error](Graphics/error.md)
 - [sprintf](Graphics/sprintf.md)

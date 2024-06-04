@@ -17,6 +17,6 @@
 - [pos_frame](EMG_removing/util/FastICA_25/pos_frame.md)
 - [uicontrol](EMG_removing/util/FastICA_25/uicontrol.md)
 - [findobj](EMG_removing/util/FastICA_25/findobj.md)
-- [gui_adv](EMG_removing/util/FastICA_25/gui_adv.md)
+- [gui_adv](gui_adv.md)
 - [isempty](EMG_removing/util/FastICA_25/isempty.md)
 - [error](EMG_removing/util/FastICA_25/error.md)

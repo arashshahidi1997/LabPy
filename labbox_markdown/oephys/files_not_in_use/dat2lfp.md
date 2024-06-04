@@ -13,7 +13,7 @@
 - [delete](oephys/files_not_in_use/delete.md)
 - [length](oephys/files_not_in_use/length.md)
 - [datfn](oephys/files_not_in_use/datfn.md)
-- [dat2lfp](oephys/files_not_in_use/dat2lfp.md)
+- [dat2lfp](dat2lfp.md)
 - [dir](oephys/files_not_in_use/dir.md)
 - [str2num](oephys/files_not_in_use/str2num.md)
 - [memmapfile](oephys/files_not_in_use/memmapfile.md)

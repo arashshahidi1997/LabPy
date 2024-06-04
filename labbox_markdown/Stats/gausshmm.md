@@ -4,7 +4,7 @@
 - [strfind](Stats/strfind.md)
 - [ones](Stats/ones.md)
 - [which](Stats/which.md)
-- [gausshmm](Stats/gausshmm.md)
+- [gausshmm](gausshmm.md)
 - [disp](Stats/disp.md)
 - [hmmtrain](Stats/hmmtrain.md)
 - [decode](Stats/decode.md)

@@ -25,7 +25,7 @@
 - [str2num](basic_lfp_analysis/helpers/str2num.md)
 - [AnatLayerTitle](basic_lfp_analysis/helpers/AnatLayerTitle.md)
 - [exist](basic_lfp_analysis/helpers/exist.md)
-- [LoadAnatLayers](basic_lfp_analysis/helpers/LoadAnatLayers.md)
+- [LoadAnatLayers](LoadAnatLayers.md)
 - [isempty](basic_lfp_analysis/helpers/isempty.md)
 - [error](basic_lfp_analysis/helpers/error.md)
 - [fclose](basic_lfp_analysis/helpers/fclose.md)

@@ -16,7 +16,7 @@
 - [char](IO/blackrock/conversion/char.md)
 - [length](IO/blackrock/conversion/length.md)
 - [Busse ](IO/blackrock/conversion/Busse .md)
-- [nsxHeader](IO/blackrock/conversion/nsxHeader.md)
+- [nsxHeader](nsxHeader.md)
 - [nullChar](IO/blackrock/conversion/nullChar.md)
 - [isempty](IO/blackrock/conversion/isempty.md)
 - [error](IO/blackrock/conversion/error.md)

@@ -4,6 +4,6 @@
 - [ftell](Helper/ftell.md)
 - [if ](Helper/if .md)
 - [fopen](Helper/fopen.md)
-- [FileLength](Helper/FileLength.md)
+- [FileLength](FileLength.md)
 - [fclose](Helper/fclose.md)
 - [fseek](Helper/fseek.md)

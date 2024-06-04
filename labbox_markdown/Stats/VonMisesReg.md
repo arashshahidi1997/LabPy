@@ -1,7 +1,7 @@
 # VonMisesReg
 
 ## Function Calls
-- [BesselRatInv](Stats/BesselRatInv.md)
+- [BesselRatInv](BesselRatInv.md)
 - [zeros](Stats/zeros.md)
 - [inline](Stats/inline.md)
 - [rand](Stats/rand.md)
@@ -12,7 +12,7 @@
 - [v](Stats/v.md)
 - [sin](Stats/sin.md)
 - [mod](Stats/mod.md)
-- [VonMisesReg](Stats/VonMisesReg.md)
+- [VonMisesReg](VonMisesReg.md)
 - [det](Stats/det.md)
 - [scg](Stats/scg.md)
 - [warning](Stats/warning.md)

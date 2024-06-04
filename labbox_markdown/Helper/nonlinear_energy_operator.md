@@ -2,5 +2,5 @@
 
 ## Function Calls
 - [y](Helper/y.md)
-- [nonlinear_energy_operator](Helper/nonlinear_energy_operator.md)
+- [nonlinear_energy_operator](nonlinear_energy_operator.md)
 - [x](Helper/x.md)

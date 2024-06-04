@@ -27,7 +27,7 @@
 - [ElecNum](IO/blackrock/NPMK/@KTUEAMapFile/ElecNum.md)
 - [getFilename](IO/blackrock/NPMK/@KTUEAMapFile/getFilename.md)
 - [disp](IO/blackrock/NPMK/@KTUEAMapFile/disp.md)
-- [KTUEAMapFile](IO/blackrock/NPMK/@KTUEAMapFile/KTUEAMapFile.md)
+- [KTUEAMapFile](KTUEAMapFile.md)
 - [Electrode](IO/blackrock/NPMK/@KTUEAMapFile/Electrode.md)
 - [setXAxisColor](IO/blackrock/NPMK/@KTUEAMapFile/setXAxisColor.md)
 - [properties ](IO/blackrock/NPMK/@KTUEAMapFile/properties .md)

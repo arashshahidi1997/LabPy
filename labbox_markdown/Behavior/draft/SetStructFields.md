@@ -6,7 +6,7 @@
 - [cat](Behavior/draft/cat.md)
 - [subsasgn](Behavior/draft/subsasgn.md)
 - [shiftdim](Behavior/draft/shiftdim.md)
-- [SetStructFields](Behavior/draft/SetStructFields.md)
+- [SetStructFields](SetStructFields.md)
 - [max](Behavior/draft/max.md)
 - [A](Behavior/draft/A.md)
 - [isempty](Behavior/draft/isempty.md)

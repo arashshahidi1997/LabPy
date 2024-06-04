@@ -39,6 +39,6 @@
 - [sval](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sval.md)
 - [subplot](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/subplot.md)
 - [image ](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/image .md)
-- [reshape_slices](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/reshape_slices.md)
+- [reshape_slices](reshape_slices.md)
 - [fprintf](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/fprintf.md)
 - [pcs](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/pcs.md)

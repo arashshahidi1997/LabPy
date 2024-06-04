@@ -23,7 +23,7 @@
 - [GAUSS](basic_lfp_analysis/behavior/GAUSS.md)
 - [angle ](basic_lfp_analysis/behavior/angle .md)
 - [x](basic_lfp_analysis/behavior/x.md)
-- [GetHeadAngleOne](basic_lfp_analysis/behavior/GetHeadAngleOne.md)
+- [GetHeadAngleOne](GetHeadAngleOne.md)
 - [isnan](basic_lfp_analysis/behavior/isnan.md)
 - [dlmread](basic_lfp_analysis/behavior/dlmread.md)
 - [timestamps ](basic_lfp_analysis/behavior/timestamps .md)

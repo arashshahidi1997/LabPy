@@ -6,4 +6,4 @@
 - [W](CSD/kCSD/ica/kCsd1D_ICA/STICA_FIND_VU_FAST/W.md)
 - [reshape](CSD/kCSD/ica/kCsd1D_ICA/STICA_FIND_VU_FAST/reshape.md)
 - [length](CSD/kCSD/ica/kCsd1D_ICA/STICA_FIND_VU_FAST/length.md)
-- [wts_uncollapse_nohid](CSD/kCSD/ica/kCsd1D_ICA/STICA_FIND_VU_FAST/wts_uncollapse_nohid.md)
+- [wts_uncollapse_nohid](wts_uncollapse_nohid.md)

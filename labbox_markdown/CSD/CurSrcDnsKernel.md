@@ -20,7 +20,7 @@
 - [length](CSD/length.md)
 - [deviation ](CSD/deviation .md)
 - [isempty](CSD/isempty.md)
-- [CurSrcDnsKernel](CSD/CurSrcDnsKernel.md)
+- [CurSrcDnsKernel](CurSrcDnsKernel.md)
 - [error](CSD/error.md)
 - [activity  ](CSD/activity  .md)
 - [DefaultArgs](CSD/DefaultArgs.md)

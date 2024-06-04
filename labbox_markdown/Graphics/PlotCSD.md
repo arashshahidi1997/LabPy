@@ -3,7 +3,7 @@
 ## Function Calls
 - [y](Graphics/y.md)
 - [tt](Graphics/tt.md)
-- [PlotManyCh](Graphics/PlotManyCh.md)
+- [PlotManyCh](PlotManyCh.md)
 - [Raster](Graphics/Raster.md)
 - [strcmp](Graphics/strcmp.md)
 - [set](Graphics/set.md)
@@ -29,5 +29,5 @@
 - [isempty](Graphics/isempty.md)
 - [DefaultArgs](Graphics/DefaultArgs.md)
 - [axh](Graphics/axh.md)
-- [PlotCSD](Graphics/PlotCSD.md)
+- [PlotCSD](PlotCSD.md)
 - [linspace](Graphics/linspace.md)

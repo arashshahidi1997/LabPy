@@ -2,10 +2,10 @@
 
 ## Function Calls
 - [isequal](Helper/isequal.md)
-- [mintersect](Helper/mintersect.md)
+- [mintersect](mintersect.md)
 - [intersect](Helper/intersect.md)
 - [isempty](Helper/isempty.md)
 - [error](Helper/error.md)
 - [length](Helper/length.md)
-- [MINTERSECT](Helper/MINTERSECT.md)
+- [mintersect](mintersect.md)
 - [varargin](Helper/varargin.md)

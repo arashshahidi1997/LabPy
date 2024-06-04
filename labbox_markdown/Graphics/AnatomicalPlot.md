@@ -10,4 +10,4 @@
 - [pcolor](Graphics/pcolor.md)
 - [DefaultArgs](Graphics/DefaultArgs.md)
 - [reshape](Graphics/reshape.md)
-- [AnatomicalPlot](Graphics/AnatomicalPlot.md)
+- [AnatomicalPlot](AnatomicalPlot.md)

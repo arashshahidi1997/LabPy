@@ -6,6 +6,6 @@
 - [ylim](Graphics/ylim.md)
 - [max](Graphics/max.md)
 - [uicontrol](Graphics/uicontrol.md)
-- [slider](Graphics/slider.md)
+- [slider](slider.md)
 - [get](Graphics/get.md)
 - [pos](Graphics/pos.md)

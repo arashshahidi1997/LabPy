@@ -1,5 +1,5 @@
 # LineCross
 
 ## Function Calls
-- [LineCross](Behavior/draft/LineCross.md)
+- [LineCross](LineCross.md)
 - [Lines](Behavior/draft/Lines.md)

@@ -6,7 +6,7 @@
 - [symrcm](EMG_removing/util/symrcm.md)
 - [diag](EMG_removing/util/diag.md)
 - [sqrt](EMG_removing/util/sqrt.md)
-- [ChannelAlignment](EMG_removing/util/ChannelAlignment.md)
+- [ChannelAlignment](ChannelAlignment.md)
 - [close](EMG_removing/util/close.md)
 - [linkage](EMG_removing/util/linkage.md)
 - [dendrogram](EMG_removing/util/dendrogram.md)

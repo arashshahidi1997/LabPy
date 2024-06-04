@@ -18,7 +18,7 @@
 - [fix](EMG_removing/fix.md)
 - [save](EMG_removing/save.md)
 - [sug_period](EMG_removing/sug_period.md)
-- [EMG_Cluster_s](EMG_removing/EMG_Cluster_s.md)
+- [EMG_Cluster_s](EMG_Cluster_s.md)
 - [cell](EMG_removing/cell.md)
 - [abs](EMG_removing/abs.md)
 - [c_idx](EMG_removing/c_idx.md)

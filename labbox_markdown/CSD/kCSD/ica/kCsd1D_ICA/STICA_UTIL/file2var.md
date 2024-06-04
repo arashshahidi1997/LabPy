@@ -6,7 +6,7 @@
 - [disp](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/disp.md)
 - [j](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/j.md)
 - [isempty](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/isempty.md)
-- [file2var](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/file2var.md)
+- [file2var](file2var.md)
 - [sprintf](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sprintf.md)
 - [eval](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/eval.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/size.md)

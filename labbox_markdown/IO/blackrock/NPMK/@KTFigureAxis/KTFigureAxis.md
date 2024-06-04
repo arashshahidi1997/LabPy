@@ -18,7 +18,7 @@
 - [disp](IO/blackrock/NPMK/@KTFigureAxis/disp.md)
 - [properties ](IO/blackrock/NPMK/@KTFigureAxis/properties .md)
 - [upperLimitX](IO/blackrock/NPMK/@KTFigureAxis/upperLimitX.md)
-- [KTFigureAxis](IO/blackrock/NPMK/@KTFigureAxis/KTFigureAxis.md)
+- [KTFigureAxis](KTFigureAxis.md)
 - [lowerLimitY](IO/blackrock/NPMK/@KTFigureAxis/lowerLimitY.md)
 - [linSpaceX](IO/blackrock/NPMK/@KTFigureAxis/linSpaceX.md)
 - [upperLimitY](IO/blackrock/NPMK/@KTFigureAxis/upperLimitY.md)

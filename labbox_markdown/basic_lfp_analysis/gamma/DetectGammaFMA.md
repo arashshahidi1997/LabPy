@@ -67,7 +67,7 @@
 - [subplot](basic_lfp_analysis/gamma/subplot.md)
 - [noiserips](basic_lfp_analysis/gamma/noiserips.md)
 - [isempty](basic_lfp_analysis/gamma/isempty.md)
-- [DetectGammaFMA](basic_lfp_analysis/gamma/DetectGammaFMA.md)
+- [DetectGammaFMA](DetectGammaFMA.md)
 - [error](basic_lfp_analysis/gamma/error.md)
 - [sprintf](basic_lfp_analysis/gamma/sprintf.md)
 - [m ](basic_lfp_analysis/gamma/m .md)

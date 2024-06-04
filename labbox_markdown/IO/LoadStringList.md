@@ -7,5 +7,5 @@
 - [fopen](IO/fopen.md)
 - [fclose](IO/fclose.md)
 - [cell](IO/cell.md)
-- [LoadStringList](IO/LoadStringList.md)
+- [LoadStringList](LoadStringList.md)
 - [feof](IO/feof.md)

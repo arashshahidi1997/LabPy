@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [sin](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sin.md)
-- [jshift_region](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/jshift_region.md)
+- [jshift_region](jshift_region.md)
 - [plot](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/plot.md)
 - [v0](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/v0.md)
 - [error](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/error.md)

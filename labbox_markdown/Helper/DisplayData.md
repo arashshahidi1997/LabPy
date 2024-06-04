@@ -6,7 +6,7 @@
 - [eval](Helper/eval.md)
 - [Seg](Helper/Seg.md)
 - [reshape](Helper/reshape.md)
-- [DisplayData](Helper/DisplayData.md)
+- [DisplayData](DisplayData.md)
 - [matposind](Helper/matposind.md)
 - [find](Helper/find.md)
 - [arg ](Helper/arg .md)

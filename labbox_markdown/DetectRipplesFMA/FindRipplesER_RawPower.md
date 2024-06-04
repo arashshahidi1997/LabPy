@@ -100,7 +100,7 @@
 - [prctile](DetectRipplesFMA/prctile.md)
 - [length](DetectRipplesFMA/length.md)
 - [nCycles](DetectRipplesFMA/nCycles.md)
-- [FindRipplesER_RawPower](DetectRipplesFMA/FindRipplesER_RawPower.md)
+- [FindRipplesER_RawPower](FindRipplesER_RawPower.md)
 - [Filter0](DetectRipplesFMA/Filter0.md)
 - [plot](DetectRipplesFMA/plot.md)
 - [subplot](DetectRipplesFMA/subplot.md)

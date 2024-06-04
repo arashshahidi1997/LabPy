@@ -1,7 +1,7 @@
 # bonf_holm
 
 ## Function Calls
-- [bonf_holm](Stats/multcomp/bonf_holm.md)
+- [bonf_holm](bonf_holm.md)
 - [level ](Stats/multcomp/level .md)
 - [dimensionality ](Stats/multcomp/dimensionality .md)
 - [reshape](Stats/multcomp/reshape.md)

@@ -16,6 +16,6 @@
 - [ceil](TF/ceil.md)
 - [mean](TF/mean.md)
 - [f](TF/f.md)
-- [HistFiring](TF/HistFiring.md)
+- [HistFiring](HistFiring.md)
 - [load](TF/load.md)
 - [find](TF/find.md)

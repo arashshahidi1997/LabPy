@@ -12,7 +12,7 @@
 - [tmp](oephys/tmp.md)
 - [FileBase](oephys/FileBase.md)
 - [ResolvePath](oephys/ResolvePath.md)
-- [LoadXml_ER](oephys/LoadXml_ER.md)
+- [LoadXml_ER](LoadXml_ER.md)
 - [later ](oephys/later .md)
 - [length](oephys/length.md)
 - [SpkGrps](oephys/SpkGrps.md)

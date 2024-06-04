@@ -40,7 +40,7 @@
 - [linkaxes](EMG_removing/EMG/linkaxes.md)
 - [sqrt](EMG_removing/EMG/sqrt.md)
 - [max](EMG_removing/EMG/max.md)
-- [EMG_rm_report](EMG_removing/EMG/EMG_rm_report.md)
+- [EMG_rm_report](EMG_rm_report.md)
 - [iscell](EMG_removing/EMG/iscell.md)
 - [size](EMG_removing/EMG/size.md)
 - [axes](EMG_removing/EMG/axes.md)

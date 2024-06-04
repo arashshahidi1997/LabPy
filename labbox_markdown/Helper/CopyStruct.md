@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [Sto ](Helper/Sto .md)
-- [CopyStruct](Helper/CopyStruct.md)
+- [CopyStruct](CopyStruct.md)
 - [isempty](Helper/isempty.md)
 - [newf](Helper/newf.md)
 - [setfield](Helper/setfield.md)

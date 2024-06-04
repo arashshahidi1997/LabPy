@@ -31,7 +31,7 @@
 - [feval](CSD/kCSD/ica/kCsd1D_ICA/icasso/feval.md)
 - [cluster           ](CSD/kCSD/ica/kCsd1D_ICA/icasso/cluster           .md)
 - [strategy ](CSD/kCSD/ica/kCsd1D_ICA/icasso/strategy .md)
-- [icassoStruct](CSD/kCSD/ica/kCsd1D_ICA/icasso/icassoStruct.md)
+- [icassoStruct](icassoStruct.md)
 - [similarity ](CSD/kCSD/ica/kCsd1D_ICA/icasso/similarity .md)
 - [A ](CSD/kCSD/ica/kCsd1D_ICA/icasso/A .md)
 - [X ](CSD/kCSD/ica/kCsd1D_ICA/icasso/X .md)

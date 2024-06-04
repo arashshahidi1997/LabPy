@@ -11,6 +11,6 @@
 - [textscan](IO/textscan.md)
 - [fclose](IO/fclose.md)
 - [str2double](IO/str2double.md)
-- [LoadSMI](IO/LoadSMI.md)
+- [LoadSMI](LoadSMI.md)
 - [length](IO/length.md)
 - [find](IO/find.md)

@@ -58,7 +58,7 @@
 - [size](project_Tau/size.md)
 - [yall](project_Tau/yall.md)
 - [nanmedian](project_Tau/nanmedian.md)
-- [GroupAnalysis_Tau_ripples](project_Tau/GroupAnalysis_Tau_ripples.md)
+- [GroupAnalysis_Tau_ripples](GroupAnalysis_Tau_ripples.md)
 - [RipplePeakAmplitude](project_Tau/RipplePeakAmplitude.md)
 - [CumualtiveBrainStateDur_min](project_Tau/CumualtiveBrainStateDur_min.md)
 - [exist](project_Tau/exist.md)

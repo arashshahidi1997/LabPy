@@ -1,8 +1,8 @@
 # circ_corrcl
 
 ## Function Calls
-- [circ_corrcc](Stats/CircStat2012a/circ_corrcc.md)
-- [circ_corrcl](Stats/CircStat2012a/circ_corrcl.md)
+- [circ_corrcc](circ_corrcc.md)
+- [circ_corrcl](circ_corrcl.md)
 - [sin](Stats/CircStat2012a/sin.md)
 - [sqrt](Stats/CircStat2012a/sqrt.md)
 - [cos](Stats/CircStat2012a/cos.md)

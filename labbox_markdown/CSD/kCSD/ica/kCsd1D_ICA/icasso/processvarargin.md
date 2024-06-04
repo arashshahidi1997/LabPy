@@ -12,7 +12,7 @@
 - [I ](CSD/kCSD/ica/kCsd1D_ICA/icasso/I .md)
 - [fix](CSD/kCSD/ica/kCsd1D_ICA/icasso/fix.md)
 - [error](CSD/kCSD/ica/kCsd1D_ICA/icasso/error.md)
-- [processvarargin](CSD/kCSD/ica/kCsd1D_ICA/icasso/processvarargin.md)
+- [processvarargin](processvarargin.md)
 - [any](CSD/kCSD/ica/kCsd1D_ICA/icasso/any.md)
 - [index2default](CSD/kCSD/ica/kCsd1D_ICA/icasso/index2default.md)
 - [D ](CSD/kCSD/ica/kCsd1D_ICA/icasso/D .md)

@@ -6,7 +6,7 @@
 - [polar](Stats/CircStat2012a/examples/polar.md)
 - [circ_confmean](Stats/CircStat2012a/examples/circ_confmean.md)
 - [exp](Stats/CircStat2012a/examples/exp.md)
-- [formatSubplot](Stats/CircStat2012a/examples/formatSubplot.md)
+- [formatSubplot](formatSubplot.md)
 - [w](Stats/CircStat2012a/examples/w.md)
 - [reshape](Stats/CircStat2012a/examples/reshape.md)
 - [circ_axial](Stats/CircStat2012a/examples/circ_axial.md)

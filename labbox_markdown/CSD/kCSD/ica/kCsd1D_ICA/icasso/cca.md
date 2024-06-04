@@ -57,7 +57,7 @@
 - [ones](CSD/kCSD/ica/kCsd1D_ICA/icasso/ones.md)
 - [sum](CSD/kCSD/ica/kCsd1D_ICA/icasso/sum.md)
 - [plot](CSD/kCSD/ica/kCsd1D_ICA/icasso/plot.md)
-- [cca](CSD/kCSD/ica/kCsd1D_ICA/icasso/cca.md)
+- [cca](cca.md)
 - [subplot](CSD/kCSD/ica/kCsd1D_ICA/icasso/subplot.md)
 - [isempty](CSD/kCSD/ica/kCsd1D_ICA/icasso/isempty.md)
 - [arguments ](CSD/kCSD/ica/kCsd1D_ICA/icasso/arguments .md)

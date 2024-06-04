@@ -6,5 +6,5 @@
 - [size](CSD/kCSD/ica/kCsd1D_ICA/size.md)
 - [mean](CSD/kCSD/ica/kCsd1D_ICA/mean.md)
 - [reshape](CSD/kCSD/ica/kCsd1D_ICA/reshape.md)
-- [stripmean](CSD/kCSD/ica/kCsd1D_ICA/stripmean.md)
+- [stripmean](stripmean.md)
 - [ismember](CSD/kCSD/ica/kCsd1D_ICA/ismember.md)

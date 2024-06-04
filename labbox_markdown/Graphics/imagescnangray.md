@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [hsv2rgb](Graphics/hsv2rgb.md)
-- [imagescnangray](Graphics/imagescnangray.md)
+- [imagescnangray](imagescnangray.md)
 - [colormap](Graphics/colormap.md)
 - [range](Graphics/range.md)
 - [error](Graphics/error.md)

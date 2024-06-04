@@ -10,7 +10,7 @@
 - [new ](BrainStateToolbox/new .md)
 - [IntersectRanges](BrainStateToolbox/IntersectRanges.md)
 - [LoadMyPar](BrainStateToolbox/LoadMyPar.md)
-- [CleanBrainStates](BrainStateToolbox/CleanBrainStates.md)
+- [CleanBrainStates](CleanBrainStates.md)
 - [dlmwrite](BrainStateToolbox/dlmwrite.md)
 - [tight_subplot](BrainStateToolbox/tight_subplot.md)
 - [title](BrainStateToolbox/title.md)

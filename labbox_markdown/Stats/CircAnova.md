@@ -17,7 +17,7 @@
 - [cos](Stats/cos.md)
 - [iscell](Stats/iscell.md)
 - [length](Stats/length.md)
-- [CircAnova](Stats/CircAnova.md)
+- [CircAnova](CircAnova.md)
 - [ones](Stats/ones.md)
 - [sum](Stats/sum.md)
 - [plot](Stats/plot.md)

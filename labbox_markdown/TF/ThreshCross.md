@@ -6,6 +6,6 @@
 - [diff](TF/diff.md)
 - [isempty](TF/isempty.md)
 - [left](TF/left.md)
-- [ThreshCross](TF/ThreshCross.md)
+- [ThreshCross](ThreshCross.md)
 - [length](TF/length.md)
 - [find](TF/find.md)

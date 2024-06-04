@@ -5,7 +5,7 @@
 - [strcmp](IO/strcmp.md)
 - [EvtClu](IO/EvtClu.md)
 - [EvtRes](IO/EvtRes.md)
-- [LoadEvt](IO/LoadEvt.md)
+- [LoadEvt](LoadEvt.md)
 - [unique](IO/unique.md)
 - [intersect](IO/intersect.md)
 - [round](IO/round.md)

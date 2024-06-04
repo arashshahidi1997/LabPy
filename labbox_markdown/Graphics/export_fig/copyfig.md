@@ -3,7 +3,7 @@
 ## Function Calls
 - [fwrite](Graphics/export_fig/fwrite.md)
 - [writable ](Graphics/export_fig/writable .md)
-- [copyfig](Graphics/export_fig/copyfig.md)
+- [copyfig](copyfig.md)
 - [findall](Graphics/export_fig/findall.md)
 - [hgload](Graphics/export_fig/hgload.md)
 - [delete](Graphics/export_fig/delete.md)

@@ -1,7 +1,7 @@
 # F_delta
 
 ## Function Calls
-- [F_delta](CSD/CSDplotter-0.1.1/F_delta.md)
+- [F_delta](F_delta.md)
 - [el_pos](CSD/CSDplotter-0.1.1/el_pos.md)
 - [zeros](CSD/CSDplotter-0.1.1/zeros.md)
 - [sqrt](CSD/CSDplotter-0.1.1/sqrt.md)

@@ -10,6 +10,6 @@
 - [fclose](oephys/fclose.md)
 - [regexp](oephys/regexp.md)
 - [fprintf](oephys/fprintf.md)
-- [CorrectCatEvtFile](oephys/CorrectCatEvtFile.md)
+- [CorrectCatEvtFile](CorrectCatEvtFile.md)
 - [time](oephys/time.md)
 - [length](oephys/length.md)

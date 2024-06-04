@@ -5,7 +5,7 @@
 - [exist](Behavior/exist.md)
 - [zeros](Behavior/zeros.md)
 - [isempty](Behavior/isempty.md)
-- [LoadMazeTrialTypes](Behavior/LoadMazeTrialTypes.md)
+- [LoadMazeTrialTypes](LoadMazeTrialTypes.md)
 - [whldat](Behavior/whldat.md)
 - [size](Behavior/size.md)
 - [mazeLocationsBool](Behavior/mazeLocationsBool.md)

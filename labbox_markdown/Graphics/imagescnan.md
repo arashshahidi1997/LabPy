@@ -1,7 +1,7 @@
 # imagescnan
 
 ## Function Calls
-- [imagescnan](Graphics/imagescnan.md)
+- [imagescnan](imagescnan.md)
 - [clip](Graphics/clip.md)
 - [Amp](Graphics/Amp.md)
 - [zeros](Graphics/zeros.md)

@@ -3,7 +3,7 @@
 ## Function Calls
 - [sum](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sum.md)
 - [plot](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/plot.md)
-- [make_gauss2_mask](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/make_gauss2_mask.md)
+- [make_gauss2_mask](make_gauss2_mask.md)
 - [gauss](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/gauss.md)
 - [rand](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/rand.md)
 - [ip](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/ip.md)

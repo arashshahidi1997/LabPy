@@ -1,13 +1,13 @@
 # make_cubic_splines
 
 ## Function Calls
-- [compute_Ematrixes](CSD/CSDplotter-0.1.1/methods/compute_Ematrixes.md)
+- [compute_Ematrixes](compute_Ematrixes.md)
 - [zeros](CSD/CSDplotter-0.1.1/methods/zeros.md)
 - [el_pos_with_ends](CSD/CSDplotter-0.1.1/methods/el_pos_with_ends.md)
 - [A2](CSD/CSDplotter-0.1.1/methods/A2.md)
 - [diff](CSD/CSDplotter-0.1.1/methods/diff.md)
 - [A1](CSD/CSDplotter-0.1.1/methods/A1.md)
-- [make_cubic_splines](CSD/CSDplotter-0.1.1/methods/make_cubic_splines.md)
+- [make_cubic_splines](make_cubic_splines.md)
 - [function](CSD/CSDplotter-0.1.1/methods/function.md)
 - [A0](CSD/CSDplotter-0.1.1/methods/A0.md)
 - [A3](CSD/CSDplotter-0.1.1/methods/A3.md)

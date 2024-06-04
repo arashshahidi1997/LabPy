@@ -20,5 +20,5 @@
 - [plot](Graphics/plot.md)
 - [isempty](Graphics/isempty.md)
 - [error](Graphics/error.md)
-- [SlimErrorBar](Graphics/SlimErrorBar.md)
+- [SlimErrorBar](SlimErrorBar.md)
 - [colstyle](Graphics/colstyle.md)

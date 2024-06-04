@@ -9,4 +9,4 @@
 - [length](oephys/length.md)
 - [char ](oephys/char .md)
 - [regexp](oephys/regexp.md)
-- [correct_oephysfilename](oephys/correct_oephysfilename.md)
+- [correct_oephysfilename](correct_oephysfilename.md)

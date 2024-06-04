@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [y](Helper/y.md)
-- [lmax](Helper/lmax.md)
+- [lmax](lmax.md)
 - [c](Helper/c.md)
 - [conv](Helper/conv.md)
 - [val](Helper/val.md)

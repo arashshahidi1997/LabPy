@@ -21,7 +21,7 @@
 - [find](EMG_removing/EMG/find.md)
 - [linkaxes](EMG_removing/EMG/linkaxes.md)
 - [tmp](EMG_removing/EMG/tmp.md)
-- [EMG_rm_view](EMG_removing/EMG/EMG_rm_view.md)
+- [EMG_rm_view](EMG_rm_view.md)
 - [fprintf](EMG_removing/EMG/fprintf.md)
 - [loadxml](EMG_removing/EMG/loadxml.md)
 - [size](EMG_removing/EMG/size.md)

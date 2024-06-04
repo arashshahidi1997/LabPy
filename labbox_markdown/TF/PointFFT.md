@@ -6,7 +6,7 @@
 - [exp](TF/exp.md)
 - [fft](TF/fft.md)
 - [dN](TF/dN.md)
-- [PointFFT](TF/PointFFT.md)
+- [PointFFT](PointFFT.md)
 - [J](TF/J.md)
 - [Res](TF/Res.md)
 - [mean](TF/mean.md)

@@ -18,7 +18,7 @@
 - [string ](CSD/kCSD/ica/kCsd1D_ICA/icasso/string .md)
 - [scalar ](CSD/kCSD/ica/kCsd1D_ICA/icasso/scalar .md)
 - [str    ](CSD/kCSD/ica/kCsd1D_ICA/icasso/str    .md)
-- [vis_valuetype](CSD/kCSD/ica/kCsd1D_ICA/icasso/vis_valuetype.md)
+- [vis_valuetype](vis_valuetype.md)
 - [isnumeric](CSD/kCSD/ica/kCsd1D_ICA/icasso/isnumeric.md)
 - [iscell](CSD/kCSD/ica/kCsd1D_ICA/icasso/iscell.md)
 - [parameter ](CSD/kCSD/ica/kCsd1D_ICA/icasso/parameter .md)

@@ -22,7 +22,7 @@
 - [suptitle2](basic_lfp_analysis/processing/suptitle2.md)
 - [frequency ](basic_lfp_analysis/processing/frequency .md)
 - [cat](basic_lfp_analysis/processing/cat.md)
-- [DetectBadPeriods](basic_lfp_analysis/processing/DetectBadPeriods.md)
+- [DetectBadPeriods](DetectBadPeriods.md)
 - [session ](basic_lfp_analysis/processing/session .md)
 - [f](basic_lfp_analysis/processing/f.md)
 - [RefChannels](basic_lfp_analysis/processing/RefChannels.md)

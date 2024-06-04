@@ -75,7 +75,7 @@
 - [files ](BrainStateToolbox/files .md)
 - [load](BrainStateToolbox/load.md)
 - [dir](BrainStateToolbox/dir.md)
-- [PlotBrainStates](BrainStateToolbox/PlotBrainStates.md)
+- [PlotBrainStates](PlotBrainStates.md)
 - [colormap](BrainStateToolbox/colormap.md)
 - [error](BrainStateToolbox/error.md)
 - [Evgeny ](BrainStateToolbox/Evgeny .md)

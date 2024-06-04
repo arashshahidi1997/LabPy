@@ -37,7 +37,7 @@
 - [size](DetectRipplesFMA/size.md)
 - [ceil](DetectRipplesFMA/ceil.md)
 - [axes](DetectRipplesFMA/axes.md)
-- [DetectRipplesFMA_Diagnostic_AcrossSessions](DetectRipplesFMA/DetectRipplesFMA_Diagnostic_AcrossSessions.md)
+- [DetectRipplesFMA_Diagnostic_AcrossSessions](DetectRipplesFMA_Diagnostic_AcrossSessions.md)
 - [BrainStateDur_min](DetectRipplesFMA/BrainStateDur_min.md)
 - [ismember](DetectRipplesFMA/ismember.md)
 - [length](DetectRipplesFMA/length.md)

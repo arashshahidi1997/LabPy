@@ -1,7 +1,7 @@
 # clip
 
 ## Function Calls
-- [clip](Helper/clip.md)
+- [clip](clip.md)
 - [size](Helper/size.md)
 - [b](Helper/b.md)
 - [reshape](Helper/reshape.md)

@@ -1,5 +1,5 @@
 # demo_textprogressbar
 
 ## Function Calls
-- [textprogressbar](Helper/textprogressbar.md)
+- [textprogressbar](textprogressbar.md)
 - [pause](Helper/pause.md)

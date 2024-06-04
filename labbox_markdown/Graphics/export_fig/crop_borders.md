@@ -18,7 +18,7 @@
 - [isfinite](Graphics/export_fig/isfinite.md)
 - [size](Graphics/export_fig/size.md)
 - [ceil](Graphics/export_fig/ceil.md)
-- [crop_borders](Graphics/export_fig/crop_borders.md)
+- [crop_borders](crop_borders.md)
 - [ones](Graphics/export_fig/ones.md)
 - [nan](Graphics/export_fig/nan.md)
 - [box ](Graphics/export_fig/box .md)

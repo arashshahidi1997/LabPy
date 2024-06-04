@@ -8,7 +8,7 @@
 - [xmltools](EMG_removing/util/xmltools.md)
 - [tmp](EMG_removing/util/tmp.md)
 - [FileBase](EMG_removing/util/FileBase.md)
-- [loadxml](EMG_removing/util/loadxml.md)
+- [loadxml](loadxml.md)
 - [later ](EMG_removing/util/later .md)
 - [length](EMG_removing/util/length.md)
 - [SpkGrps](EMG_removing/util/SpkGrps.md)

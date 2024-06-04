@@ -1,7 +1,7 @@
 # imagescnan2
 
 ## Function Calls
-- [imagescnan](Graphics/imagescnan.md)
+- [imagescnan](imagescnan.md)
 - [clip](Graphics/clip.md)
 - [Amp](Graphics/Amp.md)
 - [zeros](Graphics/zeros.md)
@@ -19,7 +19,7 @@
 - [mod](Graphics/mod.md)
 - [RGB](Graphics/RGB.md)
 - [abs](Graphics/abs.md)
-- [imagescnan2](Graphics/imagescnan2.md)
+- [imagescnan2](imagescnan2.md)
 - [isnan](Graphics/isnan.md)
 - [warning](Graphics/warning.md)
 - [load](Graphics/load.md)

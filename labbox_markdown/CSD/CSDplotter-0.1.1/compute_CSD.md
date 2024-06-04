@@ -1,7 +1,7 @@
 # compute_CSD
 
 ## Function Calls
-- [compute_CSD](CSD/CSDplotter-0.1.1/compute_CSD.md)
+- [compute_CSD](compute_CSD.md)
 - [str2num](CSD/CSDplotter-0.1.1/str2num.md)
 - [el_pos](CSD/CSDplotter-0.1.1/el_pos.md)
 - [zeros](CSD/CSDplotter-0.1.1/zeros.md)

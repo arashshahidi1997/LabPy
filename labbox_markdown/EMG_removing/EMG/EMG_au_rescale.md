@@ -3,7 +3,7 @@
 ## Function Calls
 - [zeros](EMG_removing/EMG/zeros.md)
 - [cd](EMG_removing/EMG/cd.md)
-- [EMG_au_rescale](EMG_removing/EMG/EMG_au_rescale.md)
+- [EMG_au_rescale](EMG_au_rescale.md)
 - [scaling_factor](EMG_removing/EMG/scaling_factor.md)
 - [fwrite](EMG_removing/EMG/fwrite.md)
 - [myData](EMG_removing/EMG/myData.md)

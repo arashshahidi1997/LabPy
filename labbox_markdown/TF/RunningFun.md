@@ -6,7 +6,7 @@
 - [plot](TF/plot.md)
 - [round](TF/round.md)
 - [isempty](TF/isempty.md)
-- [RunningFun](TF/RunningFun.md)
+- [RunningFun](RunningFun.md)
 - [size](TF/size.md)
 - [feval](TF/feval.md)
 - [x](TF/x.md)

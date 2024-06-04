@@ -1,7 +1,7 @@
 # som_set
 
 ## Function Calls
-- [som_set](CSD/kCSD/ica/kCsd1D_ICA/icasso/som_set.md)
+- [som_set](som_set.md)
 - [isstruct](CSD/kCSD/ica/kCsd1D_ICA/icasso/isstruct.md)
 - [ischar](CSD/kCSD/ica/kCsd1D_ICA/icasso/ischar.md)
 - [to ](CSD/kCSD/ica/kCsd1D_ICA/icasso/to .md)

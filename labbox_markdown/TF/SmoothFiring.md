@@ -9,7 +9,7 @@
 - [max](TF/max.md)
 - [Res](TF/Res.md)
 - [floor](TF/floor.md)
-- [SmoothFiring](TF/SmoothFiring.md)
+- [SmoothFiring](SmoothFiring.md)
 - [tRange](TF/tRange.md)
 - [LoadClu](TF/LoadClu.md)
 - [range ](TF/range .md)

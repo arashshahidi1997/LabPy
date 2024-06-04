@@ -46,7 +46,7 @@
 - [state ](basic_lfp_analysis/ripples/state .md)
 - [calculation ](basic_lfp_analysis/ripples/calculation .md)
 - [ylabel](basic_lfp_analysis/ripples/ylabel.md)
-- [ProcessRipples3D](basic_lfp_analysis/ripples/ProcessRipples3D.md)
+- [ProcessRipples3D](ProcessRipples3D.md)
 - [errorbar](basic_lfp_analysis/ripples/errorbar.md)
 - [reshape](basic_lfp_analysis/ripples/reshape.md)
 - [title](basic_lfp_analysis/ripples/title.md)

@@ -16,6 +16,6 @@
 - [xlim](Stats/DIP_test_of_unimodality/xlim.md)
 - [dip](Stats/DIP_test_of_unimodality/dip.md)
 - [p](Stats/DIP_test_of_unimodality/p.md)
-- [HartigansDipSignifTest](Stats/DIP_test_of_unimodality/HartigansDipSignifTest.md)
+- [HartigansDipSignifTest](HartigansDipSignifTest.md)
 - [hist](Stats/DIP_test_of_unimodality/hist.md)
 - [length](Stats/DIP_test_of_unimodality/length.md)

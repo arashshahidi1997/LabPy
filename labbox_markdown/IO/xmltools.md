@@ -18,7 +18,7 @@
 - [eq_pos](IO/eq_pos.md)
 - [s](IO/s.md)
 - [f_end](IO/f_end.md)
-- [xmltools](IO/xmltools.md)
+- [xmltools](xmltools.md)
 - [deblank](IO/deblank.md)
 - [struct](IO/struct.md)
 - [anext](IO/anext.md)

@@ -44,7 +44,7 @@
 - [Channels](Physiology/Channels.md)
 - [strfind](Physiology/strfind.md)
 - [str2num](Physiology/str2num.md)
-- [ClusterLocation](Physiology/ClusterLocation.md)
+- [ClusterLocation](ClusterLocation.md)
 - [jittx](Physiology/jittx.md)
 - [dres](Physiology/dres.md)
 - [LoadFet](Physiology/LoadFet.md)

@@ -1,6 +1,6 @@
 # getHeader
 
 ## Function Calls
-- [getHeader](oephys/getHeader.md)
+- [getHeader](getHeader.md)
 - [eval](oephys/eval.md)
 - [char](oephys/char.md)

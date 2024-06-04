@@ -14,7 +14,7 @@
 - [sum](Graphics/sum.md)
 - [ndims](Graphics/ndims.md)
 - [XBins](Graphics/XBins.md)
-- [HistMatrix](Graphics/HistMatrix.md)
+- [HistMatrix](HistMatrix.md)
 - [permute](Graphics/permute.md)
 - [shiftdim](Graphics/shiftdim.md)
 - [subplot](Graphics/subplot.md)

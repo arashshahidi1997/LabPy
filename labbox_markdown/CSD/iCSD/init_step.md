@@ -8,7 +8,7 @@
 - [displ_l](CSD/iCSD/displ_l.md)
 - [FdMatrix](CSD/iCSD/FdMatrix.md)
 - [F_temp](CSD/iCSD/F_temp.md)
-- [init_step](CSD/iCSD/init_step.md)
+- [init_step](init_step.md)
 - [ind2sub ](CSD/iCSD/ind2sub .md)
 - [save](CSD/iCSD/save.md)
 - [dist](CSD/iCSD/dist.md)

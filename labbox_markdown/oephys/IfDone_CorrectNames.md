@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [session ](oephys/session .md)
-- [IfDone_CorrectNames](oephys/IfDone_CorrectNames.md)
+- [IfDone_CorrectNames](IfDone_CorrectNames.md)
 - [regexp](oephys/regexp.md)
 - [n](oephys/n.md)
 - [strcmp](oephys/strcmp.md)

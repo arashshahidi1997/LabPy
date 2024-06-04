@@ -8,7 +8,7 @@
 - [isempty](Helper/isempty.md)
 - [paul ](Helper/paul .md)
 - [error](Helper/error.md)
-- [textprogressbar](Helper/textprogressbar.md)
+- [textprogressbar](textprogressbar.md)
 - [yahoo ](Helper/yahoo .md)
 - [floor](Helper/floor.md)
 - [fprintf](Helper/fprintf.md)

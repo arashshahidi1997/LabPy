@@ -26,7 +26,7 @@
 - [if ](IO/blackrock/NPMK/if .md)
 - [Data](IO/blackrock/NPMK/Data.md)
 - [max](IO/blackrock/NPMK/max.md)
-- [saveNSx](IO/blackrock/NPMK/saveNSx.md)
+- [saveNSx](saveNSx.md)
 - [length](IO/blackrock/NPMK/length.md)
 - [strfind](IO/blackrock/NPMK/strfind.md)
 - [str2num](IO/blackrock/NPMK/str2num.md)

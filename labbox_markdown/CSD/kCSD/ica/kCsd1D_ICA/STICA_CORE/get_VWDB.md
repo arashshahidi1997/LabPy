@@ -11,4 +11,4 @@
 - [TEMPORAL ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/TEMPORAL .md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/size.md)
 - [reshape](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/reshape.md)
-- [get_VWDB](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/get_VWDB.md)
+- [get_VWDB](get_VWDB.md)

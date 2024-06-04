@@ -4,7 +4,7 @@
 - [zscore](EMG_removing/EMG/zscore.md)
 - [conv](EMG_removing/EMG/conv.md)
 - [reshape](EMG_removing/EMG/reshape.md)
-- [High_Muscle_Tone](EMG_removing/EMG/High_Muscle_Tone.md)
+- [High_Muscle_Tone](High_Muscle_Tone.md)
 - [randperm](EMG_removing/EMG/randperm.md)
 - [opf_r](EMG_removing/EMG/opf_r.md)
 - [fix](EMG_removing/EMG/fix.md)

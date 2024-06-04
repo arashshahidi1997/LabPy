@@ -41,7 +41,7 @@
 - [iscell](basic_lfp_analysis/anat_profile/iscell.md)
 - [iseven](basic_lfp_analysis/anat_profile/iseven.md)
 - [size](basic_lfp_analysis/anat_profile/size.md)
-- [ProcessAnatProfile1](basic_lfp_analysis/anat_profile/ProcessAnatProfile1.md)
+- [ProcessAnatProfile1](ProcessAnatProfile1.md)
 - [exist](basic_lfp_analysis/anat_profile/exist.md)
 - [PSD ](basic_lfp_analysis/anat_profile/PSD .md)
 - [linspace](basic_lfp_analysis/anat_profile/linspace.md)

@@ -17,7 +17,7 @@
 - [size](Graphics/size.md)
 - [color_list](Graphics/color_list.md)
 - [numel](Graphics/numel.md)
-- [errorbar4](Graphics/errorbar4.md)
+- [errorbar4](errorbar4.md)
 - [ones](Graphics/ones.md)
 - [plot](Graphics/plot.md)
 - [exist](Graphics/exist.md)

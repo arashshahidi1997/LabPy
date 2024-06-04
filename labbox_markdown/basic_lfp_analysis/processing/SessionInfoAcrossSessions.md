@@ -3,7 +3,7 @@
 ## Function Calls
 - [unique](basic_lfp_analysis/processing/unique.md)
 - [cd](basic_lfp_analysis/processing/cd.md)
-- [SessionInfo](basic_lfp_analysis/processing/SessionInfo.md)
+- [SessionInfo](SessionInfo.md)
 - [on ](basic_lfp_analysis/processing/on .md)
 - [fopen](basic_lfp_analysis/processing/fopen.md)
 - [save](basic_lfp_analysis/processing/save.md)
@@ -16,7 +16,7 @@
 - [ismember](basic_lfp_analysis/processing/ismember.md)
 - [length](basic_lfp_analysis/processing/length.md)
 - [exist](basic_lfp_analysis/processing/exist.md)
-- [SessionInfoAcrossSessions](basic_lfp_analysis/processing/SessionInfoAcrossSessions.md)
+- [SessionInfoAcrossSessions](SessionInfoAcrossSessions.md)
 - [error](basic_lfp_analysis/processing/error.md)
 - [sprintf](basic_lfp_analysis/processing/sprintf.md)
 - [fclose](basic_lfp_analysis/processing/fclose.md)

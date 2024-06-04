@@ -8,7 +8,7 @@
 - [num2str](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/num2str.md)
 - [max](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/max.md)
 - [s](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/s.md)
-- [generate_filename](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/generate_filename.md)
+- [generate_filename](generate_filename.md)
 - [min](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/min.md)
 - [Y](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/Y.md)
 - [mean](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/mean.md)

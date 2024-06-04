@@ -10,7 +10,7 @@
 - [set](Graphics/cm_and_cb_utilities/set.md)
 - [elseif ](Graphics/cm_and_cb_utilities/elseif .md)
 - [getappdata](Graphics/cm_and_cb_utilities/getappdata.md)
-- [cbhandle](Graphics/cm_and_cb_utilities/cbhandle.md)
+- [cbhandle](cbhandle.md)
 - [Aguilera ](Graphics/cm_and_cb_utilities/Aguilera .md)
 - [handle](Graphics/cm_and_cb_utilities/handle.md)
 - [get](Graphics/cm_and_cb_utilities/get.md)

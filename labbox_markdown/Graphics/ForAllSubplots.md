@@ -3,7 +3,7 @@
 ## Function Calls
 - [strcmp](Graphics/strcmp.md)
 - [set](Graphics/set.md)
-- [ForAllSubplots](Graphics/ForAllSubplots.md)
+- [ForAllSubplots](ForAllSubplots.md)
 - [children](Graphics/children.md)
 - [exist](Graphics/exist.md)
 - [eval](Graphics/eval.md)

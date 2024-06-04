@@ -14,7 +14,7 @@
 - [sq](EMG_removing/EMG/sq.md)
 - [isfield](EMG_removing/EMG/isfield.md)
 - [erase_ticks](EMG_removing/EMG/erase_ticks.md)
-- [EMG_rm_viewspec](EMG_removing/EMG/EMG_rm_viewspec.md)
+- [EMG_rm_viewspec](EMG_rm_viewspec.md)
 - [usePeriod](EMG_removing/EMG/usePeriod.md)
 - [f](EMG_removing/EMG/f.md)
 - [title](EMG_removing/EMG/title.md)

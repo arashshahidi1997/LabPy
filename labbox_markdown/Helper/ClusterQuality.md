@@ -14,7 +14,7 @@
 - [xlabel](Helper/xlabel.md)
 - [elseif ](Helper/elseif .md)
 - [sorted](Helper/sorted.md)
-- [ClusterQuality](Helper/ClusterQuality.md)
+- [ClusterQuality](ClusterQuality.md)
 - [mahal](Helper/mahal.md)
 - [Res](Helper/Res.md)
 - [diff](Helper/diff.md)

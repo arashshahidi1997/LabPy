@@ -14,7 +14,7 @@
 - [isempty](IO/blackrock/NPMK/isempty.md)
 - [isa](IO/blackrock/NPMK/isa.md)
 - [isfield](IO/blackrock/NPMK/isfield.md)
-- [sortNEV](IO/blackrock/NPMK/sortNEV.md)
+- [sortNEV](sortNEV.md)
 - [struct](IO/blackrock/NPMK/struct.md)
 - [assignin](IO/blackrock/NPMK/assignin.md)
 - [length](IO/blackrock/NPMK/length.md)

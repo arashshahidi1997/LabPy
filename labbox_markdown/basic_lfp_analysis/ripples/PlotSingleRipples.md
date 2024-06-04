@@ -11,7 +11,7 @@
 - [unique](basic_lfp_analysis/ripples/unique.md)
 - [RippleDuration](basic_lfp_analysis/ripples/RippleDuration.md)
 - [lfp](basic_lfp_analysis/ripples/lfp.md)
-- [PlotSingleRipples](basic_lfp_analysis/ripples/PlotSingleRipples.md)
+- [PlotSingleRipples](PlotSingleRipples.md)
 - [LoadMyPar](basic_lfp_analysis/ripples/LoadMyPar.md)
 - [std](basic_lfp_analysis/ripples/std.md)
 - [min](basic_lfp_analysis/ripples/min.md)

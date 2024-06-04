@@ -2,14 +2,14 @@
 
 ## Function Calls
 - [eDist](Helper/eDist.md)
-- [FileQuality](Helper/FileQuality.md)
+- [FileQuality](FileQuality.md)
 - [num2str](Helper/num2str.md)
 - [LoadPar1](Helper/LoadPar1.md)
 - [bRat](Helper/bRat.md)
 - [LoadClu](Helper/LoadClu.md)
 - [std](Helper/std.md)
 - [LoadPar](Helper/LoadPar.md)
-- [ClusterQuality](Helper/ClusterQuality.md)
+- [ClusterQuality](ClusterQuality.md)
 - [diff](Helper/diff.md)
 - [Res](Helper/Res.md)
 - [save](Helper/save.md)

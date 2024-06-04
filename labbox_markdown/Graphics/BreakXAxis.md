@@ -11,7 +11,7 @@
 - [sin](Graphics/sin.md)
 - [x](Graphics/x.md)
 - [get](Graphics/get.md)
-- [BreakXAxis](Graphics/BreakXAxis.md)
+- [BreakXAxis](BreakXAxis.md)
 - [find](Graphics/find.md)
 - [max](Graphics/max.md)
 - [floor](Graphics/floor.md)

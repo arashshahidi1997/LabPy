@@ -16,7 +16,7 @@
 - [find](Graphics/find.md)
 - [isstr](Graphics/isstr.md)
 - [max](Graphics/max.md)
-- [SiliconMap](Graphics/SiliconMap.md)
+- [SiliconMap](SiliconMap.md)
 - [ChNum](Graphics/ChNum.md)
 - [axes](Graphics/axes.md)
 - [minc](Graphics/minc.md)

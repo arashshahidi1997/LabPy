@@ -13,6 +13,6 @@
 - [axes](Helper/axes.md)
 - [text](Helper/text.md)
 - [legend](Helper/legend.md)
-- [mySideBar](Helper/mySideBar.md)
+- [mySideBar](mySideBar.md)
 - [get](Helper/get.md)
 - [pos](Helper/pos.md)

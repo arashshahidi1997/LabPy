@@ -9,7 +9,7 @@
 - [max](CSD/kCSD/ica/kCsd1D/max.md)
 - [src](CSD/kCSD/ica/kCsd1D/src.md)
 - [distTable](CSD/kCSD/ica/kCsd1D/distTable.md)
-- [bPotMatrixCalc](CSD/kCSD/ica/kCsd1D/bPotMatrixCalc.md)
+- [bPotMatrixCalc](bPotMatrixCalc.md)
 - [min](CSD/kCSD/ica/kCsd1D/min.md)
 - [abs](CSD/kCSD/ica/kCsd1D/abs.md)
 - [X](CSD/kCSD/ica/kCsd1D/X.md)

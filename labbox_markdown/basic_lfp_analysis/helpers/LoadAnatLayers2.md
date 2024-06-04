@@ -11,7 +11,7 @@
 - [intersect](basic_lfp_analysis/helpers/intersect.md)
 - [round](basic_lfp_analysis/helpers/round.md)
 - [fopen](basic_lfp_analysis/helpers/fopen.md)
-- [LoadAnatLayers2](basic_lfp_analysis/helpers/LoadAnatLayers2.md)
+- [LoadAnatLayers2](LoadAnatLayers2.md)
 - [any](basic_lfp_analysis/helpers/any.md)
 - [mean](basic_lfp_analysis/helpers/mean.md)
 - [isnan](basic_lfp_analysis/helpers/isnan.md)

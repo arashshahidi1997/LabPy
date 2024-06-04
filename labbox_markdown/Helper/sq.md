@@ -2,4 +2,4 @@
 
 ## Function Calls
 - [squeeze](Helper/squeeze.md)
-- [sq](Helper/sq.md)
+- [sq](sq.md)

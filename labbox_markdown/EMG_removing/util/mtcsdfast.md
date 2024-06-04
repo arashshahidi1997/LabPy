@@ -7,7 +7,7 @@
 - [Periodogram](EMG_removing/util/Periodogram.md)
 - [size ](EMG_removing/util/size .md)
 - [UsedChannels](EMG_removing/util/UsedChannels.md)
-- [mtcsdfast](EMG_removing/util/mtcsdfast.md)
+- [mtcsdfast](mtcsdfast.md)
 - [round](EMG_removing/util/round.md)
 - [ChannelPairs](EMG_removing/util/ChannelPairs.md)
 - [fix](EMG_removing/util/fix.md)

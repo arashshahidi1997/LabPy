@@ -39,7 +39,7 @@
 - [isfinite](Stats/distrib_comparison/isfinite.md)
 - [size](Stats/distrib_comparison/size.md)
 - [numel](Stats/distrib_comparison/numel.md)
-- [nscores](Stats/distrib_comparison/nscores.md)
+- [nscores](nscores.md)
 - [deal](Stats/distrib_comparison/deal.md)
 - [length](Stats/distrib_comparison/length.md)
 - [ones](Stats/distrib_comparison/ones.md)

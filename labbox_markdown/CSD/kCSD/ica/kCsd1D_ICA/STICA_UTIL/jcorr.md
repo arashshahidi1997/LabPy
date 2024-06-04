@@ -6,4 +6,4 @@
 - [rand](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/rand.md)
 - [std](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/std.md)
 - [cov](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/cov.md)
-- [jcorr](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/jcorr.md)
+- [jcorr](jcorr.md)

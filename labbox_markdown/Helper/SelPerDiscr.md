@@ -11,7 +11,7 @@
 - [myi](Helper/myi.md)
 - [size](Helper/size.md)
 - [min](Helper/min.md)
-- [SelPerDiscr](Helper/SelPerDiscr.md)
+- [SelPerDiscr](SelPerDiscr.md)
 - [x](Helper/x.md)
 - [Shift](Helper/Shift.md)
 - [find](Helper/find.md)

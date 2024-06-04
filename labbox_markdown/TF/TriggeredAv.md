@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [averaging ](TF/averaging .md)
-- [MyHilbert](TF/MyHilbert.md)
+- [MyHilbert](MyHilbert.md)
 - [zeros](TF/zeros.md)
 - [whos](TF/whos.md)
 - [Samples](TF/Samples.md)
@@ -13,7 +13,7 @@
 - [reshape](TF/reshape.md)
 - [Avs](TF/Avs.md)
 - [G](TF/G.md)
-- [TriggeredAv](TF/TriggeredAv.md)
+- [TriggeredAv](TriggeredAv.md)
 - [warning](TF/warning.md)
 - [find](TF/find.md)
 - [sqrt](TF/sqrt.md)

@@ -23,7 +23,7 @@
 - [isstr](Graphics/isstr.md)
 - [disp](Graphics/disp.md)
 - [max](Graphics/max.md)
-- [format_ticks](Graphics/format_ticks.md)
+- [format_ticks](format_ticks.md)
 - [iscell](Graphics/iscell.md)
 - [size](Graphics/size.md)
 - [char](Graphics/char.md)

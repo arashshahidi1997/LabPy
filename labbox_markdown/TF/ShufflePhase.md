@@ -8,7 +8,7 @@
 - [mod](TF/mod.md)
 - [ShuffleClus](TF/ShuffleClus.md)
 - [SpkPh](TF/SpkPh.md)
-- [ShufflePhase](TF/ShufflePhase.md)
+- [ShufflePhase](ShufflePhase.md)
 - [unique](TF/unique.md)
 - [isempty](TF/isempty.md)
 - [rand](TF/rand.md)

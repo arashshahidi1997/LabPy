@@ -14,7 +14,7 @@
 - [Resid](Stats/Resid.md)
 - [median](Stats/median.md)
 - [if ](Stats/if .md)
-- [BinSmoothE](Stats/BinSmoothE.md)
+- [BinSmoothE](BinSmoothE.md)
 - [size](Stats/size.md)
 - [feval](Stats/feval.md)
 - [length](Stats/length.md)

@@ -3,7 +3,7 @@
 ## Function Calls
 - [sum](CSD/CSDplotter-0.1.1/methods/sum.md)
 - [zeros](CSD/CSDplotter-0.1.1/methods/zeros.md)
-- [gaussian_filtering](CSD/CSDplotter-0.1.1/methods/gaussian_filtering.md)
+- [gaussian_filtering](gaussian_filtering.md)
 - [sqrt](CSD/CSDplotter-0.1.1/methods/sqrt.md)
 - [round](CSD/CSDplotter-0.1.1/methods/round.md)
 - [positions](CSD/CSDplotter-0.1.1/methods/positions.md)

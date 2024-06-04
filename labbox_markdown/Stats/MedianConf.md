@@ -4,7 +4,7 @@
 - [sort](Stats/sort.md)
 - [median](Stats/median.md)
 - [sorted](Stats/sorted.md)
-- [MedianConf](Stats/MedianConf.md)
+- [MedianConf](MedianConf.md)
 - [range](Stats/range.md)
 - [max](Stats/max.md)
 - [level ](Stats/level .md)

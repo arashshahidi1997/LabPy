@@ -26,7 +26,7 @@
 - [dir](oephys/dir.md)
 - [length](oephys/length.md)
 - [signals ](oephys/signals .md)
-- [mergedat](oephys/mergedat.md)
+- [mergedat](mergedat.md)
 - [str2num](oephys/str2num.md)
 - [sort](oephys/sort.md)
 - [sum](oephys/sum.md)

@@ -14,7 +14,7 @@
 - [defaults ](oephys/files_not_in_use/defaults .md)
 - [cell2struct](oephys/files_not_in_use/cell2struct.md)
 - [isfield](oephys/files_not_in_use/isfield.md)
-- [inputparser](oephys/files_not_in_use/inputparser.md)
+- [inputparser](inputparser.md)
 - [options](oephys/files_not_in_use/options.md)
 - [length](oephys/files_not_in_use/length.md)
 - [fieldnames](oephys/files_not_in_use/fieldnames.md)

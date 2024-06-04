@@ -50,7 +50,7 @@
 - [exist](Graphics/exist.md)
 - [xDat2FigAxis](Graphics/xDat2FigAxis.md)
 - [xExt](Graphics/xExt.md)
-- [plotTickLatex2D](Graphics/plotTickLatex2D.md)
+- [plotTickLatex2D](plotTickLatex2D.md)
 - [isempty](Graphics/isempty.md)
 - [error](Graphics/error.md)
 - [posAxis](Graphics/posAxis.md)

@@ -1,7 +1,7 @@
 # vsave
 
 ## Function Calls
-- [vsave](IO/vsave.md)
+- [vsave](vsave.md)
 - [fopen](IO/fopen.md)
 - [error](IO/error.md)
 - [fclose](IO/fclose.md)

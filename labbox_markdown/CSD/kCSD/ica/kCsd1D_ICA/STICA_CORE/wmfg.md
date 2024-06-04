@@ -3,7 +3,7 @@
 ## Function Calls
 - [jfig](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/jfig.md)
 - [inv](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/inv.md)
-- [wmfg](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/wmfg.md)
+- [wmfg](wmfg.md)
 - [ctanh](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/ctanh.md)
 - [plot](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/plot.md)
 - [jsize](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/jsize.md)

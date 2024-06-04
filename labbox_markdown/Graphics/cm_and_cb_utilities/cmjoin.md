@@ -1,7 +1,7 @@
 # cmjoin
 
 ## Function Calls
-- [cmjoin](Graphics/cm_and_cb_utilities/cmjoin.md)
+- [cmjoin](cmjoin.md)
 - [figure](Graphics/cm_and_cb_utilities/figure.md)
 - [zeros](Graphics/cm_and_cb_utilities/zeros.md)
 - [log10](Graphics/cm_and_cb_utilities/log10.md)
@@ -42,7 +42,7 @@
 - [isfinite](Graphics/cm_and_cb_utilities/isfinite.md)
 - [size](Graphics/cm_and_cb_utilities/size.md)
 - [ceil](Graphics/cm_and_cb_utilities/ceil.md)
-- [cmapping](Graphics/cm_and_cb_utilities/cmapping.md)
+- [cmapping](cmapping.md)
 - [length](Graphics/cm_and_cb_utilities/length.md)
 - [varargin](Graphics/cm_and_cb_utilities/varargin.md)
 - [joined ](Graphics/cm_and_cb_utilities/joined .md)

@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [histc ](Graphics/histc .md)
-- [histcI](Graphics/histcI.md)
+- [histcI](histcI.md)
 - [n](Graphics/n.md)
 - [bin](Graphics/bin.md)
 - [edges](Graphics/edges.md)

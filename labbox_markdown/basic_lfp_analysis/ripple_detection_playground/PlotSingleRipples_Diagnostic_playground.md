@@ -47,7 +47,7 @@
 - [exist](basic_lfp_analysis/ripple_detection_playground/exist.md)
 - [FractionSuprathresholdPowerSamples](basic_lfp_analysis/ripple_detection_playground/FractionSuprathresholdPowerSamples.md)
 - [WinCentered2Times](basic_lfp_analysis/ripple_detection_playground/WinCentered2Times.md)
-- [PlotSingleRipples_Diagnostic_playground](basic_lfp_analysis/ripple_detection_playground/PlotSingleRipples_Diagnostic_playground.md)
+- [PlotSingleRipples_Diagnostic_playground](PlotSingleRipples_Diagnostic_playground.md)
 - [ylabel](basic_lfp_analysis/ripple_detection_playground/ylabel.md)
 - [min](basic_lfp_analysis/ripple_detection_playground/min.md)
 - [h4](basic_lfp_analysis/ripple_detection_playground/h4.md)

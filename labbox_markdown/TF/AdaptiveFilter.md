@@ -1,13 +1,13 @@
 # AdaptiveFilter
 
 ## Function Calls
-- [dbs](TF/dbs.md)
+- [dbs](../../Modules/TF/dbs.md)
 - [y](TF/y.md)
 - [strcmp](TF/strcmp.md)
 - [hilbert](TF/hilbert.md)
-- [AdaptiveFilter](TF/AdaptiveFilter.md)
+- [AdaptiveFilter](AdaptiveFilter.md)
 - [median](TF/median.md)
-- [MTFilter](TF/MTFilter.md)
+- [MTFilter](MTFilter.md)
 - [myRange](TF/myRange.md)
 - [repmat](TF/repmat.md)
 - [size](TF/size.md)
@@ -16,6 +16,6 @@
 - [angle](TF/angle.md)
 - [DefaultArgs](TF/DefaultArgs.md)
 - [nextpow2](TF/nextpow2.md)
-- [ButFilter](TF/ButFilter.md)
+- [ButFilter](ButFilter.md)
 - [ProcessInChunks](TF/ProcessInChunks.md)
 - [length](TF/length.md)

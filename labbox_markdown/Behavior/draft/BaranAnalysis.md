@@ -5,7 +5,7 @@
 - [figure](Behavior/draft/figure.md)
 - [num2str](Behavior/draft/num2str.md)
 - [log10](Behavior/draft/log10.md)
-- [BaranAnalysis](Behavior/draft/BaranAnalysis.md)
+- [BaranAnalysis](BaranAnalysis.md)
 - [double](Behavior/draft/double.md)
 - [cd](Behavior/draft/cd.md)
 - [matlabpool](Behavior/draft/matlabpool.md)

@@ -28,7 +28,7 @@
 - [sqrt](Helper/sqrt.md)
 - [data ](Helper/data .md)
 - [max](Helper/max.md)
-- [myecdf](Helper/myecdf.md)
+- [myecdf](myecdf.md)
 - [size](Helper/size.md)
 - [isa](Helper/isa.md)
 - [se](Helper/se.md)

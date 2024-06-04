@@ -13,7 +13,7 @@
 - [error](Graphics/error.md)
 - [gobjects](Graphics/gobjects.md)
 - [axes](Graphics/axes.md)
-- [tight_subplot](Graphics/tight_subplot.md)
+- [tight_subplot](tight_subplot.md)
 - [gap](Graphics/gap.md)
 - [numel](Graphics/numel.md)
 - [marg_w](Graphics/marg_w.md)

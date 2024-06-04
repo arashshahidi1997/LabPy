@@ -24,7 +24,7 @@
 - [subplot](oephys/subplot.md)
 - [int16 ](oephys/int16 .md)
 - [error](oephys/error.md)
-- [RemoveChannelsFromDat](oephys/RemoveChannelsFromDat.md)
+- [RemoveChannelsFromDat](RemoveChannelsFromDat.md)
 - [fclose](oephys/fclose.md)
 - [flag](oephys/flag.md)
 - [feof](oephys/feof.md)

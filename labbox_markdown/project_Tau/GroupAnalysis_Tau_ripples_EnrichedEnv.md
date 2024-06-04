@@ -103,7 +103,7 @@
 - [SessionWeekList](project_Tau/SessionWeekList.md)
 - [TotalSesDuration_min](project_Tau/TotalSesDuration_min.md)
 - [Evgeny](project_Tau/Evgeny.md)
-- [GroupAnalysis_Tau_ripples_EnrichedEnv](project_Tau/GroupAnalysis_Tau_ripples_EnrichedEnv.md)
+- [GroupAnalysis_Tau_ripples_EnrichedEnv](GroupAnalysis_Tau_ripples_EnrichedEnv.md)
 - [analysis ](project_Tau/analysis .md)
 - [confidenceinterval](project_Tau/confidenceinterval.md)
 - [bar](project_Tau/bar.md)

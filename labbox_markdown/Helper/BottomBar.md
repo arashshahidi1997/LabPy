@@ -11,7 +11,7 @@
 - [view](Helper/view.md)
 - [axes](Helper/axes.md)
 - [text](Helper/text.md)
-- [BottomBar](Helper/BottomBar.md)
+- [BottomBar](BottomBar.md)
 - [legend](Helper/legend.md)
 - [get](Helper/get.md)
 - [pos](Helper/pos.md)

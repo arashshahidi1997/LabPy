@@ -9,7 +9,7 @@
 - [triu](Stats/triu.md)
 - [sin](Stats/sin.md)
 - [feature](Stats/feature.md)
-- [PPC](Stats/PPC.md)
+- [PPC](PPC.md)
 - [processing ](Stats/processing .md)
 - [delete](Stats/delete.md)
 - [cos](Stats/cos.md)

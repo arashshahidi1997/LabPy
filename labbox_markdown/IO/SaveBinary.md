@@ -8,7 +8,7 @@
 - [parameters ](IO/parameters .md)
 - [fwrite](IO/fwrite.md)
 - [mod](IO/mod.md)
-- [SaveBinary](IO/SaveBinary.md)
+- [SaveBinary](SaveBinary.md)
 - [fopen](IO/fopen.md)
 - [property ](IO/property .md)
 - [pairs ](IO/pairs .md)

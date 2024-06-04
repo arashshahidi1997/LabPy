@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [strcmp](IO/strcmp.md)
-- [msave](IO/msave.md)
+- [msave](msave.md)
 - [if ](IO/if .md)
 - [matrix](IO/matrix.md)
 - [fopen](IO/fopen.md)

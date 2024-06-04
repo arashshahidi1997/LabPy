@@ -85,7 +85,7 @@
 - [buttord](basic_lfp_analysis/csd/buttord.md)
 - [phase ](basic_lfp_analysis/csd/phase .md)
 - [ylim](basic_lfp_analysis/csd/ylim.md)
-- [CSDTrigAverTheta](basic_lfp_analysis/csd/CSDTrigAverTheta.md)
+- [CSDTrigAverTheta](CSDTrigAverTheta.md)
 - [out](basic_lfp_analysis/csd/out.md)
 - [colormap](basic_lfp_analysis/csd/colormap.md)
 - [error](basic_lfp_analysis/csd/error.md)

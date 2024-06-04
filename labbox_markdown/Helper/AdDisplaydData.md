@@ -7,7 +7,7 @@
 - [max](Helper/max.md)
 - [isnumeric](Helper/isnumeric.md)
 - [gBrowseData](Helper/gBrowseData.md)
-- [AdDisplaydData](Helper/AdDisplaydData.md)
+- [AdDisplaydData](AdDisplaydData.md)
 - [error](Helper/error.md)
 - [size](Helper/size.md)
 - [length](Helper/length.md)

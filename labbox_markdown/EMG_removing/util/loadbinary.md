@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [PatchLen](EMG_removing/util/PatchLen.md)
-- [loadbinary](EMG_removing/util/loadbinary.md)
+- [loadbinary](loadbinary.md)
 - [zeros](EMG_removing/util/zeros.md)
 - [num2str](EMG_removing/util/num2str.md)
 - [unique](EMG_removing/util/unique.md)
@@ -31,7 +31,7 @@
 - [FileName](EMG_removing/util/FileName.md)
 - [fprintf](EMG_removing/util/fprintf.md)
 - [datatypesize](EMG_removing/util/datatypesize.md)
-- [loadxml](EMG_removing/util/loadxml.md)
+- [loadxml](loadxml.md)
 - [size](EMG_removing/util/size.md)
 - [ceil](EMG_removing/util/ceil.md)
 - [feval](EMG_removing/util/feval.md)
@@ -52,7 +52,7 @@
 - [fclose](EMG_removing/util/fclose.md)
 - [logical](EMG_removing/util/logical.md)
 - [file ](EMG_removing/util/file .md)
-- [DefaultArgs](EMG_removing/util/DefaultArgs.md)
+- [DefaultArgs](DefaultArgs.md)
 - [fast ](EMG_removing/util/fast .md)
 - [fileinfo](EMG_removing/util/fileinfo.md)
 - [PatchSkip](EMG_removing/util/PatchSkip.md)

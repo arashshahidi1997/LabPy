@@ -3,7 +3,7 @@
 ## Function Calls
 - [zeros](Helper/zeros.md)
 - [max](Helper/max.md)
-- [IntersectRanges](Helper/IntersectRanges.md)
+- [IntersectRanges](IntersectRanges.md)
 - [v1](Helper/v1.md)
 - [size](Helper/size.md)
 - [min](Helper/min.md)

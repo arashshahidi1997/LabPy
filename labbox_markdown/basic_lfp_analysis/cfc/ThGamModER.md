@@ -28,7 +28,7 @@
 - [num2str](basic_lfp_analysis/cfc/num2str.md)
 - [sq](basic_lfp_analysis/cfc/sq.md)
 - [Rth](basic_lfp_analysis/cfc/Rth.md)
-- [ThGamModER](basic_lfp_analysis/cfc/ThGamModER.md)
+- [ThGamModER](ThGamModER.md)
 - [diff](basic_lfp_analysis/cfc/diff.md)
 - [save](basic_lfp_analysis/cfc/save.md)
 - [get](basic_lfp_analysis/cfc/get.md)

@@ -9,5 +9,5 @@
 - [norm](CSD/kCSD/ica/kCsd1D/norm.md)
 - [size](CSD/kCSD/ica/kCsd1D/size.md)
 - [beta](CSD/kCSD/ica/kCsd1D/beta.md)
-- [calc_err](CSD/kCSD/ica/kCsd1D/calc_err.md)
+- [calc_err](calc_err.md)
 - [length](CSD/kCSD/ica/kCsd1D/length.md)

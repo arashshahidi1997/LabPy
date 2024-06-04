@@ -4,7 +4,7 @@
 - [things ](oephys/things .md)
 - [data ](oephys/data .md)
 - [cd](oephys/cd.md)
-- [ConvertOephys2dat](oephys/ConvertOephys2dat.md)
+- [ConvertOephys2dat](ConvertOephys2dat.md)
 - [channels ](oephys/channels .md)
 - [editor ](oephys/editor .md)
 - [order ](oephys/order .md)

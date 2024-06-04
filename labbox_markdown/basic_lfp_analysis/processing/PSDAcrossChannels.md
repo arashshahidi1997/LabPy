@@ -35,7 +35,7 @@
 - [loadrangefiles](basic_lfp_analysis/processing/loadrangefiles.md)
 - [load](basic_lfp_analysis/processing/load.md)
 - [find](basic_lfp_analysis/processing/find.md)
-- [PSDAcrossChannels](basic_lfp_analysis/processing/PSDAcrossChannels.md)
+- [PSDAcrossChannels](PSDAcrossChannels.md)
 - [delete](basic_lfp_analysis/processing/delete.md)
 - [max](basic_lfp_analysis/processing/max.md)
 - [prctile](basic_lfp_analysis/processing/prctile.md)

@@ -43,7 +43,7 @@
 - [CorrectMeanSpecPower](basic_lfp_analysis/anat_profile/CorrectMeanSpecPower.md)
 - [bursts ](basic_lfp_analysis/anat_profile/bursts .md)
 - [BurstStatByChannelsStates](basic_lfp_analysis/anat_profile/BurstStatByChannelsStates.md)
-- [ProcessAnatProfile_GammaBursts](basic_lfp_analysis/anat_profile/ProcessAnatProfile_GammaBursts.md)
+- [ProcessAnatProfile_GammaBursts](ProcessAnatProfile_GammaBursts.md)
 - [length](basic_lfp_analysis/anat_profile/length.md)
 - [GoThroughDb](basic_lfp_analysis/anat_profile/GoThroughDb.md)
 - [Channels](basic_lfp_analysis/anat_profile/Channels.md)

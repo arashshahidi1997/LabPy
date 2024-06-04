@@ -6,7 +6,7 @@
 - [fgetl](IO/fgetl.md)
 - [fopen](IO/fopen.md)
 - [isempty](IO/isempty.md)
-- [LoadOptData](IO/LoadOptData.md)
+- [LoadOptData](LoadOptData.md)
 - [fclose](IO/fclose.md)
 - [data](IO/data.md)
 - [fprintf](IO/fprintf.md)

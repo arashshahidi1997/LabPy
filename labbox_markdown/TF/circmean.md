@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [exp](TF/exp.md)
-- [circmean](TF/circmean.md)
+- [circmean](circmean.md)
 - [data_rad](TF/data_rad.md)
 - [isempty](TF/isempty.md)
 - [error](TF/error.md)

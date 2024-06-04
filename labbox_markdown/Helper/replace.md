@@ -1,7 +1,7 @@
 # replace
 
 ## Function Calls
-- [REPLACE](Helper/REPLACE.md)
+- [replace](replace.md)
 - [isequal](Helper/isequal.md)
 - [all](Helper/all.md)
 - [min](Helper/min.md)
@@ -16,7 +16,7 @@
 - [numel](Helper/numel.md)
 - [nargchk](Helper/nargchk.md)
 - [ismember](Helper/ismember.md)
-- [replace](Helper/replace.md)
+- [replace](replace.md)
 - [cellfun](Helper/cellfun.md)
 - [isempty](Helper/isempty.md)
 - [error](Helper/error.md)

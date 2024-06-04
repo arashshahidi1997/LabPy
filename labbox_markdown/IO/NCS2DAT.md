@@ -25,7 +25,7 @@
 - [warning](IO/warning.md)
 - [Buffer](IO/Buffer.md)
 - [NCSpath](IO/NCSpath.md)
-- [NCS2DAT](IO/NCS2DAT.md)
+- [NCS2DAT](NCS2DAT.md)
 - [fseek](IO/fseek.md)
 - [get](IO/get.md)
 - [find](IO/find.md)

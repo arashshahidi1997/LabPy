@@ -1,7 +1,7 @@
 # clipPolygon
 
 ## Function Calls
-- [clipPolygon](Graphics/clipPolygon.md)
+- [clipPolygon](clipPolygon.md)
 - [zeros](Graphics/zeros.md)
 - [unique](Graphics/unique.md)
 - [clipEdge](Graphics/clipEdge.md)

@@ -2,5 +2,5 @@
 
 ## Function Calls
 - [mkdir](Helper/mkdir.md)
-- [mkdir2](Helper/mkdir2.md)
+- [mkdir2](mkdir2.md)
 - [exist](Helper/exist.md)

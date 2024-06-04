@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [set](Graphics/set.md)
-- [subplotplus](Graphics/subplotplus.md)
+- [subplotplus](subplotplus.md)
 - [xlabel](Graphics/xlabel.md)
 - [figure](Graphics/figure.md)
 - [plot](Graphics/plot.md)

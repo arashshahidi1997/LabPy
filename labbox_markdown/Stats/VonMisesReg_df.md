@@ -7,7 +7,7 @@
 - [dg](Stats/dg.md)
 - [inline](Stats/inline.md)
 - [atan](Stats/atan.md)
-- [VonMisesReg_df](Stats/VonMisesReg_df.md)
+- [VonMisesReg_df](VonMisesReg_df.md)
 - [size](Stats/size.md)
 - [repmat](Stats/repmat.md)
 - [v](Stats/v.md)

@@ -9,7 +9,7 @@
 - [FireRate](Behavior/FireRate.md)
 - [mean](Behavior/mean.md)
 - [find](Behavior/find.md)
-- [myPFPlot](Behavior/myPFPlot.md)
+- [myPFPlot](myPFPlot.md)
 - [max](Behavior/max.md)
 - [size](Behavior/size.md)
 - [axes](Behavior/axes.md)

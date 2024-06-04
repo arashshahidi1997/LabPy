@@ -7,7 +7,7 @@
 - [session ](basic_lfp_analysis/processing/session .md)
 - [figure](basic_lfp_analysis/processing/figure.md)
 - [unique](basic_lfp_analysis/processing/unique.md)
-- [InterpBadChannels](basic_lfp_analysis/processing/InterpBadChannels.md)
+- [InterpBadChannels](InterpBadChannels.md)
 - [NONE ](basic_lfp_analysis/processing/NONE .md)
 - [min](basic_lfp_analysis/processing/min.md)
 - [fread](basic_lfp_analysis/processing/fread.md)

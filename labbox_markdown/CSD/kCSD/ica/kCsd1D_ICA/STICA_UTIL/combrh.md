@@ -3,7 +3,7 @@
 ## Function Calls
 - [ones](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/ones.md)
 - [zeros](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/zeros.md)
-- [combrh](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/combrh.md)
+- [combrh](combrh.md)
 - [Evers ](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/Evers .md)
 - [isempty](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/isempty.md)
 - [Dommelen ](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/Dommelen .md)

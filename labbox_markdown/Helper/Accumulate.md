@@ -3,7 +3,7 @@
 ## Function Calls
 - [isequal](Helper/isequal.md)
 - [reshape](Helper/reshape.md)
-- [sub2ind](Helper/sub2ind.md)
+- [Sub2Ind](Sub2Ind.md)
 - [any](Helper/any.md)
 - [Ip](Helper/Ip.md)
 - [sparse](Helper/sparse.md)
@@ -14,7 +14,7 @@
 - [full](Helper/full.md)
 - [size](Helper/size.md)
 - [Index](Helper/Index.md)
-- [Accumulate](Helper/Accumulate.md)
+- [Accumulate](Accumulate.md)
 - [length](Helper/length.md)
 - [ones](Helper/ones.md)
 - [Size](Helper/Size.md)

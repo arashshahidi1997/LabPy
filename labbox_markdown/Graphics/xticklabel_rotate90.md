@@ -8,7 +8,7 @@
 - [repmat](Graphics/repmat.md)
 - [isnumeric](Graphics/isnumeric.md)
 - [isempty](Graphics/isempty.md)
-- [xticklabel_rotate90](Graphics/xticklabel_rotate90.md)
+- [xticklabel_rotate90](xticklabel_rotate90.md)
 - [error](Graphics/error.md)
 - [size](Graphics/size.md)
 - [xlim](Graphics/xlim.md)

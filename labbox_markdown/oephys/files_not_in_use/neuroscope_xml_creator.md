@@ -6,4 +6,4 @@
 - [num2str](oephys/files_not_in_use/num2str.md)
 - [struct2xml](oephys/files_not_in_use/struct2xml.md)
 - [isempty](oephys/files_not_in_use/isempty.md)
-- [neuroscope_xml_creator](oephys/files_not_in_use/neuroscope_xml_creator.md)
+- [neuroscope_xml_creator](neuroscope_xml_creator.md)

@@ -29,7 +29,7 @@
 - [p](basic_lfp_analysis/theta/p.md)
 - [Animal4GroupList](basic_lfp_analysis/theta/Animal4GroupList.md)
 - [suptitle2](basic_lfp_analysis/theta/suptitle2.md)
-- [ProcessTheta_GroupStat](basic_lfp_analysis/theta/ProcessTheta_GroupStat.md)
+- [ProcessTheta_GroupStat](ProcessTheta_GroupStat.md)
 - [frequency ](basic_lfp_analysis/theta/frequency .md)
 - [std](basic_lfp_analysis/theta/std.md)
 - [AnimValidity](basic_lfp_analysis/theta/AnimValidity.md)

@@ -7,7 +7,7 @@
 - [zeros](Helper/zeros.md)
 - [Gaussian ](Helper/Gaussian .md)
 - [round](Helper/round.md)
-- [fastsmooth](Helper/fastsmooth.md)
+- [fastsmooth](fastsmooth.md)
 - [s](Helper/s.md)
 - [size](Helper/size.md)
 - [SmoothY](Helper/SmoothY.md)

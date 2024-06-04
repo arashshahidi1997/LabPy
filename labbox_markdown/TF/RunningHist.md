@@ -7,7 +7,7 @@
 - [reshape](TF/reshape.md)
 - [hist](TF/hist.md)
 - [imagesc](TF/imagesc.md)
-- [RunningHist](TF/RunningHist.md)
+- [RunningHist](RunningHist.md)
 - [mod](TF/mod.md)
 - [ind](TF/ind.md)
 - [round](TF/round.md)

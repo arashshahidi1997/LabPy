@@ -40,7 +40,7 @@
 - [d ](basic_lfp_analysis/ripples/d .md)
 - [RipplePeakFrequency](basic_lfp_analysis/ripples/RipplePeakFrequency.md)
 - [subfolder ](basic_lfp_analysis/ripples/subfolder .md)
-- [PlotSingleRipples_PSD](basic_lfp_analysis/ripples/PlotSingleRipples_PSD.md)
+- [PlotSingleRipples_PSD](PlotSingleRipples_PSD.md)
 - [prctile](basic_lfp_analysis/ripples/prctile.md)
 - [mkdir2](basic_lfp_analysis/ripples/mkdir2.md)
 - [h2](basic_lfp_analysis/ripples/h2.md)

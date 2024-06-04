@@ -13,7 +13,7 @@
 - [sR    ](CSD/kCSD/ica/kCsd1D_ICA/icasso/sR    .md)
 - [rows ](CSD/kCSD/ica/kCsd1D_ICA/icasso/rows .md)
 - [dimension ](CSD/kCSD/ica/kCsd1D_ICA/icasso/dimension .md)
-- [icassoGet](CSD/kCSD/ica/kCsd1D_ICA/icasso/icassoGet.md)
+- [icassoGet](icassoGet.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/icasso/size.md)
 - [out](CSD/kCSD/ica/kCsd1D_ICA/icasso/out.md)
 - [getDeWhitening](CSD/kCSD/ica/kCsd1D_ICA/icasso/getDeWhitening.md)

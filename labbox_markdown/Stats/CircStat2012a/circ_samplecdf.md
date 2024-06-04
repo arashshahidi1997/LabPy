@@ -7,7 +7,7 @@
 - [zeros](Stats/CircStat2012a/zeros.md)
 - [phis](Stats/CircStat2012a/phis.md)
 - [cdf](Stats/CircStat2012a/cdf.md)
-- [circ_samplecdf](Stats/CircStat2012a/circ_samplecdf.md)
+- [circ_samplecdf](circ_samplecdf.md)
 - [phis2](Stats/CircStat2012a/phis2.md)
 - [sample ](Stats/CircStat2012a/sample .md)
 - [abs](Stats/CircStat2012a/abs.md)

@@ -21,6 +21,6 @@
 - [isempty](Graphics/isempty.md)
 - [error](Graphics/error.md)
 - [fclose](Graphics/fclose.md)
-- [xgvis](Graphics/xgvis.md)
+- [xgvis](xgvis.md)
 - [fprintf](Graphics/fprintf.md)
 - [repmat](Graphics/repmat.md)

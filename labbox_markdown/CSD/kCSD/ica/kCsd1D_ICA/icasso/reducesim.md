@@ -7,7 +7,7 @@
 - [Copyright ](CSD/kCSD/ica/kCsd1D_ICA/icasso/Copyright .md)
 - [minLimit  ](CSD/kCSD/ica/kCsd1D_ICA/icasso/minLimit  .md)
 - [S         ](CSD/kCSD/ica/kCsd1D_ICA/icasso/S         .md)
-- [reducesim](CSD/kCSD/ica/kCsd1D_ICA/icasso/reducesim.md)
+- [reducesim](reducesim.md)
 - [scatterLimit ](CSD/kCSD/ica/kCsd1D_ICA/icasso/scatterLimit .md)
 - [tril](CSD/kCSD/ica/kCsd1D_ICA/icasso/tril.md)
 - [warning](CSD/kCSD/ica/kCsd1D_ICA/icasso/warning.md)

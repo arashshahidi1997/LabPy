@@ -6,7 +6,7 @@
 - [line](Graphics/line.md)
 - [vertical ](Graphics/vertical .md)
 - [unique](Graphics/unique.md)
-- [Lines](Graphics/Lines.md)
+- [Lines](Lines.md)
 - [set](Graphics/set.md)
 - [elseif ](Graphics/elseif .md)
 - [x](Graphics/x.md)

@@ -14,7 +14,7 @@
 - [sprintf](basic_lfp_analysis/helpers/sprintf.md)
 - [fclose](basic_lfp_analysis/helpers/fclose.md)
 - [Evgeny ](basic_lfp_analysis/helpers/Evgeny .md)
-- [LoadGroupStatList](basic_lfp_analysis/helpers/LoadGroupStatList.md)
+- [LoadGroupStatList](LoadGroupStatList.md)
 - [repmat](basic_lfp_analysis/helpers/repmat.md)
 - [SessionList](basic_lfp_analysis/helpers/SessionList.md)
 - [length](basic_lfp_analysis/helpers/length.md)

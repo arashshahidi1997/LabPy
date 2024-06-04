@@ -55,7 +55,7 @@
 - [get](Behavior/draft/get.md)
 - [ChMap](Behavior/draft/ChMap.md)
 - [Map](Behavior/draft/Map.md)
-- [PhaseSynchronization](Behavior/draft/PhaseSynchronization.md)
+- [PhaseSynchronization](PhaseSynchronization.md)
 - [max](Behavior/draft/max.md)
 - [uch](Behavior/draft/uch.md)
 - [size](Behavior/draft/size.md)

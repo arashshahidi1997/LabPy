@@ -27,7 +27,7 @@
 - [size](basic_lfp_analysis/behavior/size.md)
 - [acceleration ](basic_lfp_analysis/behavior/acceleration .md)
 - [length](basic_lfp_analysis/behavior/length.md)
-- [GetAcceleration](basic_lfp_analysis/behavior/GetAcceleration.md)
+- [GetAcceleration](GetAcceleration.md)
 - [spd](basic_lfp_analysis/behavior/spd.md)
 - [vector ](basic_lfp_analysis/behavior/vector .md)
 - [exist](basic_lfp_analysis/behavior/exist.md)

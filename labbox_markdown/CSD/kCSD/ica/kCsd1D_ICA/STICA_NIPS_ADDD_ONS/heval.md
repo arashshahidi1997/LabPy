@@ -14,7 +14,7 @@
 - [feval](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/feval.md)
 - [length](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/length.md)
 - [ones](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/ones.md)
-- [heval](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/heval.md)
+- [heval](heval.md)
 - [sum](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sum.md)
 - [isempty](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/isempty.md)
 - [erf](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/erf.md)
