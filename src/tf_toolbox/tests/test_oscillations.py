@@ -1,0 +1,2 @@
+"""test_oscillations module."""
+

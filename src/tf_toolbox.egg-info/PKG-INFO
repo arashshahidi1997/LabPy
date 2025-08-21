@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: tf_toolbox
+Version: 0.0.1
+Summary: Time–frequency analysis toolbox (Python reimplementation of MATLAB TF)
+Author: LabPy
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: mne>=1.6.0
+Dynamic: requires-python
+
+# TF Toolbox (Python)
+
+A Pythonic but faithful reimplementation of the MATLAB TF directory for neural time–frequency analysis.
+
+See `tf_toolbox/` for subpackages and placeholder functions to implement. 

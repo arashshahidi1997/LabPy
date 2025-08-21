@@ -1,0 +1,12 @@
+[project]
+name = "tf_toolbox"
+version = "0.0.1"
+description = "Time–frequency analysis toolbox (Python reimplementation of MATLAB TF)"
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [{name="LabPy"}]
+dependencies = ["numpy", "scipy", "matplotlib", "mne>=1.6.0"]
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
