@@ -19,7 +19,7 @@
 - [cellsize](Graphics/cellsize.md)
 - [s](Graphics/s.md)
 - [get](Graphics/get.md)
-- [subplotplus](Graphics/subplotplus.md)
+- [subplotplus](subplotplus.md)
 - [prod](Graphics/prod.md)
 - [if ](Graphics/if .md)
 - [ylim](Graphics/ylim.md)

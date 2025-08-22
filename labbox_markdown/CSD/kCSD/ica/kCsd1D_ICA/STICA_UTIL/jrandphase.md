@@ -1,7 +1,7 @@
 # jrandphase
 
 ## Function Calls
-- [jrandphase](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/jrandphase.md)
+- [jrandphase](jrandphase.md)
 - [figure](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/figure.md)
 - [randphase](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/randphase.md)
 - [rand](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/rand.md)

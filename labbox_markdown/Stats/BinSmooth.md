@@ -11,7 +11,7 @@
 - [x](Stats/x.md)
 - [Bins](Stats/Bins.md)
 - [find](Stats/find.md)
-- [BinSmooth](Stats/BinSmooth.md)
+- [BinSmooth](BinSmooth.md)
 - [Resid](Stats/Resid.md)
 - [median](Stats/median.md)
 - [if ](Stats/if .md)

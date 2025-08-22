@@ -14,7 +14,7 @@
 - [mean](Stats/mean.md)
 - [x](Stats/x.md)
 - [sd](Stats/sd.md)
-- [MeanSmooth](Stats/MeanSmooth.md)
+- [MeanSmooth](MeanSmooth.md)
 - [stderr](Stats/stderr.md)
 - [length](Stats/length.md)
 - [find](Stats/find.md)

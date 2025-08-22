@@ -57,7 +57,7 @@
 - [prctile](DetectRipplesFMA/prctile.md)
 - [mkdir2](DetectRipplesFMA/mkdir2.md)
 - [h2](DetectRipplesFMA/h2.md)
-- [DetectRipplesFMA_Diagnostic](DetectRipplesFMA/DetectRipplesFMA_Diagnostic.md)
+- [DetectRipplesFMA_Diagnostic](DetectRipplesFMA_Diagnostic.md)
 - [length](DetectRipplesFMA/length.md)
 - [Filter0](DetectRipplesFMA/Filter0.md)
 - [LoadBinary](DetectRipplesFMA/LoadBinary.md)

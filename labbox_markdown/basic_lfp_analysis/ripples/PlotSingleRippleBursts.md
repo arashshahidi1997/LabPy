@@ -19,7 +19,7 @@
 - [title](basic_lfp_analysis/ripples/title.md)
 - [AxisPropForIllustrator](basic_lfp_analysis/ripples/AxisPropForIllustrator.md)
 - [provided ](basic_lfp_analysis/ripples/provided .md)
-- [PlotSingleRippleBursts](basic_lfp_analysis/ripples/PlotSingleRippleBursts.md)
+- [PlotSingleRippleBursts](PlotSingleRippleBursts.md)
 - [set](basic_lfp_analysis/ripples/set.md)
 - [ripind](basic_lfp_analysis/ripples/ripind.md)
 - [xlabel](basic_lfp_analysis/ripples/xlabel.md)

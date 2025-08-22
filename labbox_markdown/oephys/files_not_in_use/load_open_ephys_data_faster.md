@@ -1,7 +1,7 @@
 # load_open_ephys_data_faster
 
 ## Function Calls
-- [load_open_ephys_data_faster](oephys/files_not_in_use/load_open_ephys_data_faster.md)
+- [load_open_ephys_data_faster](load_open_ephys_data_faster.md)
 - [Copyright ](oephys/files_not_in_use/Copyright .md)
 - [all](oephys/files_not_in_use/all.md)
 - [dblock](oephys/files_not_in_use/dblock.md)
@@ -13,7 +13,7 @@
 - [reshape](oephys/files_not_in_use/reshape.md)
 - [segRead_int16](oephys/files_not_in_use/segRead_int16.md)
 - [strcmp](oephys/files_not_in_use/strcmp.md)
-- [load_open_ephys_data](oephys/files_not_in_use/load_open_ephys_data.md)
+- [load_open_ephys_data](load_open_ephys_data.md)
 - [nsamples](oephys/files_not_in_use/nsamples.md)
 - [blockBytes](oephys/files_not_in_use/blockBytes.md)
 - [ts](oephys/files_not_in_use/ts.md)

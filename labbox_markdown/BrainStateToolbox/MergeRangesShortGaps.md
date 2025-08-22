@@ -20,6 +20,6 @@
 - [length](BrainStateToolbox/length.md)
 - [isempty](BrainStateToolbox/isempty.md)
 - [error](BrainStateToolbox/error.md)
-- [MergeRangesShortGaps](BrainStateToolbox/MergeRangesShortGaps.md)
+- [MergeRangesShortGaps](MergeRangesShortGaps.md)
 - [one ](BrainStateToolbox/one .md)
 - [DefaultArgs](BrainStateToolbox/DefaultArgs.md)

@@ -12,7 +12,7 @@
 - [double ](oephys/files_not_in_use/double .md)
 - [fopen](oephys/files_not_in_use/fopen.md)
 - [load_open_ephys_data_faster ](oephys/files_not_in_use/load_open_ephys_data_faster .md)
-- [loadOE](oephys/files_not_in_use/loadOE.md)
+- [loadOE](loadOE.md)
 - [gain](oephys/files_not_in_use/gain.md)
 - [any](oephys/files_not_in_use/any.md)
 - [ftell](oephys/files_not_in_use/ftell.md)

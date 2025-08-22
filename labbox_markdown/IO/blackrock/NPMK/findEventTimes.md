@@ -4,7 +4,7 @@
 - [display](IO/blackrock/NPMK/display.md)
 - [Units](IO/blackrock/NPMK/Units.md)
 - [exist](IO/blackrock/NPMK/exist.md)
-- [findEventTimes](IO/blackrock/NPMK/findEventTimes.md)
+- [findEventTimes](findEventTimes.md)
 - [TimeStamp](IO/blackrock/NPMK/TimeStamp.md)
 - [Waveform](IO/blackrock/NPMK/Waveform.md)
 - [double](IO/blackrock/NPMK/double.md)

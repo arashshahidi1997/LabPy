@@ -5,7 +5,7 @@
 - [mod](Stats/CircStat2012a/examples/mod.md)
 - [ischar](Stats/CircStat2012a/examples/ischar.md)
 - [varargin](Stats/CircStat2012a/examples/varargin.md)
-- [parseVarArgs](Stats/CircStat2012a/examples/parseVarArgs.md)
+- [parseVarArgs](parseVarArgs.md)
 - [isempty](Stats/CircStat2012a/examples/isempty.md)
 - [error](Stats/CircStat2012a/examples/error.md)
 - [find](Stats/CircStat2012a/examples/find.md)

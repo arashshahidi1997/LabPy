@@ -44,7 +44,7 @@
 - [camera ](oephys/camera .md)
 - [length](oephys/length.md)
 - [normalized ](oephys/normalized .md)
-- [CleanER](oephys/CleanER.md)
+- [CleanER](CleanER.md)
 - [sum](oephys/sum.md)
 - [plot](oephys/plot.md)
 - [subplot](oephys/subplot.md)

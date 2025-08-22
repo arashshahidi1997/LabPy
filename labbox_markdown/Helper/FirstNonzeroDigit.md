@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [n](Helper/n.md)
-- [FirstNonzeroDigit](Helper/FirstNonzeroDigit.md)
+- [FirstNonzeroDigit](FirstNonzeroDigit.md)
 - [log10](Helper/log10.md)
 - [isempty](Helper/isempty.md)
 - [floor](Helper/floor.md)

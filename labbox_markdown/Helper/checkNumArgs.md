@@ -18,4 +18,4 @@
 - [integers ](Helper/integers .md)
 - [x ](Helper/x .md)
 - [numel](Helper/numel.md)
-- [checkNumArgs](Helper/checkNumArgs.md)
+- [checkNumArgs](checkNumArgs.md)

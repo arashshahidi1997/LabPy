@@ -8,7 +8,7 @@
 - [Eqn](TF/Eqn.md)
 - [scale](TF/scale.md)
 - [upper](TF/upper.md)
-- [wave_bases](TF/wave_bases.md)
+- [wave_bases](wave_bases.md)
 - [DirectProd](TF/DirectProd.md)
 - [exp](TF/exp.md)
 - [repmat](TF/repmat.md)

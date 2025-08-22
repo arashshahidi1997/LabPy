@@ -29,7 +29,7 @@
 - [get](basic_lfp_analysis/processing/get.md)
 - [colorbar](basic_lfp_analysis/processing/colorbar.md)
 - [find](basic_lfp_analysis/processing/find.md)
-- [CheckChanCrossTalk](basic_lfp_analysis/processing/CheckChanCrossTalk.md)
+- [CheckChanCrossTalk](CheckChanCrossTalk.md)
 - [disp](basic_lfp_analysis/processing/disp.md)
 - [mkdir2](basic_lfp_analysis/processing/mkdir2.md)
 - [size](basic_lfp_analysis/processing/size.md)

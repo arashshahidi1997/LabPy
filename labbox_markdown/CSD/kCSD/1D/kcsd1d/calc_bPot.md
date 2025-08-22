@@ -7,6 +7,6 @@
 - [max](CSD/kCSD/1D/kcsd1d/max.md)
 - [min](CSD/kCSD/1D/kcsd1d/min.md)
 - [bPot](CSD/kCSD/1D/kcsd1d/bPot.md)
-- [b_pot_quad](CSD/kCSD/1D/kcsd1d/b_pot_quad.md)
-- [calc_bPot](CSD/kCSD/1D/kcsd1d/calc_bPot.md)
+- [b_pot_quad](b_pot_quad.md)
+- [calc_bPot](calc_bPot.md)
 - [length](CSD/kCSD/1D/kcsd1d/length.md)

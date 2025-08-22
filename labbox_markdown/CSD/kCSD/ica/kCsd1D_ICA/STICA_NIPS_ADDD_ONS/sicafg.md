@@ -9,7 +9,7 @@
 - [g](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/g.md)
 - [repmat](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/repmat.md)
 - [det](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/det.md)
-- [sicafg](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sicafg.md)
+- [sicafg](sicafg.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/size.md)
 - [mean](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/mean.md)
 - [W](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/W.md)

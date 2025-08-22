@@ -3,7 +3,7 @@
 ## Function Calls
 - [zeros](IO/zeros.md)
 - [if ](IO/if .md)
-- [LoadBinary](IO/LoadBinary.md)
+- [LoadBinary](LoadBinary.md)
 - [fopen](IO/fopen.md)
 - [isempty](IO/isempty.md)
 - [sprintf](IO/sprintf.md)
@@ -18,4 +18,4 @@
 - [data](IO/data.md)
 - [mean](IO/mean.md)
 - [dir](IO/dir.md)
-- [readsinglech](IO/readsinglech.md)
+- [readsinglech](readsinglech.md)

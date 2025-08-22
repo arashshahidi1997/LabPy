@@ -5,7 +5,7 @@
 - [cat](Graphics/cat.md)
 - [ischar](Graphics/ischar.md)
 - [if ](Graphics/if .md)
-- [ForAllLabels](Graphics/ForAllLabels.md)
+- [ForAllLabels](ForAllLabels.md)
 - [labelText](Graphics/labelText.md)
 - [length](Graphics/length.md)
 - [findobj](Graphics/findobj.md)

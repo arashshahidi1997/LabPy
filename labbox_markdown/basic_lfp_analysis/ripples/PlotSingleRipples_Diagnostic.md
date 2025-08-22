@@ -30,7 +30,7 @@
 - [num2str](basic_lfp_analysis/ripples/num2str.md)
 - [session ](basic_lfp_analysis/ripples/session .md)
 - [reference ](basic_lfp_analysis/ripples/reference .md)
-- [PlotSingleRipples_Diagnostic](basic_lfp_analysis/ripples/PlotSingleRipples_Diagnostic.md)
+- [PlotSingleRipples_Diagnostic](PlotSingleRipples_Diagnostic.md)
 - [PerOutlierFract](basic_lfp_analysis/ripples/PerOutlierFract.md)
 - [diff](basic_lfp_analysis/ripples/diff.md)
 - [duration ](basic_lfp_analysis/ripples/duration .md)

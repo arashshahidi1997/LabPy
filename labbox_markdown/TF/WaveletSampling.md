@@ -3,7 +3,7 @@
 ## Function Calls
 - [log2](TF/log2.md)
 - [sqrt](TF/sqrt.md)
-- [WaveletSampling](TF/WaveletSampling.md)
+- [WaveletSampling](WaveletSampling.md)
 - [round](TF/round.md)
 - [flipud](TF/flipud.md)
 - [s](TF/s.md)

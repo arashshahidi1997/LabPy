@@ -6,7 +6,7 @@
 - [multiplier](Graphics/multiplier.md)
 - [exist](Graphics/exist.md)
 - [plot](Graphics/plot.md)
-- [PlotAnatCurves](Graphics/PlotAnatCurves.md)
+- [PlotAnatCurves](PlotAnatCurves.md)
 - [isempty](Graphics/isempty.md)
 - [size](Graphics/size.md)
 - [get](Graphics/get.md)

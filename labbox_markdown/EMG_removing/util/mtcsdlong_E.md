@@ -3,7 +3,7 @@
 ## Function Calls
 - [frequency ](EMG_removing/util/frequency .md)
 - [y](EMG_removing/util/y.md)
-- [mtcsdlong_E](EMG_removing/util/mtcsdlong_E.md)
+- [mtcsdlong_E](mtcsdlong_E.md)
 - [zeros](EMG_removing/util/zeros.md)
 - [log10](EMG_removing/util/log10.md)
 - [num2str](EMG_removing/util/num2str.md)

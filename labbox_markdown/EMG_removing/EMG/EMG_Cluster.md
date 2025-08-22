@@ -11,7 +11,7 @@
 - [triu](EMG_removing/EMG/triu.md)
 - [rc_idx](EMG_removing/EMG/rc_idx.md)
 - [StartEnd1d](EMG_removing/EMG/StartEnd1d.md)
-- [EMG_Cluster](EMG_removing/EMG/EMG_Cluster.md)
+- [EMG_Cluster](EMG_Cluster.md)
 - [fastica](EMG_removing/EMG/fastica.md)
 - [diff](EMG_removing/EMG/diff.md)
 - [A](EMG_removing/EMG/A.md)

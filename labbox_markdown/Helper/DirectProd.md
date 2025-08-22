@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [legnth](Helper/legnth.md)
-- [DirectProd](Helper/DirectProd.md)
+- [DirectProd](DirectProd.md)
 - [b](Helper/b.md)
 - [a](Helper/a.md)
 - [repmat](Helper/repmat.md)

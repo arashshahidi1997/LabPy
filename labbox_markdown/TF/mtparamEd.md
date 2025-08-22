@@ -13,7 +13,7 @@
 - [size](TF/size.md)
 - [any](TF/any.md)
 - [FreqRange](TF/FreqRange.md)
-- [mtparam](TF/mtparam.md)
+- [mtparam](mtparam.md)
 - [isreal](TF/isreal.md)
 - [f](TF/f.md)
 - [length](TF/length.md)

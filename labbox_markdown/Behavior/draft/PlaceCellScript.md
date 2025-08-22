@@ -28,7 +28,7 @@
 - [below ](Behavior/draft/below .md)
 - [xlim](Behavior/draft/xlim.md)
 - [S](Behavior/draft/S.md)
-- [linearise_maze](Behavior/draft/linearise_maze.md)
+- [linearise_maze](linearise_maze.md)
 - [length](Behavior/draft/length.md)
 - [butter](Behavior/draft/butter.md)
 - [SpikeT](Behavior/draft/SpikeT.md)

@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [g](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/g.md)
-- [gradtest](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/gradtest.md)
+- [gradtest](gradtest.md)
 - [x2](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/x2.md)
 - [ge](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/ge.md)
 - [feval](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/feval.md)

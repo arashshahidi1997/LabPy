@@ -6,4 +6,4 @@
 - [Clu](IO/Clu.md)
 - [fclose](IO/fclose.md)
 - [fprintf](IO/fprintf.md)
-- [SaveClu](IO/SaveClu.md)
+- [SaveClu](SaveClu.md)

@@ -4,7 +4,7 @@
 - [sort](Stats/sort.md)
 - [prod](Stats/prod.md)
 - [max](Stats/max.md)
-- [RankOrder](Stats/RankOrder.md)
+- [RankOrder](RankOrder.md)
 - [error](Stats/error.md)
 - [size](Stats/size.md)
 - [isnan](Stats/isnan.md)

@@ -58,7 +58,7 @@
 - [wdth](basic_lfp_analysis/behavior/wdth.md)
 - [set](basic_lfp_analysis/behavior/set.md)
 - [xlabel](basic_lfp_analysis/behavior/xlabel.md)
-- [PlotPosSummary](basic_lfp_analysis/behavior/PlotPosSummary.md)
+- [PlotPosSummary](PlotPosSummary.md)
 - [badspdgaps](basic_lfp_analysis/behavior/badspdgaps.md)
 - [property ](basic_lfp_analysis/behavior/property .md)
 - [angle ](basic_lfp_analysis/behavior/angle .md)

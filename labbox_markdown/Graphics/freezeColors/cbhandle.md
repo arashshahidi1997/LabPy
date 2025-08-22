@@ -10,7 +10,7 @@
 - [set](Graphics/freezeColors/set.md)
 - [elseif ](Graphics/freezeColors/elseif .md)
 - [getappdata](Graphics/freezeColors/getappdata.md)
-- [cbhandle](Graphics/freezeColors/cbhandle.md)
+- [cbhandle](cbhandle.md)
 - [Aguilera ](Graphics/freezeColors/Aguilera .md)
 - [handle](Graphics/freezeColors/handle.md)
 - [get](Graphics/freezeColors/get.md)

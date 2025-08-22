@@ -6,7 +6,7 @@
 - [zeros](TF/zeros.md)
 - [unique](TF/unique.md)
 - [double](TF/double.md)
-- [LocalMinima](TF/LocalMinima.md)
+- [LocalMinima](LocalMinima.md)
 - [uint32](TF/uint32.md)
 - [min](TF/min.md)
 - [ind](TF/ind.md)

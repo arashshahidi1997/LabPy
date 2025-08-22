@@ -16,7 +16,7 @@
 - [strrep](oephys/strrep.md)
 - [createDocument](oephys/createDocument.md)
 - [based ](oephys/based .md)
-- [struct2xml](oephys/struct2xml.md)
+- [struct2xml](struct2xml.md)
 - [createElement](oephys/createElement.md)
 - [last ](oephys/last .md)
 - [whitespace](oephys/whitespace.md)

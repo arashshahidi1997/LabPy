@@ -3,7 +3,7 @@
 ## Function Calls
 - [y](Helper/y.md)
 - [indstrx](Helper/indstrx.md)
-- [MatDiag](Helper/MatDiag.md)
+- [MatDiag](MatDiag.md)
 - [unique](Helper/unique.md)
 - [sz](Helper/sz.md)
 - [isempty](Helper/isempty.md)

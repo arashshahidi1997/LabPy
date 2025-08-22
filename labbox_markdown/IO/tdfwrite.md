@@ -11,7 +11,7 @@
 - [fclose](IO/fclose.md)
 - [size](IO/size.md)
 - [field ](IO/field .md)
-- [tdfwrite](IO/tdfwrite.md)
+- [tdfwrite](tdfwrite.md)
 - [fprintf](IO/fprintf.md)
 - [nargchk](IO/nargchk.md)
 - [v](IO/v.md)

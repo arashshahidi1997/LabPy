@@ -12,7 +12,7 @@
 - [x](Graphics/x.md)
 - [a](Graphics/a.md)
 - [gradient](Graphics/gradient.md)
-- [plot3d](Graphics/plot3d.md)
+- [plot3d](plot3d.md)
 - [sqrt](Graphics/sqrt.md)
 - [max](Graphics/max.md)
 - [cos](Graphics/cos.md)

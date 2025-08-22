@@ -5,6 +5,6 @@
 - [exist](Graphics/exist.md)
 - [children](Graphics/children.md)
 - [eval](Graphics/eval.md)
-- [ForAllObjects](Graphics/ForAllObjects.md)
+- [ForAllObjects](ForAllObjects.md)
 - [get](Graphics/get.md)
 - [length](Graphics/length.md)

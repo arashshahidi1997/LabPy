@@ -29,7 +29,7 @@
 - [hilbert](basic_lfp_analysis/theta/hilbert.md)
 - [samples](basic_lfp_analysis/theta/samples.md)
 - [cheby2](basic_lfp_analysis/theta/cheby2.md)
-- [ThetaPhaseER](basic_lfp_analysis/theta/ThetaPhaseER.md)
+- [ThetaPhaseER](ThetaPhaseER.md)
 - [t](basic_lfp_analysis/theta/t.md)
 - [size](basic_lfp_analysis/theta/size.md)
 - [lmin](basic_lfp_analysis/theta/lmin.md)

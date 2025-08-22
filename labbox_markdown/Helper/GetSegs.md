@@ -9,7 +9,7 @@
 - [error](Helper/error.md)
 - [size](Helper/size.md)
 - [min](Helper/min.md)
-- [GetSegs](Helper/GetSegs.md)
+- [GetSegs](GetSegs.md)
 - [x](Helper/x.md)
 - [any](Helper/any.md)
 - [IndMat1](Helper/IndMat1.md)

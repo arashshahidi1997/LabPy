@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [unique](TF/unique.md)
-- [FiringRate](TF/FiringRate.md)
+- [FiringRate](FiringRate.md)
 - [eval](TF/eval.md)
 - [AllPeriod](TF/AllPeriod.md)
 - [LoadCluRes](TF/LoadCluRes.md)
@@ -23,11 +23,11 @@
 - [uph](TF/uph.md)
 - [FreqRanges](TF/FreqRanges.md)
 - [ph](TF/ph.md)
-- [Gamma_EcHpc_GU](TF/Gamma_EcHpc_GU.md)
+- [Gamma_EcHpc_GU](Gamma_EcHpc_GU.md)
 - [size](TF/size.md)
 - [RayleighTest](TF/RayleighTest.md)
 - [out](TF/out.md)
-- [ButFilter](TF/ButFilter.md)
+- [ButFilter](ButFilter.md)
 - [length](TF/length.md)
 - [MakeUniformDistr](TF/MakeUniformDistr.md)
 - [LoadBinary](TF/LoadBinary.md)

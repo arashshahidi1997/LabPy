@@ -21,7 +21,7 @@
 - [boot_draw](Stats/boot_draw.md)
 - [estim](Stats/estim.md)
 - [sqrt](Stats/sqrt.md)
-- [MultimodalTest](Stats/MultimodalTest.md)
+- [MultimodalTest](MultimodalTest.md)
 - [max](Stats/max.md)
 - [thr](Stats/thr.md)
 - [prctile](Stats/prctile.md)

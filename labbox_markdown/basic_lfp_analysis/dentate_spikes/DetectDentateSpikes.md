@@ -71,7 +71,7 @@
 - [PlotIntervals](basic_lfp_analysis/dentate_spikes/PlotIntervals.md)
 - [TrigAverCSDProfile2](basic_lfp_analysis/dentate_spikes/TrigAverCSDProfile2.md)
 - [dspk](basic_lfp_analysis/dentate_spikes/dspk.md)
-- [DetectDentateSpikes](basic_lfp_analysis/dentate_spikes/DetectDentateSpikes.md)
+- [DetectDentateSpikes](DetectDentateSpikes.md)
 - [max](basic_lfp_analysis/dentate_spikes/max.md)
 - [FindRipplesER ](basic_lfp_analysis/dentate_spikes/FindRipplesER .md)
 - [ClustLim](basic_lfp_analysis/dentate_spikes/ClustLim.md)

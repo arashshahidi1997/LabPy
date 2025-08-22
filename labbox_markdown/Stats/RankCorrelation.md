@@ -1,7 +1,7 @@
 # RankCorrelation
 
 ## Function Calls
-- [RankCorrelation](Stats/RankCorrelation.md)
+- [RankCorrelation](RankCorrelation.md)
 - [tiedrank](Stats/tiedrank.md)
 - [xSort](Stats/xSort.md)
 - [n](Stats/n.md)

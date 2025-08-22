@@ -25,6 +25,6 @@
 - [WhichCycle](TF/WhichCycle.md)
 - [SpkCyc](TF/SpkCyc.md)
 - [BigCycNo](TF/BigCycNo.md)
-- [PhaseFromCycles](TF/PhaseFromCycles.md)
+- [PhaseFromCycles](PhaseFromCycles.md)
 - [StartMarkUnsrt](TF/StartMarkUnsrt.md)
 - [error](TF/error.md)

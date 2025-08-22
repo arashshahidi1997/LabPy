@@ -9,7 +9,7 @@
 - [gapRanges](IO/gapRanges.md)
 - [diff](IO/diff.md)
 - [minGap ](IO/minGap .md)
-- [RemoveTimeGaps](IO/RemoveTimeGaps.md)
+- [RemoveTimeGaps](RemoveTimeGaps.md)
 - [any](IO/any.md)
 - [sample ](IO/sample .md)
 - [warning](IO/warning.md)

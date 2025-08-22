@@ -8,7 +8,7 @@
 - [mask ](basic_lfp_analysis/processing/mask .md)
 - [iscell](basic_lfp_analysis/processing/iscell.md)
 - [files](basic_lfp_analysis/processing/files.md)
-- [CollectFiguresAcrossSessions](basic_lfp_analysis/processing/CollectFiguresAcrossSessions.md)
+- [CollectFiguresAcrossSessions](CollectFiguresAcrossSessions.md)
 - [mkdir2](basic_lfp_analysis/processing/mkdir2.md)
 - [dir](basic_lfp_analysis/processing/dir.md)
 - [length](basic_lfp_analysis/processing/length.md)

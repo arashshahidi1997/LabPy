@@ -8,6 +8,6 @@
 - [fix](EMG_removing/util/fix.md)
 - [str2double](EMG_removing/util/str2double.md)
 - [cell](EMG_removing/util/cell.md)
-- [RecEvents](EMG_removing/util/RecEvents.md)
+- [RecEvents](RecEvents.md)
 - [length](EMG_removing/util/length.md)
 - [find](EMG_removing/util/find.md)

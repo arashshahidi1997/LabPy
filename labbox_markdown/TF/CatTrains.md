@@ -6,7 +6,7 @@
 - [sort](TF/sort.md)
 - [ThisGroup](TF/ThisGroup.md)
 - [if ](TF/if .md)
-- [CatTrains](TF/CatTrains.md)
+- [CatTrains](CatTrains.md)
 - [unique](TF/unique.md)
 - [isempty](TF/isempty.md)
 - [error](TF/error.md)

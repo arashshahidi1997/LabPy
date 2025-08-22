@@ -9,6 +9,6 @@
 - [samplecomb](Stats/distrib_comparison/samplecomb.md)
 - [sample2](Stats/distrib_comparison/sample2.md)
 - [error](Stats/distrib_comparison/error.md)
-- [adtest2](Stats/distrib_comparison/adtest2.md)
+- [adtest2](adtest2.md)
 - [length](Stats/distrib_comparison/length.md)
 - [find](Stats/distrib_comparison/find.md)

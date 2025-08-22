@@ -55,7 +55,7 @@
 - [threshold ](oephys/threshold .md)
 - [sprintf](oephys/sprintf.md)
 - [export_fig](oephys/export_fig.md)
-- [GetSpeedFromDisk](oephys/GetSpeedFromDisk.md)
+- [GetSpeedFromDisk](GetSpeedFromDisk.md)
 - [DefaultArgs](oephys/DefaultArgs.md)
 - [fprintf](oephys/fprintf.md)
 - [suptitle2](oephys/suptitle2.md)

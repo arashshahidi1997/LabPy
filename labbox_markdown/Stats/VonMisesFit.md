@@ -2,8 +2,8 @@
 
 ## Function Calls
 - [circmean](Stats/circmean.md)
-- [BesselRatInv](Stats/BesselRatInv.md)
+- [BesselRatInv](BesselRatInv.md)
 - [max](Stats/max.md)
 - [th](Stats/th.md)
-- [VonMisesFit](Stats/VonMisesFit.md)
+- [VonMisesFit](VonMisesFit.md)
 - [length](Stats/length.md)

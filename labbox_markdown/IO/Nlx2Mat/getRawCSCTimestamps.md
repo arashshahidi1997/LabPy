@@ -1,7 +1,7 @@
 # getRawCSCTimestamps
 
 ## Function Calls
-- [getRawCSCTimestamps](IO/Nlx2Mat/getRawCSCTimestamps.md)
+- [getRawCSCTimestamps](getRawCSCTimestamps.md)
 - [sampleFreqs](IO/Nlx2Mat/sampleFreqs.md)
 - [disp](IO/Nlx2Mat/disp.md)
 - [unique](IO/Nlx2Mat/unique.md)

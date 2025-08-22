@@ -26,7 +26,7 @@
 - [DoubletIndexOfRipples](basic_lfp_analysis/ripples/DoubletIndexOfRipples.md)
 - [round2](basic_lfp_analysis/ripples/round2.md)
 - [bar](basic_lfp_analysis/ripples/bar.md)
-- [FindRippleBursts](basic_lfp_analysis/ripples/FindRippleBursts.md)
+- [FindRippleBursts](FindRippleBursts.md)
 - [timestamps ](basic_lfp_analysis/ripples/timestamps .md)
 - [load](basic_lfp_analysis/ripples/load.md)
 - [find](basic_lfp_analysis/ripples/find.md)

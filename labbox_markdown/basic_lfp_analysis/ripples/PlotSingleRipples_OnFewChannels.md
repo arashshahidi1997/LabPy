@@ -29,7 +29,7 @@
 - [mean](basic_lfp_analysis/ripples/mean.md)
 - [any](basic_lfp_analysis/ripples/any.md)
 - [RipplePeriods](basic_lfp_analysis/ripples/RipplePeriods.md)
-- [PlotSingleRipples_OnFewChannels](basic_lfp_analysis/ripples/PlotSingleRipples_OnFewChannels.md)
+- [PlotSingleRipples_OnFewChannels](PlotSingleRipples_OnFewChannels.md)
 - [PlotManyChER](basic_lfp_analysis/ripples/PlotManyChER.md)
 - [load](basic_lfp_analysis/ripples/load.md)
 - [RippleTraceRaw](basic_lfp_analysis/ripples/RippleTraceRaw.md)

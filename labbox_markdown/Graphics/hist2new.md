@@ -6,7 +6,7 @@
 - [Data](Graphics/Data.md)
 - [if ](Graphics/if .md)
 - [zeros](Graphics/zeros.md)
-- [hist2new](Graphics/hist2new.md)
+- [hist2new](hist2new.md)
 - [max](Graphics/max.md)
 - [h](Graphics/h.md)
 - [YBin](Graphics/YBin.md)

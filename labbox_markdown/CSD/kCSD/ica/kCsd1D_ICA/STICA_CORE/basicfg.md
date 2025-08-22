@@ -15,6 +15,6 @@
 - [abs](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/abs.md)
 - [log](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/log.md)
 - [exp](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/exp.md)
-- [basicfg](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/basicfg.md)
+- [basicfg](basicfg.md)
 - [deriv ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/deriv .md)
 - [sech](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/sech.md)

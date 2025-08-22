@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [ones](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/ones.md)
-- [hgrad](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/hgrad.md)
+- [hgrad](hgrad.md)
 - [inv](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/inv.md)
 - [exp](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/exp.md)
 - [sum](CSD/kCSD/ica/kCsd1D_ICA/STICA_NIPS_ADDD_ONS/sum.md)

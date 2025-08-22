@@ -23,7 +23,7 @@
 - [density ](TF/density .md)
 - [length](TF/length.md)
 - [DefaultArgs](TF/DefaultArgs.md)
-- [CurSrcDns](TF/CurSrcDns.md)
+- [CurSrcDns](CurSrcDns.md)
 - [plot](TF/plot.md)
 - [interp2](TF/interp2.md)
 - [ch](TF/ch.md)

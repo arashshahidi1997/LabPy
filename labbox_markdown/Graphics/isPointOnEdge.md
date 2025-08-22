@@ -16,7 +16,7 @@
 - [points](Graphics/points.md)
 - [edges](Graphics/edges.md)
 - [t](Graphics/t.md)
-- [isPointOnEdge](Graphics/isPointOnEdge.md)
+- [isPointOnEdge](isPointOnEdge.md)
 - [size](Graphics/size.md)
 - [vertices](Graphics/vertices.md)
 - [isempty](Graphics/isempty.md)

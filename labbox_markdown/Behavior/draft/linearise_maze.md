@@ -22,7 +22,7 @@
 - [arm](Behavior/draft/arm.md)
 - [Dist](Behavior/draft/Dist.md)
 - [size](Behavior/draft/size.md)
-- [linearise_maze](Behavior/draft/linearise_maze.md)
+- [linearise_maze](linearise_maze.md)
 - [S](Behavior/draft/S.md)
 - [L](Behavior/draft/L.md)
 - [length](Behavior/draft/length.md)

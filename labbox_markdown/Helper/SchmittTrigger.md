@@ -8,7 +8,7 @@
 - [prod](Helper/prod.md)
 - [max](Helper/max.md)
 - [TypeSort](Helper/TypeSort.md)
-- [SchmittTrigger](Helper/SchmittTrigger.md)
+- [SchmittTrigger](SchmittTrigger.md)
 - [error](Helper/error.md)
 - [size](Helper/size.md)
 - [TypeUnsort](Helper/TypeUnsort.md)

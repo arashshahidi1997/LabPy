@@ -50,7 +50,7 @@
 - [length](basic_lfp_analysis/csd/length.md)
 - [Channels](basic_lfp_analysis/csd/Channels.md)
 - [advance ](basic_lfp_analysis/csd/advance .md)
-- [CSDTrigAverSPW](basic_lfp_analysis/csd/CSDTrigAverSPW.md)
+- [CSDTrigAverSPW](CSDTrigAverSPW.md)
 - [sort](basic_lfp_analysis/csd/sort.md)
 - [linspace](basic_lfp_analysis/csd/linspace.md)
 - [LoadBinary](basic_lfp_analysis/csd/LoadBinary.md)

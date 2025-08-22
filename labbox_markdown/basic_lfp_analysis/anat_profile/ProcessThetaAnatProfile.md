@@ -22,7 +22,7 @@
 - [WithinRanges](basic_lfp_analysis/anat_profile/WithinRanges.md)
 - [ylim0](basic_lfp_analysis/anat_profile/ylim0.md)
 - [NearestNeighbour](basic_lfp_analysis/anat_profile/NearestNeighbour.md)
-- [ProcessThetaAnatProfile](basic_lfp_analysis/anat_profile/ProcessThetaAnatProfile.md)
+- [ProcessThetaAnatProfile](ProcessThetaAnatProfile.md)
 - [ThetaAmp](basic_lfp_analysis/anat_profile/ThetaAmp.md)
 - [ProcessCSD ](basic_lfp_analysis/anat_profile/ProcessCSD .md)
 - [sum](basic_lfp_analysis/anat_profile/sum.md)

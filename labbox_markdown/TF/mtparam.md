@@ -10,7 +10,7 @@
 - [fix](TF/fix.md)
 - [tril](TF/tril.md)
 - [any](TF/any.md)
-- [mtparam](TF/mtparam.md)
+- [mtparam](mtparam.md)
 - [find](TF/find.md)
 - [imag](TF/imag.md)
 - [if ](TF/if .md)

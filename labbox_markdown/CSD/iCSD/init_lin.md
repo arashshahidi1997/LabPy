@@ -14,7 +14,7 @@
 - [E](CSD/iCSD/E.md)
 - [dist](CSD/iCSD/dist.md)
 - [load](CSD/iCSD/load.md)
-- [init_lin](CSD/iCSD/init_lin.md)
+- [init_lin](init_lin.md)
 - [F_l](CSD/iCSD/F_l.md)
 - [inv](CSD/iCSD/inv.md)
 - [disp](CSD/iCSD/disp.md)

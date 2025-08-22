@@ -22,7 +22,7 @@
 - [repmat](Graphics/repmat.md)
 - [any](Graphics/any.md)
 - [cell](Graphics/cell.md)
-- [boundedline](Graphics/boundedline.md)
+- [boundedline](boundedline.md)
 - [num2cell](Graphics/num2cell.md)
 - [vars](Graphics/vars.md)
 - [get](Graphics/get.md)

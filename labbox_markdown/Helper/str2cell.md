@@ -6,7 +6,7 @@
 - [isspace](Helper/isspace.md)
 - [reshape](Helper/reshape.md)
 - [ix](Helper/ix.md)
-- [str2cell](Helper/str2cell.md)
+- [str2cell](str2cell.md)
 - [diff](Helper/diff.md)
 - [s](Helper/s.md)
 - [cell](Helper/cell.md)

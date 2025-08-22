@@ -1,7 +1,7 @@
 # LoadEvents
 
 ## Function Calls
-- [LoadEvents](IO/LoadEvents.md)
+- [LoadEvents](LoadEvents.md)
 - [line](IO/line.md)
 - [Copyright ](IO/Copyright .md)
 - [unique](IO/unique.md)

@@ -7,7 +7,7 @@
 - [diag](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/diag.md)
 - [spatial ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/spatial .md)
 - [A](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/A.md)
-- [get_VWDBsBt](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/get_VWDBsBt.md)
+- [get_VWDBsBt](get_VWDBsBt.md)
 - [error](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/error.md)
 - [TEMPORAL ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/TEMPORAL .md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/size.md)

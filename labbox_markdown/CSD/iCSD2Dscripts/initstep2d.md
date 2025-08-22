@@ -12,7 +12,7 @@
 - [is ](CSD/iCSD2Dscripts/is .md)
 - [save](CSD/iCSD2Dscripts/save.md)
 - [fun](CSD/iCSD2Dscripts/fun.md)
-- [initstep2d](CSD/iCSD2Dscripts/initstep2d.md)
+- [initstep2d](initstep2d.md)
 - [dist](CSD/iCSD2Dscripts/dist.md)
 - [nodes ](CSD/iCSD2Dscripts/nodes .md)
 - [disp](CSD/iCSD2Dscripts/disp.md)

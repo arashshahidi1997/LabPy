@@ -1,7 +1,7 @@
 # FDR
 
 ## Function Calls
-- [FDR](Stats/multcomp/FDR.md)
+- [FDR](FDR.md)
 - [sort](Stats/multcomp/sort.md)
 - [sum](Stats/multcomp/sum.md)
 - [isempty](Stats/multcomp/isempty.md)

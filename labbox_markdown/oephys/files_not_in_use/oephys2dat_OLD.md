@@ -37,7 +37,7 @@
 - [out](oephys/files_not_in_use/out.md)
 - [LoadXml_ER](oephys/files_not_in_use/LoadXml_ER.md)
 - [diary](oephys/files_not_in_use/diary.md)
-- [neuroscope_xml_creator](oephys/files_not_in_use/neuroscope_xml_creator.md)
+- [neuroscope_xml_creator](neuroscope_xml_creator.md)
 - [ismember](oephys/files_not_in_use/ismember.md)
 - [length](oephys/files_not_in_use/length.md)
 - [dir](oephys/files_not_in_use/dir.md)

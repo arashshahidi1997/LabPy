@@ -23,7 +23,7 @@
 - [bar](Helper/bar.md)
 - [bin ](Helper/bin .md)
 - [find](Helper/find.md)
-- [isihist](Helper/isihist.md)
+- [isihist](isihist.md)
 - [histogram ](Helper/histogram .md)
 - [disp](Helper/disp.md)
 - [max](Helper/max.md)

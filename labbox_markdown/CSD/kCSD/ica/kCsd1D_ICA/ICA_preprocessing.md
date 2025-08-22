@@ -6,5 +6,5 @@
 - [size](CSD/kCSD/ica/kCsd1D_ICA/size.md)
 - [struct](CSD/kCSD/ica/kCsd1D_ICA/struct.md)
 - [fprintf](CSD/kCSD/ica/kCsd1D_ICA/fprintf.md)
-- [stripmean](CSD/kCSD/ica/kCsd1D_ICA/stripmean.md)
-- [ICA_preprocessing](CSD/kCSD/ica/kCsd1D_ICA/ICA_preprocessing.md)
+- [stripmean](stripmean.md)
+- [ICA_preprocessing](ICA_preprocessing.md)

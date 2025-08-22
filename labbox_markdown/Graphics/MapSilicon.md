@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [y](Graphics/y.md)
-- [imagescnan](Graphics/imagescnan.md)
+- [imagescnan](imagescnan.md)
 - [isstruct](Graphics/isstruct.md)
 - [zeros](Graphics/zeros.md)
 - [Weights](Graphics/Weights.md)
@@ -32,7 +32,7 @@
 - [scatter](Graphics/scatter.md)
 - [sqrt](Graphics/sqrt.md)
 - [ind2sub](Graphics/ind2sub.md)
-- [SiliconMap](Graphics/SiliconMap.md)
+- [SiliconMap](SiliconMap.md)
 - [defined ](Graphics/defined .md)
 - [phierr](Graphics/phierr.md)
 - [size](Graphics/size.md)
@@ -50,7 +50,7 @@
 - [ImageScRmNaNAnt](Graphics/ImageScRmNaNAnt.md)
 - [isempty](Graphics/isempty.md)
 - [error](Graphics/error.md)
-- [MapSilicon](Graphics/MapSilicon.md)
+- [MapSilicon](MapSilicon.md)
 - [Coord](Graphics/Coord.md)
 - [axis](Graphics/axis.md)
 - [DefaultArgs](Graphics/DefaultArgs.md)

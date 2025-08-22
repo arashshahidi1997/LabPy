@@ -3,7 +3,7 @@
 ## Function Calls
 - [sort](Stats/sort.md)
 - [sum](Stats/sum.md)
-- [VonMisesReg_f](Stats/VonMisesReg_f.md)
+- [VonMisesReg_f](VonMisesReg_f.md)
 - [g](Stats/g.md)
 - [plot](Stats/plot.md)
 - [mod](Stats/mod.md)

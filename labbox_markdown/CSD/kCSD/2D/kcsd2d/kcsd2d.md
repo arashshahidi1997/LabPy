@@ -58,7 +58,7 @@
 - [length](CSD/kCSD/2D/kcsd2d/length.md)
 - [vector ](CSD/kCSD/2D/kcsd2d/vector .md)
 - [waitbar](CSD/kCSD/2D/kcsd2d/waitbar.md)
-- [kcsd2d](CSD/kCSD/2D/kcsd2d/kcsd2d.md)
+- [kcsd2d](kcsd2d.md)
 - [isempty](CSD/kCSD/2D/kcsd2d/isempty.md)
 - [pots](CSD/kCSD/2D/kcsd2d/pots.md)
 - [lambda_sampling_2](CSD/kCSD/2D/kcsd2d/lambda_sampling_2.md)

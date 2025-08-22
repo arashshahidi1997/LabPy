@@ -17,7 +17,7 @@
 - [sign](Stats/DIP_test_of_unimodality/sign.md)
 - [if ](Stats/DIP_test_of_unimodality/if .md)
 - [while](Stats/DIP_test_of_unimodality/while.md)
-- [HartigansDipTest](Stats/DIP_test_of_unimodality/HartigansDipTest.md)
+- [hartigansdiptest](hartigansdiptest.md)
 - [size](Stats/DIP_test_of_unimodality/size.md)
 - [length](Stats/DIP_test_of_unimodality/length.md)
 - [sort](Stats/DIP_test_of_unimodality/sort.md)

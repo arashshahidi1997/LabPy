@@ -10,7 +10,7 @@
 - [v1](IO/v1.md)
 - [v2](IO/v2.md)
 - [dlmread](IO/dlmread.md)
-- [loadrangefiles](IO/loadrangefiles.md)
+- [loadrangefiles](loadrangefiles.md)
 - [max](IO/max.md)
 - [iscell](IO/iscell.md)
 - [size](IO/size.md)

@@ -6,7 +6,7 @@
 - [l](Graphics/l.md)
 - [he](Graphics/he.md)
 - [hb](Graphics/hb.md)
-- [BarError](Graphics/BarError.md)
+- [BarError](BarError.md)
 - [mean](Graphics/mean.md)
 - [errorbar](Graphics/errorbar.md)
 - [bar](Graphics/bar.md)

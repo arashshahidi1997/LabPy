@@ -1,7 +1,7 @@
 # bload
 
 ## Function Calls
-- [bload](IO/bload.md)
+- [bload](bload.md)
 - [if ](IO/if .md)
 - [fopen](IO/fopen.md)
 - [error](IO/error.md)

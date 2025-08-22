@@ -1,7 +1,7 @@
 # erpPCA
 
 ## Function Calls
-- [Varimax4M](Stats/Varimax4M.md)
+- [Varimax4M](Varimax4M.md)
 - [Copyright ](Stats/Copyright .md)
 - [zscore](Stats/zscore.md)
 - [min](Stats/min.md)
@@ -20,7 +20,7 @@
 - [rotated ](Stats/rotated .md)
 - [eig](Stats/eig.md)
 - [matrix ](Stats/matrix .md)
-- [erpPCA](Stats/erpPCA.md)
+- [erpPCA](erpPCA.md)
 - [rank](Stats/rank.md)
 - [inv](Stats/inv.md)
 - [FSCFr](Stats/FSCFr.md)

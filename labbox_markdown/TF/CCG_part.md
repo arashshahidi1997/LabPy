@@ -3,7 +3,7 @@
 ## Function Calls
 - [clip](TF/clip.md)
 - [zeros](TF/zeros.md)
-- [CCG_part](TF/CCG_part.md)
+- [CCG_part](CCG_part.md)
 - [unique](TF/unique.md)
 - [double](TF/double.md)
 - [flipud](TF/flipud.md)
@@ -32,7 +32,7 @@
 - [Clu](TF/Clu.md)
 - [any](TF/any.md)
 - [warning](TF/warning.md)
-- [ccg](TF/ccg.md)
+- [CCG](CCG.md)
 - [HalfBins ](TF/HalfBins .md)
 - [findstr](TF/findstr.md)
 - [bar](TF/bar.md)

@@ -5,7 +5,7 @@
 - [figure](Stats/CircStat2012a/examples/figure.md)
 - [circ_raotest](Stats/CircStat2012a/examples/circ_raotest.md)
 - [circ_confmean](Stats/CircStat2012a/examples/circ_confmean.md)
-- [formatSubplot](Stats/CircStat2012a/examples/formatSubplot.md)
+- [formatSubplot](formatSubplot.md)
 - [alpha_i ](Stats/CircStat2012a/examples/alpha_i .md)
 - [circ_corrcc](Stats/CircStat2012a/examples/circ_corrcc.md)
 - [circ_rtest](Stats/CircStat2012a/examples/circ_rtest.md)

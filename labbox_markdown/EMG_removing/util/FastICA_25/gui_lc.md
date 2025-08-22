@@ -1,7 +1,7 @@
 # gui_lc
 
 ## Function Calls
-- [gui_help](EMG_removing/util/FastICA_25/gui_help.md)
+- [gui_help](gui_help.md)
 - [any ](EMG_removing/util/FastICA_25/any .md)
 - [evalin](EMG_removing/util/FastICA_25/evalin.md)
 - [eval](EMG_removing/util/FastICA_25/eval.md)

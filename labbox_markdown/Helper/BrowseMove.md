@@ -1,5 +1,5 @@
 # BrowseMove
 
 ## Function Calls
-- [BrowseMove](Helper/BrowseMove.md)
+- [BrowseMove](BrowseMove.md)
 - [fprintf](Helper/fprintf.md)

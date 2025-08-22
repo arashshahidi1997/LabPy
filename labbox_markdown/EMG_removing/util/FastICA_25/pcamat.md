@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [diag ](EMG_removing/util/FastICA_25/diag .md)
-- [gui_help](EMG_removing/util/FastICA_25/gui_help.md)
+- [gui_help](gui_help.md)
 - [figure](EMG_removing/util/FastICA_25/figure.md)
 - [eig ](EMG_removing/util/FastICA_25/eig .md)
 - [eigenvalues](EMG_removing/util/FastICA_25/eigenvalues.md)
@@ -25,7 +25,7 @@
 - [if ](EMG_removing/util/FastICA_25/if .md)
 - [int2str](EMG_removing/util/FastICA_25/int2str.md)
 - [data ](EMG_removing/util/FastICA_25/data .md)
-- [pcamat](EMG_removing/util/FastICA_25/pcamat.md)
+- [pcamat](pcamat.md)
 - [uiresume](EMG_removing/util/FastICA_25/uiresume.md)
 - [uicontrol](EMG_removing/util/FastICA_25/uicontrol.md)
 - [size](EMG_removing/util/FastICA_25/size.md)

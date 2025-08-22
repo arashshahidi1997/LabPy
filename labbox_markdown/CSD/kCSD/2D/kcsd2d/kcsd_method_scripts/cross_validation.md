@@ -10,5 +10,5 @@
 - [cell](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/cell.md)
 - [Ind_train](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/Ind_train.md)
 - [mean](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/mean.md)
-- [cross_validation](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/cross_validation.md)
-- [calc_err](CSD/kCSD/2D/kcsd2d/kcsd_method_scripts/calc_err.md)
+- [cross_validation](cross_validation.md)
+- [calc_err](calc_err.md)

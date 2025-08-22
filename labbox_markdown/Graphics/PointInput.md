@@ -5,7 +5,7 @@
 - [double](Graphics/double.md)
 - [mousecoord](Graphics/mousecoord.md)
 - [button](Graphics/button.md)
-- [PointInput](Graphics/PointInput.md)
+- [PointInput](PointInput.md)
 - [x](Graphics/x.md)
 - [DefaultArgs](Graphics/DefaultArgs.md)
 - [fprintf](Graphics/fprintf.md)

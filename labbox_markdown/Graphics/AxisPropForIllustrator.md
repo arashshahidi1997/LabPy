@@ -1,7 +1,7 @@
 # AxisPropForIllustrator
 
 ## Function Calls
-- [AxisPropForIllustrator](Graphics/AxisPropForIllustrator.md)
+- [AxisPropForIllustrator](AxisPropForIllustrator.md)
 - [strcmp](Graphics/strcmp.md)
 - [set](Graphics/set.md)
 - [findall](Graphics/findall.md)

@@ -31,7 +31,7 @@
 - [Animal4GroupList](basic_lfp_analysis/gamma/Animal4GroupList.md)
 - [p](basic_lfp_analysis/gamma/p.md)
 - [suptitle2](basic_lfp_analysis/gamma/suptitle2.md)
-- [ProcessGamma_GroupStat](basic_lfp_analysis/gamma/ProcessGamma_GroupStat.md)
+- [ProcessGamma_GroupStat](ProcessGamma_GroupStat.md)
 - [std](basic_lfp_analysis/gamma/std.md)
 - [circ_confmean](basic_lfp_analysis/gamma/circ_confmean.md)
 - [AnimValidity](basic_lfp_analysis/gamma/AnimValidity.md)

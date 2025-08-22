@@ -1,7 +1,7 @@
 # parseCommand
 
 ## Function Calls
-- [parseCommand](IO/blackrock/NPMK/parseCommand.md)
+- [parseCommand](parseCommand.md)
 - [str2num](IO/blackrock/NPMK/str2num.md)
 - [disp](IO/blackrock/NPMK/disp.md)
 - [splitString](IO/blackrock/NPMK/splitString.md)

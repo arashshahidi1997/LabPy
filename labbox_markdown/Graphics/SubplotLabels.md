@@ -4,7 +4,7 @@
 - [noax](Graphics/noax.md)
 - [strcmp](Graphics/strcmp.md)
 - [set](Graphics/set.md)
-- [SubplotLabels](Graphics/SubplotLabels.md)
+- [SubplotLabels](SubplotLabels.md)
 - [isempty](Graphics/isempty.md)
 - [flipud](Graphics/flipud.md)
 - [DefLabels](Graphics/DefLabels.md)

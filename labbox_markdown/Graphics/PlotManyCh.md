@@ -1,7 +1,7 @@
 # PlotManyCh
 
 ## Function Calls
-- [PlotManyCh](Graphics/PlotManyCh.md)
+- [PlotManyCh](PlotManyCh.md)
 - [min](Graphics/min.md)
 - [set](Graphics/set.md)
 - [range](Graphics/range.md)

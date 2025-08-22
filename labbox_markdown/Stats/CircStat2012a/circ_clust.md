@@ -1,7 +1,7 @@
 # circ_clust
 
 ## Function Calls
-- [circ_dist2](Stats/CircStat2012a/circ_dist2.md)
+- [circ_dist2](circ_dist2.md)
 - [y](Stats/CircStat2012a/y.md)
 - [figure](Stats/CircStat2012a/figure.md)
 - [c ](Stats/CircStat2012a/c .md)
@@ -16,12 +16,12 @@
 - [set](Stats/CircStat2012a/set.md)
 - [real](Stats/CircStat2012a/real.md)
 - [mod](Stats/CircStat2012a/mod.md)
-- [circ_mean](Stats/CircStat2012a/circ_mean.md)
+- [circ_mean](circ_mean.md)
 - [mu](Stats/CircStat2012a/mu.md)
 - [tril](Stats/CircStat2012a/tril.md)
 - [abs](Stats/CircStat2012a/abs.md)
 - [x](Stats/CircStat2012a/x.md)
-- [circ_clust](Stats/CircStat2012a/circ_clust.md)
+- [circ_clust](circ_clust.md)
 - [find](Stats/CircStat2012a/find.md)
 - [csmall](Stats/CircStat2012a/csmall.md)
 - [strcat](Stats/CircStat2012a/strcat.md)
@@ -31,7 +31,7 @@
 - [while](Stats/CircStat2012a/while.md)
 - [size](Stats/CircStat2012a/size.md)
 - [length](Stats/CircStat2012a/length.md)
-- [circ_r](Stats/CircStat2012a/circ_r.md)
+- [circ_r](circ_r.md)
 - [ones](Stats/CircStat2012a/ones.md)
 - [sum](Stats/CircStat2012a/sum.md)
 - [ids ](Stats/CircStat2012a/ids .md)

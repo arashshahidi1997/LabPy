@@ -23,7 +23,7 @@
 - [size](IO/blackrock/NPMK/size.md)
 - [switch ](IO/blackrock/NPMK/switch .md)
 - [filter](IO/blackrock/NPMK/filter.md)
-- [findSpikes](IO/blackrock/NPMK/findSpikes.md)
+- [findSpikes](findSpikes.md)
 - [length](IO/blackrock/NPMK/length.md)
 - [strfind](IO/blackrock/NPMK/strfind.md)
 - [butter](IO/blackrock/NPMK/butter.md)

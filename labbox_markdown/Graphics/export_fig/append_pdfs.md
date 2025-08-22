@@ -1,12 +1,12 @@
 # append_pdfs
 
 ## Function Calls
-- [ghostscript](Graphics/export_fig/ghostscript.md)
+- [ghostscript](ghostscript.md)
 - [fwrite](Graphics/export_fig/fwrite.md)
 - [writable ](Graphics/export_fig/writable .md)
 - [fopen](Graphics/export_fig/fopen.md)
 - [strtrim](Graphics/export_fig/strtrim.md)
-- [append_pdfs](Graphics/export_fig/append_pdfs.md)
+- [append_pdfs](append_pdfs.md)
 - [regexprep](Graphics/export_fig/regexprep.md)
 - [delete](Graphics/export_fig/delete.md)
 - [system](Graphics/export_fig/system.md)

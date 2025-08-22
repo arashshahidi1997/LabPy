@@ -1,8 +1,8 @@
 # combin
 
 ## Function Calls
-- [combin](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/combin.md)
-- [combrh](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/combrh.md)
+- [combin](combin.md)
+- [combrh](combrh.md)
 - [zeros](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/zeros.md)
 - [nonzeros](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/nonzeros.md)
 - [round](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/round.md)

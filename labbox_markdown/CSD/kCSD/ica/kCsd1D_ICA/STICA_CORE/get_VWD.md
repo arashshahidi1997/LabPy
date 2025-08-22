@@ -3,7 +3,7 @@
 ## Function Calls
 - [ones](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/ones.md)
 - [inv](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/inv.md)
-- [get_VWD](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/get_VWD.md)
+- [get_VWD](get_VWD.md)
 - [elseif ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/elseif .md)
 - [diag](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/diag.md)
 - [spatial ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/spatial .md)

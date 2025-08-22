@@ -20,7 +20,7 @@
 - [load](Graphics/load.md)
 - [UniqueNames](Graphics/UniqueNames.md)
 - [find](Graphics/find.md)
-- [xgobi](Graphics/xgobi.md)
+- [xgobi](xgobi.md)
 - [input](Graphics/input.md)
 - [Map](Graphics/Map.md)
 - [disp](Graphics/disp.md)

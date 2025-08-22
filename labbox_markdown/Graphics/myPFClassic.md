@@ -7,7 +7,7 @@
 - [exp](Graphics/exp.md)
 - [BarHsv](Graphics/BarHsv.md)
 - [imagesc](Graphics/imagesc.md)
-- [myPFClassic](Graphics/myPFClassic.md)
+- [myPFClassic](myPFClassic.md)
 - [set](Graphics/set.md)
 - [FireRate](Graphics/FireRate.md)
 - [use ](Graphics/use .md)

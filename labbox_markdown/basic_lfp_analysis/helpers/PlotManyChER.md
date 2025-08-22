@@ -9,7 +9,7 @@
 - [mean](basic_lfp_analysis/helpers/mean.md)
 - [x](basic_lfp_analysis/helpers/x.md)
 - [warning](basic_lfp_analysis/helpers/warning.md)
-- [PlotManyChER](basic_lfp_analysis/helpers/PlotManyChER.md)
+- [PlotManyChER](PlotManyChER.md)
 - [get](basic_lfp_analysis/helpers/get.md)
 - [ChOffset](basic_lfp_analysis/helpers/ChOffset.md)
 - [curAxes](basic_lfp_analysis/helpers/curAxes.md)

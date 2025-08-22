@@ -36,7 +36,7 @@
 - [size](basic_lfp_analysis/behavior/size.md)
 - [camera ](basic_lfp_analysis/behavior/camera .md)
 - [halfwin](basic_lfp_analysis/behavior/halfwin.md)
-- [GetSpeedOne](basic_lfp_analysis/behavior/GetSpeedOne.md)
+- [GetSpeedOne](GetSpeedOne.md)
 - [length](basic_lfp_analysis/behavior/length.md)
 - [ones](basic_lfp_analysis/behavior/ones.md)
 - [varargout](basic_lfp_analysis/behavior/varargout.md)

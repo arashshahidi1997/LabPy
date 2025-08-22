@@ -9,5 +9,5 @@
 - [iscell](oephys/files_not_in_use/iscell.md)
 - [fclose](oephys/files_not_in_use/fclose.md)
 - [fseek](oephys/files_not_in_use/fseek.md)
-- [binary_save](oephys/files_not_in_use/binary_save.md)
+- [binary_save](binary_save.md)
 - [length](oephys/files_not_in_use/length.md)

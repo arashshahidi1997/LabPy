@@ -1,7 +1,7 @@
 # make_b_src_el_matrix_2D
 
 ## Function Calls
-- [make_b_src_el_matrix_2D](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/make_b_src_el_matrix_2D.md)
+- [make_b_src_el_matrix_2D](make_b_src_el_matrix_2D.md)
 - [el_pos](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/el_pos.md)
 - [X_src](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/X_src.md)
 - [zeros](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/zeros.md)

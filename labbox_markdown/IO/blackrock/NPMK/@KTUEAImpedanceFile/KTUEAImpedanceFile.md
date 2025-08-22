@@ -20,7 +20,7 @@
 - [regexp](IO/blackrock/NPMK/@KTUEAImpedanceFile/regexp.md)
 - [setAxisBackgroundColor](IO/blackrock/NPMK/@KTUEAImpedanceFile/setAxisBackgroundColor.md)
 - [title](IO/blackrock/NPMK/@KTUEAImpedanceFile/title.md)
-- [KTUEAImpedanceFile](IO/blackrock/NPMK/@KTUEAImpedanceFile/KTUEAImpedanceFile.md)
+- [KTUEAImpedanceFile](KTUEAImpedanceFile.md)
 - [hist](IO/blackrock/NPMK/@KTUEAImpedanceFile/hist.md)
 - [set](IO/blackrock/NPMK/@KTUEAImpedanceFile/set.md)
 - [xlabel](IO/blackrock/NPMK/@KTUEAImpedanceFile/xlabel.md)

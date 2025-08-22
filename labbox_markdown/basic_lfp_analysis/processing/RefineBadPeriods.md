@@ -28,7 +28,7 @@
 - [Period2Load](basic_lfp_analysis/processing/Period2Load.md)
 - [isnan](basic_lfp_analysis/processing/isnan.md)
 - [PlotManyChER](basic_lfp_analysis/processing/PlotManyChER.md)
-- [RefineBadPeriods](basic_lfp_analysis/processing/RefineBadPeriods.md)
+- [RefineBadPeriods](RefineBadPeriods.md)
 - [load](basic_lfp_analysis/processing/load.md)
 - [find](basic_lfp_analysis/processing/find.md)
 - [disp](basic_lfp_analysis/processing/disp.md)

@@ -1,7 +1,7 @@
 # demo_shadedErrorBar
 
 ## Function Calls
-- [shadedErrorBar](Graphics/shadedErrorBar/shadedErrorBar.md)
+- [shadedErrorBar](shadedErrorBar.md)
 - [set](Graphics/shadedErrorBar/set.md)
 - [elseif ](Graphics/shadedErrorBar/elseif .md)
 - [sin](Graphics/shadedErrorBar/sin.md)

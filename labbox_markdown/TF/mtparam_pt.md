@@ -3,7 +3,7 @@
 ## Function Calls
 - [cat](TF/cat.md)
 - [unique](TF/unique.md)
-- [mtparam_pt](TF/mtparam_pt.md)
+- [mtparam_pt](mtparam_pt.md)
 - [f](TF/f.md)
 - [SelectPeriods](TF/SelectPeriods.md)
 - [P](TF/P.md)

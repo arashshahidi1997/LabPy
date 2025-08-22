@@ -10,6 +10,6 @@
 - [subplot](Graphics/subplot.md)
 - [arguments ](Graphics/arguments .md)
 - [error](Graphics/error.md)
-- [PlotMatrix](Graphics/PlotMatrix.md)
+- [PlotMatrix](PlotMatrix.md)
 - [size](Graphics/size.md)
 - [Y](Graphics/Y.md)

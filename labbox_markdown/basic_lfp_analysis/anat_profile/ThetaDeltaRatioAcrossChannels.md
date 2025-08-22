@@ -7,7 +7,7 @@
 - [calculation ](basic_lfp_analysis/anat_profile/calculation .md)
 - [session ](basic_lfp_analysis/anat_profile/session .md)
 - [mtcsglong](basic_lfp_analysis/anat_profile/mtcsglong.md)
-- [ThetaDeltaRatioAcrossChannels](basic_lfp_analysis/anat_profile/ThetaDeltaRatioAcrossChannels.md)
+- [ThetaDeltaRatioAcrossChannels](ThetaDeltaRatioAcrossChannels.md)
 - [LoadMyPar](basic_lfp_analysis/anat_profile/LoadMyPar.md)
 - [min](basic_lfp_analysis/anat_profile/min.md)
 - [ylabel](basic_lfp_analysis/anat_profile/ylabel.md)

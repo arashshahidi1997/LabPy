@@ -23,7 +23,7 @@
 - [msave](TF/msave.md)
 - [round](TF/round.md)
 - [mahal](TF/mahal.md)
-- [thetarun](TF/thetarun.md)
+- [thetarun](thetarun.md)
 - [thsegm](TF/thsegm.md)
 - [setdiff](TF/setdiff.md)
 - [mean](TF/mean.md)

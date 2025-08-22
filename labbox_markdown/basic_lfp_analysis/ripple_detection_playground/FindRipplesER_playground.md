@@ -121,7 +121,7 @@
 - [troughs](basic_lfp_analysis/ripple_detection_playground/troughs.md)
 - [ylim](basic_lfp_analysis/ripple_detection_playground/ylim.md)
 - [firstPass](basic_lfp_analysis/ripple_detection_playground/firstPass.md)
-- [FindRipplesER_playground](basic_lfp_analysis/ripple_detection_playground/FindRipplesER_playground.md)
+- [FindRipplesER_playground](FindRipplesER_playground.md)
 - [ripples ](basic_lfp_analysis/ripple_detection_playground/ripples .md)
 - [normalizedSquaredNoise](basic_lfp_analysis/ripple_detection_playground/normalizedSquaredNoise.md)
 - [normalize ](basic_lfp_analysis/ripple_detection_playground/normalize .md)

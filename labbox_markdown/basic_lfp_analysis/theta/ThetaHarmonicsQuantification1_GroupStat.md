@@ -42,7 +42,7 @@
 - [nanmean](basic_lfp_analysis/theta/nanmean.md)
 - [SesValidity](basic_lfp_analysis/theta/SesValidity.md)
 - [ylabel](basic_lfp_analysis/theta/ylabel.md)
-- [ThetaHarmonicsQuantification1_GroupStat](basic_lfp_analysis/theta/ThetaHarmonicsQuantification1_GroupStat.md)
+- [ThetaHarmonicsQuantification1_GroupStat](ThetaHarmonicsQuantification1_GroupStat.md)
 - [min](basic_lfp_analysis/theta/min.md)
 - [GradualColorSet](basic_lfp_analysis/theta/GradualColorSet.md)
 - [errorbar](basic_lfp_analysis/theta/errorbar.md)

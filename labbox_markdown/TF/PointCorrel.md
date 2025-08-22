@@ -9,7 +9,7 @@
 - [T2](TF/T2.md)
 - [xlabel](TF/xlabel.md)
 - [round](TF/round.md)
-- [PointCorrel](TF/PointCorrel.md)
+- [PointCorrel](PointCorrel.md)
 - [abs](TF/abs.md)
 - [warning](TF/warning.md)
 - [bar](TF/bar.md)

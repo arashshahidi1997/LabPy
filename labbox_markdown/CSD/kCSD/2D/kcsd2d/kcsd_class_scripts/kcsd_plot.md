@@ -8,7 +8,7 @@
 - [CSDs](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/CSDs.md)
 - [scrsize](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/scrsize.md)
 - [min](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/min.md)
-- [kcsd_plot](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/kcsd_plot.md)
+- [kcsd_plot](kcsd_plot.md)
 - [imagesc](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/imagesc.md)
 - [set](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/set.md)
 - [negative ](CSD/kCSD/2D/kcsd2d/kcsd_class_scripts/negative .md)

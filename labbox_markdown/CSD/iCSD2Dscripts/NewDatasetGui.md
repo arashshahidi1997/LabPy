@@ -11,7 +11,7 @@
 - [numedtcbk](CSD/iCSD2Dscripts/numedtcbk.md)
 - [strcmp](CSD/iCSD2Dscripts/strcmp.md)
 - [set](CSD/iCSD2Dscripts/set.md)
-- [Init_dataset](CSD/iCSD2Dscripts/Init_dataset.md)
+- [Init_dataset](Init_dataset.md)
 - [save](CSD/iCSD2Dscripts/save.md)
 - [uipanel](CSD/iCSD2Dscripts/uipanel.md)
 - [get](CSD/iCSD2Dscripts/get.md)

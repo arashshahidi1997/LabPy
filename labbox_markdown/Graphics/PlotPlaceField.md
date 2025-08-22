@@ -4,7 +4,7 @@
 - [spikep](Graphics/spikep.md)
 - [min](Graphics/min.md)
 - [exp](Graphics/exp.md)
-- [PlotPlaceField](Graphics/PlotPlaceField.md)
+- [PlotPlaceField](PlotPlaceField.md)
 - [imagesc](Graphics/imagesc.md)
 - [msize](Graphics/msize.md)
 - [xindx](Graphics/xindx.md)

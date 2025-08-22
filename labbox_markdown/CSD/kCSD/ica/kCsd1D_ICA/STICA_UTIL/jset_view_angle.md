@@ -2,4 +2,4 @@
 
 ## Function Calls
 - [set](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/set.md)
-- [jset_view_angle](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/jset_view_angle.md)
+- [jset_view_angle](jset_view_angle.md)

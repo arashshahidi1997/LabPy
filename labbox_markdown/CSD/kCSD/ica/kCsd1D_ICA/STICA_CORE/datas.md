@@ -15,7 +15,7 @@
 - [floor](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/floor.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/size.md)
 - [randn](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/randn.md)
-- [datas](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/datas.md)
+- [datas](datas.md)
 - [plot](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/plot.md)
 - [subplot](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/subplot.md)
 - [im2](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/im2.md)

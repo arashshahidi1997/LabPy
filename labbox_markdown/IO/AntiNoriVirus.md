@@ -7,7 +7,7 @@
 - [system](IO/system.md)
 - [isempty](IO/isempty.md)
 - [si](IO/si.md)
-- [AntiNoriVirus](IO/AntiNoriVirus.md)
+- [AntiNoriVirus](AntiNoriVirus.md)
 - [id](IO/id.md)
 - [load](IO/load.md)
 - [length](IO/length.md)

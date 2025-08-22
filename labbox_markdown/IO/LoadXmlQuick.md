@@ -3,7 +3,7 @@
 ## Function Calls
 - [str2num](IO/str2num.md)
 - [num2str](IO/num2str.md)
-- [LoadXmlQuick](IO/LoadXmlQuick.md)
+- [LoadXmlQuick](LoadXmlQuick.md)
 - [AnatGrps](IO/AnatGrps.md)
 - [system](IO/system.md)
 - [CountParameter](IO/CountParameter.md)

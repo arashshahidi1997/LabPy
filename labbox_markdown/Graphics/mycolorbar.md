@@ -11,7 +11,7 @@
 - [text](Graphics/text.md)
 - [pos](Graphics/pos.md)
 - [strcmp](Graphics/strcmp.md)
-- [mycolorbar](Graphics/mycolorbar.md)
+- [mycolorbar](mycolorbar.md)
 - [set](Graphics/set.md)
 - [loc](Graphics/loc.md)
 - [setappdata](Graphics/setappdata.md)

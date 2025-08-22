@@ -24,7 +24,7 @@
 - [axes](Graphics/axes.md)
 - [grid](Graphics/grid.md)
 - [addOptional](Graphics/addOptional.md)
-- [multiplot](Graphics/multiplot.md)
+- [multiplot](multiplot.md)
 - [numel](Graphics/numel.md)
 - [length](Graphics/length.md)
 - [axesHdl](Graphics/axesHdl.md)

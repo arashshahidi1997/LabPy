@@ -9,7 +9,7 @@
 - [event ](IO/blackrock/NPMK/event .md)
 - [elseif ](IO/blackrock/NPMK/elseif .md)
 - [cell](IO/blackrock/NPMK/cell.md)
-- [avgNSx](IO/blackrock/NPMK/avgNSx.md)
+- [avgNSx](avgNSx.md)
 - [disp](IO/blackrock/NPMK/disp.md)
 - [if ](IO/blackrock/NPMK/if .md)
 - [Data](IO/blackrock/NPMK/Data.md)

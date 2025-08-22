@@ -4,7 +4,7 @@
 - [zeros](basic_lfp_analysis/processing/zeros.md)
 - [session ](basic_lfp_analysis/processing/session .md)
 - [writetable](basic_lfp_analysis/processing/writetable.md)
-- [SessionInfo](basic_lfp_analysis/processing/SessionInfo.md)
+- [SessionInfo](SessionInfo.md)
 - [LoadMyPar](basic_lfp_analysis/processing/LoadMyPar.md)
 - [reshape](basic_lfp_analysis/processing/reshape.md)
 - [SelectPeriods](basic_lfp_analysis/processing/SelectPeriods.md)

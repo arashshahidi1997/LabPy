@@ -7,7 +7,7 @@
 - [RippleDuration](basic_lfp_analysis/ripples/RippleDuration.md)
 - [unique](basic_lfp_analysis/ripples/unique.md)
 - [Lines](basic_lfp_analysis/ripples/Lines.md)
-- [ProcessRipples_GroupStat](basic_lfp_analysis/ripples/ProcessRipples_GroupStat.md)
+- [ProcessRipples_GroupStat](ProcessRipples_GroupStat.md)
 - [LoadMyPar](basic_lfp_analysis/ripples/LoadMyPar.md)
 - [on ](basic_lfp_analysis/ripples/on .md)
 - [strcmp](basic_lfp_analysis/ripples/strcmp.md)

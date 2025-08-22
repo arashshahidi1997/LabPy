@@ -20,7 +20,7 @@
 - [max](Stats/max.md)
 - [while](Stats/while.md)
 - [cos](Stats/cos.md)
-- [VonMisesRnd](Stats/VonMisesRnd.md)
+- [VonMisesRnd](VonMisesRnd.md)
 - [size](Stats/size.md)
 - [ones](Stats/ones.md)
 - [isempty](Stats/isempty.md)

@@ -2,9 +2,9 @@
 
 ## Function Calls
 - [y](TF/y.md)
-- [Filter0](TF/Filter0.md)
+- [Filter0](Filter0.md)
 - [real](TF/real.md)
-- [MTFilter](TF/MTFilter.md)
+- [MTFilter](MTFilter.md)
 - [sum](TF/sum.md)
 - [mod](TF/mod.md)
 - [diff](TF/diff.md)

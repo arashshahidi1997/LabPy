@@ -9,7 +9,7 @@
 - [min](Graphics/min.md)
 - [ON](Graphics/ON.md)
 - [intersection ](Graphics/intersection .md)
-- [inpoly](Graphics/inpoly.md)
+- [inpoly](inpoly.md)
 - [P](Graphics/P.md)
 - [mod](Graphics/mod.md)
 - [round](Graphics/round.md)

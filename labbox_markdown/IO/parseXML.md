@@ -8,7 +8,7 @@
 - [error](IO/error.md)
 - [makeStructFromNode](IO/makeStructFromNode.md)
 - [parseChildNodes](IO/parseChildNodes.md)
-- [parseXML](IO/parseXML.md)
+- [parseXML](parseXML.md)
 - [cell](IO/cell.md)
 - [item](IO/item.md)
 - [struct](IO/struct.md)

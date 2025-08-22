@@ -28,7 +28,7 @@
 - [dsp](CSD/iCSD2Dscripts/dsp.md)
 - [FdMatrix ](CSD/iCSD2Dscripts/FdMatrix .md)
 - [asinh](CSD/iCSD2Dscripts/asinh.md)
-- [initlin2d](CSD/iCSD2Dscripts/initlin2d.md)
+- [initlin2d](initlin2d.md)
 - [length](CSD/iCSD2Dscripts/length.md)
 - [squeeze](CSD/iCSD2Dscripts/squeeze.md)
 - [ones](CSD/iCSD2Dscripts/ones.md)

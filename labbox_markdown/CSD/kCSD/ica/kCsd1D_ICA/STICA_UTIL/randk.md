@@ -8,7 +8,7 @@
 - [sqrt](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sqrt.md)
 - [max](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/max.md)
 - [ys](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/ys.md)
-- [randk](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/randk.md)
+- [randk](randk.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/size.md)
 - [min](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/min.md)
 - [us](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/us.md)

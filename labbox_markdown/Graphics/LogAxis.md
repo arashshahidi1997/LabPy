@@ -6,7 +6,7 @@
 - [log10](Graphics/log10.md)
 - [ch](Graphics/ch.md)
 - [axxis ](Graphics/axxis .md)
-- [LogAxis](Graphics/LogAxis.md)
+- [LogAxis](LogAxis.md)
 - [pcolor](Graphics/pcolor.md)
 - [log](Graphics/log.md)
 - [linspace](Graphics/linspace.md)

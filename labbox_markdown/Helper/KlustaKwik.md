@@ -3,7 +3,7 @@
 ## Function Calls
 - [num2str](Helper/num2str.md)
 - [STRING   ](Helper/STRING   .md)
-- [KlustaKwik](Helper/KlustaKwik.md)
+- [KlustaKwik](KlustaKwik.md)
 - [SaveFet](Helper/SaveFet.md)
 - [LoadClu](Helper/LoadClu.md)
 - [eval](Helper/eval.md)
@@ -26,7 +26,7 @@
 - [steps ](Helper/steps .md)
 - [sprintf](Helper/sprintf.md)
 - [file ](Helper/file .md)
-- [DefaultArgs](Helper/DefaultArgs.md)
+- [DefaultArgs](DefaultArgs.md)
 - [r](Helper/r.md)
 - [repmat](Helper/repmat.md)
 - [DistDump        ](Helper/DistDump        .md)

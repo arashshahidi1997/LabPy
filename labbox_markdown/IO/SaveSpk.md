@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [Spk](IO/Spk.md)
-- [SaveSpk](IO/SaveSpk.md)
+- [SaveSpk](SaveSpk.md)
 - [size](IO/size.md)
-- [bsave](IO/bsave.md)
+- [bsave](bsave.md)
 - [reshape](IO/reshape.md)

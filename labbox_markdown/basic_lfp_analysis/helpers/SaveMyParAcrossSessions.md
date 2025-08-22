@@ -1,7 +1,7 @@
 # SaveMyParAcrossSessions
 
 ## Function Calls
-- [SaveMyPar](basic_lfp_analysis/helpers/SaveMyPar.md)
+- [SaveMyPar](SaveMyPar.md)
 - [vector ](basic_lfp_analysis/helpers/vector .md)
 - [value ](basic_lfp_analysis/helpers/value .md)
 - [fopen](basic_lfp_analysis/helpers/fopen.md)
@@ -16,4 +16,4 @@
 - [fprintf](basic_lfp_analysis/helpers/fprintf.md)
 - [values ](basic_lfp_analysis/helpers/values .md)
 - [length](basic_lfp_analysis/helpers/length.md)
-- [SaveMyParAcrossSessions](basic_lfp_analysis/helpers/SaveMyParAcrossSessions.md)
+- [SaveMyParAcrossSessions](SaveMyParAcrossSessions.md)

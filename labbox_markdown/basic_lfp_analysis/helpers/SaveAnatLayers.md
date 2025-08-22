@@ -16,7 +16,7 @@
 - [iscell](basic_lfp_analysis/helpers/iscell.md)
 - [parameter ](basic_lfp_analysis/helpers/parameter .md)
 - [size](basic_lfp_analysis/helpers/size.md)
-- [SaveAnatLayers](basic_lfp_analysis/helpers/SaveAnatLayers.md)
+- [SaveAnatLayers](SaveAnatLayers.md)
 - [length](basic_lfp_analysis/helpers/length.md)
 - [vector ](basic_lfp_analysis/helpers/vector .md)
 - [exist](basic_lfp_analysis/helpers/exist.md)

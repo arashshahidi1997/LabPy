@@ -11,4 +11,4 @@
 - [rem](Helper/rem.md)
 - [cumprod](Helper/cumprod.md)
 - [length](Helper/length.md)
-- [Ind2Sub](Helper/Ind2Sub.md)
+- [Ind2Sub](Ind2Sub.md)

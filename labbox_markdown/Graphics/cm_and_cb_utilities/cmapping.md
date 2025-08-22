@@ -41,7 +41,7 @@
 - [isfinite](Graphics/cm_and_cb_utilities/isfinite.md)
 - [umap2](Graphics/cm_and_cb_utilities/umap2.md)
 - [size](Graphics/cm_and_cb_utilities/size.md)
-- [cmapping](Graphics/cm_and_cb_utilities/cmapping.md)
+- [cmapping](cmapping.md)
 - [isa](Graphics/cm_and_cb_utilities/isa.md)
 - [func2str](Graphics/cm_and_cb_utilities/func2str.md)
 - [color ](Graphics/cm_and_cb_utilities/color .md)

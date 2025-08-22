@@ -43,7 +43,7 @@
 - [sqrt](Stats/distrib_comparison/sqrt.md)
 - [if ](Stats/distrib_comparison/if .md)
 - [populations ](Stats/distrib_comparison/populations .md)
-- [AnDarksamtest](Stats/distrib_comparison/AnDarksamtest.md)
+- [AnDarksamtest](AnDarksamtest.md)
 - [max](Stats/distrib_comparison/max.md)
 - [observations ](Stats/distrib_comparison/observations .md)
 - [Fi](Stats/distrib_comparison/Fi.md)

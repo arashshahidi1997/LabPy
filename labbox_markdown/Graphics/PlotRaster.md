@@ -9,7 +9,7 @@
 - [Res](Graphics/Res.md)
 - [MyClu](Graphics/MyClu.md)
 - [isempty](Graphics/isempty.md)
-- [PlotRaster](Graphics/PlotRaster.md)
+- [PlotRaster](PlotRaster.md)
 - [Colors](Graphics/Colors.md)
 - [MyRes](Graphics/MyRes.md)
 - [DefaultArgs](Graphics/DefaultArgs.md)

@@ -3,7 +3,7 @@
 ## Function Calls
 - [y](TF/y.md)
 - [edge ](TF/edge .md)
-- [Filter0](TF/Filter0.md)
+- [Filter0](Filter0.md)
 - [mod](TF/mod.md)
 - [z](TF/z.md)
 - [error](TF/error.md)

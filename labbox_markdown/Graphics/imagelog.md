@@ -3,7 +3,7 @@
 ## Function Calls
 - [log2](Graphics/log2.md)
 - [set](Graphics/set.md)
-- [imagelog](Graphics/imagelog.md)
+- [imagelog](imagelog.md)
 - [log10](Graphics/log10.md)
 - [max](Graphics/max.md)
 - [fix](Graphics/fix.md)

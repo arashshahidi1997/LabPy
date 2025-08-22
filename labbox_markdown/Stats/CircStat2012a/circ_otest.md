@@ -1,7 +1,7 @@
 # circ_otest
 
 ## Function Calls
-- [circ_otest](Stats/CircStat2012a/circ_otest.md)
+- [circ_otest](circ_otest.md)
 - [zeros](Stats/CircStat2012a/zeros.md)
 - [min](Stats/CircStat2012a/min.md)
 - [exp](Stats/CircStat2012a/exp.md)
@@ -9,7 +9,7 @@
 - [Ajne ](Stats/CircStat2012a/Ajne .md)
 - [mod](Stats/CircStat2012a/mod.md)
 - [m2](Stats/CircStat2012a/m2.md)
-- [circ_ang2rad](Stats/CircStat2012a/circ_ang2rad.md)
+- [circ_ang2rad](circ_ang2rad.md)
 - [sqrt](Stats/CircStat2012a/sqrt.md)
 - [size](Stats/CircStat2012a/size.md)
 - [Hodges ](Stats/CircStat2012a/Hodges .md)

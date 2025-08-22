@@ -1,7 +1,7 @@
 # circ_axialmean
 
 ## Function Calls
-- [circ_axialmean](Stats/CircStat2012a/circ_axialmean.md)
+- [circ_axialmean](circ_axialmean.md)
 - [isempty](Stats/CircStat2012a/isempty.md)
 - [correction ](Stats/CircStat2012a/correction .md)
 - [mean](Stats/CircStat2012a/mean.md)

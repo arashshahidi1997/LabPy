@@ -15,7 +15,7 @@
 - [conv](Helper/conv.md)
 - [fax ](Helper/fax .md)
 - [x](Helper/x.md)
-- [lmin](Helper/lmin.md)
+- [lmin](lmin.md)
 - [min](Helper/min.md)
 - [val](Helper/val.md)
 - [length](Helper/length.md)

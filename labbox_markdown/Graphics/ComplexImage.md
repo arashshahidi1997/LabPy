@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [hsv2rgb](Graphics/hsv2rgb.md)
-- [ComplexImage](Graphics/ComplexImage.md)
+- [ComplexImage](ComplexImage.md)
 - [mod](Graphics/mod.md)
 - [Amp](Graphics/Amp.md)
 - [zeros](Graphics/zeros.md)

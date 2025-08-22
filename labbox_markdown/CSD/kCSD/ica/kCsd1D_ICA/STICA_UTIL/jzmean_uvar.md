@@ -2,6 +2,6 @@
 
 ## Function Calls
 - [sqrt](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sqrt.md)
-- [jvar](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/jvar.md)
+- [jvar](jvar.md)
 - [mean](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/mean.md)
-- [jzmean_uvar](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/jzmean_uvar.md)
+- [jzmean_uvar](jzmean_uvar.md)

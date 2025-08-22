@@ -1,7 +1,7 @@
 # LoadAwake
 
 ## Function Calls
-- [LoadAwake](EMG_removing/util/LoadAwake.md)
+- [LoadAwake](LoadAwake.md)
 - [sum](EMG_removing/util/sum.md)
 - [AWAKE ](EMG_removing/util/AWAKE .md)
 - [max](EMG_removing/util/max.md)

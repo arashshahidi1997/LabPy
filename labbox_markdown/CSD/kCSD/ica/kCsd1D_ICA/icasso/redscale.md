@@ -8,4 +8,4 @@
 - [Copyright ](CSD/kCSD/ica/kCsd1D_ICA/icasso/Copyright .md)
 - [isempty](CSD/kCSD/ica/kCsd1D_ICA/icasso/isempty.md)
 - [linspace](CSD/kCSD/ica/kCsd1D_ICA/icasso/linspace.md)
-- [redscale](CSD/kCSD/ica/kCsd1D_ICA/icasso/redscale.md)
+- [redscale](redscale.md)

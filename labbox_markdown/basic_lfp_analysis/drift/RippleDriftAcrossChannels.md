@@ -99,7 +99,7 @@
 - [drift ](basic_lfp_analysis/drift/drift .md)
 - [isreal](basic_lfp_analysis/drift/isreal.md)
 - [time ](basic_lfp_analysis/drift/time .md)
-- [RippleDriftAcrossChannels](basic_lfp_analysis/drift/RippleDriftAcrossChannels.md)
+- [RippleDriftAcrossChannels](RippleDriftAcrossChannels.md)
 - [HighestBandPowerChannel](basic_lfp_analysis/drift/HighestBandPowerChannel.md)
 - [colormap](basic_lfp_analysis/drift/colormap.md)
 - [good ](basic_lfp_analysis/drift/good .md)

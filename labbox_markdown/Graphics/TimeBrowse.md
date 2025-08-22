@@ -3,9 +3,9 @@
 ## Function Calls
 - [isstr](Graphics/isstr.md)
 - [set](Graphics/set.md)
-- [TimeBrowse](Graphics/TimeBrowse.md)
+- [TimeBrowse](TimeBrowse.md)
 - [num2str](Graphics/num2str.md)
-- [ForAllSubplots](Graphics/ForAllSubplots.md)
+- [ForAllSubplots](ForAllSubplots.md)
 - [isempty](Graphics/isempty.md)
 - [iscell](Graphics/iscell.md)
 - [tRange](Graphics/tRange.md)

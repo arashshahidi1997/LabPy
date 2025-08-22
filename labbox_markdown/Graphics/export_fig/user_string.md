@@ -1,7 +1,7 @@
 # user_string
 
 ## Function Calls
-- [user_string](Graphics/export_fig/user_string.md)
+- [user_string](user_string.md)
 - [writable ](Graphics/export_fig/writable .md)
 - [ischar](Graphics/export_fig/ischar.md)
 - [exist](Graphics/export_fig/exist.md)

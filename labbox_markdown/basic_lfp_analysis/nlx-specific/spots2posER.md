@@ -128,7 +128,7 @@
 - [fgauss](basic_lfp_analysis/nlx-specific/fgauss.md)
 - [new_attribs](basic_lfp_analysis/nlx-specific/new_attribs.md)
 - [transitions](basic_lfp_analysis/nlx-specific/transitions.md)
-- [spots2posER](basic_lfp_analysis/nlx-specific/spots2posER.md)
+- [spots2posER](spots2posER.md)
 - [parse_attribs](basic_lfp_analysis/nlx-specific/parse_attribs.md)
 - [feof](basic_lfp_analysis/nlx-specific/feof.md)
 - [dxy](basic_lfp_analysis/nlx-specific/dxy.md)

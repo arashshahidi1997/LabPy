@@ -6,7 +6,7 @@
 - [jsize](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/jsize.md)
 - [int2str](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/int2str.md)
 - [subplot](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/subplot.md)
-- [hplot](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/hplot.md)
+- [hplot](hplot.md)
 - [rem](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/rem.md)
 - [max](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/max.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/size.md)

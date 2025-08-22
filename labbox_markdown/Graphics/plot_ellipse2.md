@@ -1,7 +1,7 @@
 # plot_ellipse2
 
 ## Function Calls
-- [plot_ellipse2](Graphics/plot_ellipse2.md)
+- [plot_ellipse2](plot_ellipse2.md)
 - [sin](Graphics/sin.md)
 - [p1](Graphics/p1.md)
 - [cos](Graphics/cos.md)

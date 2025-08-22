@@ -42,7 +42,7 @@
 - [ismember](basic_lfp_analysis/ripples3d/ismember.md)
 - [length](basic_lfp_analysis/ripples3d/length.md)
 - [Channels](basic_lfp_analysis/ripples3d/Channels.md)
-- [Extract3DRipplesFromBursts](basic_lfp_analysis/ripples3d/Extract3DRipplesFromBursts.md)
+- [Extract3DRipplesFromBursts](Extract3DRipplesFromBursts.md)
 - [sum](basic_lfp_analysis/ripples3d/sum.md)
 - [plot](basic_lfp_analysis/ripples3d/plot.md)
 - [colormap](basic_lfp_analysis/ripples3d/colormap.md)

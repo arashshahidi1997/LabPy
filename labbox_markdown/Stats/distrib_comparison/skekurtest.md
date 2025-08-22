@@ -3,7 +3,7 @@
 ## Function Calls
 - [platykurtic ](Stats/distrib_comparison/platykurtic .md)
 - [c](Stats/distrib_comparison/c.md)
-- [skekurtest](Stats/distrib_comparison/skekurtest.md)
+- [skekurtest](skekurtest.md)
 - [b ](Stats/distrib_comparison/b .md)
 - [level ](Stats/distrib_comparison/level .md)
 - [else ](Stats/distrib_comparison/else .md)

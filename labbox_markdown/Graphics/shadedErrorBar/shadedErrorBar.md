@@ -8,7 +8,7 @@
 - [ischar](Graphics/shadedErrorBar/ischar.md)
 - [elseif](Graphics/shadedErrorBar/elseif.md)
 - [Inputs ](Graphics/shadedErrorBar/Inputs .md)
-- [shadedErrorBar](Graphics/shadedErrorBar/shadedErrorBar.md)
+- [shadedErrorBar](shadedErrorBar.md)
 - [patch](Graphics/shadedErrorBar/patch.md)
 - [std](Graphics/shadedErrorBar/std.md)
 - [strcmp](Graphics/shadedErrorBar/strcmp.md)

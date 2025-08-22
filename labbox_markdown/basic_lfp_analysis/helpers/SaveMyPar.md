@@ -22,7 +22,7 @@
 - [size](basic_lfp_analysis/helpers/size.md)
 - [dots ](basic_lfp_analysis/helpers/dots .md)
 - [length](basic_lfp_analysis/helpers/length.md)
-- [SaveMyPar](basic_lfp_analysis/helpers/SaveMyPar.md)
+- [SaveMyPar](SaveMyPar.md)
 - [str2num](basic_lfp_analysis/helpers/str2num.md)
 - [vector ](basic_lfp_analysis/helpers/vector .md)
 - [exist](basic_lfp_analysis/helpers/exist.md)

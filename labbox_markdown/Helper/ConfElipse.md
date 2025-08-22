@@ -5,7 +5,7 @@
 - [ylabel](Helper/ylabel.md)
 - [cov](Helper/cov.md)
 - [smallest_eigenvec](Helper/smallest_eigenvec.md)
-- [ConfElipse](Helper/ConfElipse.md)
+- [ConfElipse](ConfElipse.md)
 - [eigenvec](Helper/eigenvec.md)
 - [xlabel](Helper/xlabel.md)
 - [sin](Helper/sin.md)

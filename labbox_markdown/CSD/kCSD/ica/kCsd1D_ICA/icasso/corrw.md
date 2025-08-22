@@ -2,7 +2,7 @@
 
 ## Function Calls
 - [R ](CSD/kCSD/ica/kCsd1D_ICA/icasso/R .md)
-- [corrw](CSD/kCSD/ica/kCsd1D_ICA/icasso/corrw.md)
+- [corrw](corrw.md)
 - [function ](CSD/kCSD/ica/kCsd1D_ICA/icasso/function .md)
 - [R](CSD/kCSD/ica/kCsd1D_ICA/icasso/R.md)
 - [sum](CSD/kCSD/ica/kCsd1D_ICA/icasso/sum.md)

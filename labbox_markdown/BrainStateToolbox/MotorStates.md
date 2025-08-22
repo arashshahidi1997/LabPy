@@ -33,7 +33,7 @@
 - [sleep_per](BrainStateToolbox/sleep_per.md)
 - [error](BrainStateToolbox/error.md)
 - [transitions](BrainStateToolbox/transitions.md)
-- [MotorStates](BrainStateToolbox/MotorStates.md)
+- [MotorStates](MotorStates.md)
 - [logical](BrainStateToolbox/logical.md)
 - [num](BrainStateToolbox/num.md)
 - [Evgeny ](BrainStateToolbox/Evgeny .md)

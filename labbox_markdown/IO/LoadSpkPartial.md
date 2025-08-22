@@ -3,7 +3,7 @@
 ## Function Calls
 - [Spikes2Load](IO/Spikes2Load.md)
 - [ferror](IO/ferror.md)
-- [LoadSpkPartial](IO/LoadSpkPartial.md)
+- [LoadSpkPartial](LoadSpkPartial.md)
 - [zeros](IO/zeros.md)
 - [if ](IO/if .md)
 - [Spk](IO/Spk.md)

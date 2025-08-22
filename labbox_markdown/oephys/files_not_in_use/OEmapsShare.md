@@ -1,7 +1,7 @@
 # OEmapsShare
 
 ## Function Calls
-- [openephys2dat](oephys/files_not_in_use/openephys2dat.md)
+- [openephys2dat](openephys2dat.md)
 - [h32](oephys/files_not_in_use/h32.md)
 - [h32invert](oephys/files_not_in_use/h32invert.md)
 - [H64LP](oephys/files_not_in_use/H64LP.md)
@@ -16,6 +16,6 @@
 - [o32](oephys/files_not_in_use/o32.md)
 - [openephys2dat ](oephys/files_not_in_use/openephys2dat .md)
 - [H64LPinvert](oephys/files_not_in_use/H64LPinvert.md)
-- [makeOEmapFile](oephys/files_not_in_use/makeOEmapFile.md)
+- [makeOEmapFile](makeOEmapFile.md)
 - [length](oephys/files_not_in_use/length.md)
 - [a32](oephys/files_not_in_use/a32.md)

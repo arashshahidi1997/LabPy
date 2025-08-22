@@ -10,4 +10,4 @@
 - [fclose](IO/fclose.md)
 - [cell](IO/cell.md)
 - [feof](IO/feof.md)
-- [LoadStringArray](IO/LoadStringArray.md)
+- [LoadStringArray](LoadStringArray.md)

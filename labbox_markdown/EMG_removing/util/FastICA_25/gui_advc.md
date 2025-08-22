@@ -1,11 +1,11 @@
 # gui_advc
 
 ## Function Calls
-- [gui_help](EMG_removing/util/FastICA_25/gui_help.md)
+- [gui_help](gui_help.md)
 - [figure](EMG_removing/util/FastICA_25/figure.md)
 - [min](EMG_removing/util/FastICA_25/min.md)
 - [pos](EMG_removing/util/FastICA_25/pos.md)
-- [gui_l](EMG_removing/util/FastICA_25/gui_l.md)
+- [gui_l](gui_l.md)
 - [strcmp](EMG_removing/util/FastICA_25/strcmp.md)
 - [set](EMG_removing/util/FastICA_25/set.md)
 - [elseif ](EMG_removing/util/FastICA_25/elseif .md)

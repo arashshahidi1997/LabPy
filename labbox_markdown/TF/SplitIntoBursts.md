@@ -5,7 +5,7 @@
 - [zeros](TF/zeros.md)
 - [cumsum](TF/cumsum.md)
 - [event ](TF/event .md)
-- [SplitIntoBursts](TF/SplitIntoBursts.md)
+- [SplitIntoBursts](SplitIntoBursts.md)
 - [BurstLen](TF/BurstLen.md)
 - [events ](TF/events .md)
 - [Res](TF/Res.md)

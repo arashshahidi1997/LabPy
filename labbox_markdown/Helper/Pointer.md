@@ -7,7 +7,7 @@
 - [num2str](Helper/num2str.md)
 - [delete](Helper/delete.md)
 - [children](Helper/children.md)
-- [Pointer](Helper/Pointer.md)
+- [Pointer](Pointer.md)
 - [msave](Helper/msave.md)
 - [isempty](Helper/isempty.md)
 - [mousecoord](Helper/mousecoord.md)

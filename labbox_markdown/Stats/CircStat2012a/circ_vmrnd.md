@@ -8,7 +8,7 @@
 - [rand](Stats/CircStat2012a/rand.md)
 - [exp](Stats/CircStat2012a/exp.md)
 - [reshape](Stats/CircStat2012a/reshape.md)
-- [circ_vmrnd](Stats/CircStat2012a/circ_vmrnd.md)
+- [circ_vmrnd](circ_vmrnd.md)
 - [n](Stats/CircStat2012a/n.md)
 - [sign](Stats/CircStat2012a/sign.md)
 - [sqrt](Stats/CircStat2012a/sqrt.md)

@@ -44,7 +44,7 @@
 - [randsample](Stats/randsample.md)
 - [dY](Stats/dY.md)
 - [T ](Stats/T .md)
-- [SimplicityG](Stats/SimplicityG.md)
+- [SimplicityG](SimplicityG.md)
 - [License ](Stats/License .md)
 - [sprintf](Stats/sprintf.md)
 - [angle](Stats/angle.md)

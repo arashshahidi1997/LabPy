@@ -1,7 +1,7 @@
 # nsxDataConvert
 
 ## Function Calls
-- [nsxDataConvert](IO/blackrock/conversion/nsxDataConvert.md)
+- [nsxDataConvert](nsxDataConvert.md)
 - [fwrite](IO/blackrock/conversion/fwrite.md)
 - [Busse ](IO/blackrock/conversion/Busse .md)
 - [mod](IO/blackrock/conversion/mod.md)

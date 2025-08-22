@@ -9,7 +9,7 @@
 - [unique](basic_lfp_analysis/theta/unique.md)
 - [LoadMyPar](basic_lfp_analysis/theta/LoadMyPar.md)
 - [pow2](basic_lfp_analysis/theta/pow2.md)
-- [ThetaHarmonicsQuantification1](basic_lfp_analysis/theta/ThetaHarmonicsQuantification1.md)
+- [ThetaHarmonicsQuantification1](ThetaHarmonicsQuantification1.md)
 - [indices ](basic_lfp_analysis/theta/indices .md)
 - [FreqHarm](basic_lfp_analysis/theta/FreqHarm.md)
 - [WinLength_sec](basic_lfp_analysis/theta/WinLength_sec.md)

@@ -42,7 +42,7 @@
 - [median](BrainStateToolbox/median.md)
 - [sqrt](BrainStateToolbox/sqrt.md)
 - [fprintf](BrainStateToolbox/fprintf.md)
-- [DetectBrainStates_SpecDiagnostic](BrainStateToolbox/DetectBrainStates_SpecDiagnostic.md)
+- [DetectBrainStates_SpecDiagnostic](DetectBrainStates_SpecDiagnostic.md)
 - [max](BrainStateToolbox/max.md)
 - [activity](BrainStateToolbox/activity.md)
 - [iscell](BrainStateToolbox/iscell.md)

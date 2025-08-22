@@ -11,5 +11,5 @@
 - [size](Graphics/size.md)
 - [th0](Graphics/th0.md)
 - [char](Graphics/char.md)
-- [sidearoundline](Graphics/sidearoundline.md)
+- [sidearoundline](sidearoundline.md)
 - [side](Graphics/side.md)

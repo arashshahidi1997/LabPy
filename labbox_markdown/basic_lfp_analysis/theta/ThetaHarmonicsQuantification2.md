@@ -149,7 +149,7 @@
 - [Harmonix](basic_lfp_analysis/theta/Harmonix.md)
 - [smooth](basic_lfp_analysis/theta/smooth.md)
 - [ranges ](basic_lfp_analysis/theta/ranges .md)
-- [ThetaHarmonicsQuantification2](basic_lfp_analysis/theta/ThetaHarmonicsQuantification2.md)
+- [ThetaHarmonicsQuantification2](ThetaHarmonicsQuantification2.md)
 - [sub2ind](basic_lfp_analysis/theta/sub2ind.md)
 - [histc](basic_lfp_analysis/theta/histc.md)
 - [contiguous](basic_lfp_analysis/theta/contiguous.md)

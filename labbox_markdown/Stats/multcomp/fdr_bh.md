@@ -7,7 +7,7 @@
 - [reshape](Stats/multcomp/reshape.md)
 - [p_sorted](Stats/multcomp/p_sorted.md)
 - [rate ](Stats/multcomp/rate .md)
-- [fdr_bh](Stats/multcomp/fdr_bh.md)
+- [fdr_bh](fdr_bh.md)
 - [s](Stats/multcomp/s.md)
 - [matrix ](Stats/multcomp/matrix .md)
 - [Yekutieli ](Stats/multcomp/Yekutieli .md)

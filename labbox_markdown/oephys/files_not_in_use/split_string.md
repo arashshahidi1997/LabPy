@@ -7,7 +7,7 @@
 - [escapeFcn](oephys/files_not_in_use/escapeFcn.md)
 - [strescape](oephys/files_not_in_use/strescape.md)
 - [escapeChar](oephys/files_not_in_use/escapeChar.md)
-- [split_string](oephys/files_not_in_use/split_string.md)
+- [split_string](split_string.md)
 - [warning](oephys/files_not_in_use/warning.md)
 - [char](oephys/files_not_in_use/char.md)
 - [regexp](oephys/files_not_in_use/regexp.md)

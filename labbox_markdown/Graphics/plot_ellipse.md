@@ -1,7 +1,7 @@
 # plot_ellipse
 
 ## Function Calls
-- [plot_ellipse](Graphics/plot_ellipse.md)
+- [plot_ellipse](plot_ellipse.md)
 - [set](Graphics/set.md)
 - [Axes](Graphics/Axes.md)
 - [elseif ](Graphics/elseif .md)

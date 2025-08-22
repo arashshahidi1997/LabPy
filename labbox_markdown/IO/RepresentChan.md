@@ -23,5 +23,5 @@
 - [cellfun](IO/cellfun.md)
 - [isempty](IO/isempty.md)
 - [DefaultArgs](IO/DefaultArgs.md)
-- [RepresentChan](IO/RepresentChan.md)
-- [LoadXml](IO/LoadXml.md)
+- [RepresentChan](RepresentChan.md)
+- [LoadXml](LoadXml.md)

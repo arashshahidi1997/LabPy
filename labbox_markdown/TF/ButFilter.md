@@ -5,4 +5,4 @@
 - [size](TF/size.md)
 - [DefaultArgs](TF/DefaultArgs.md)
 - [filtfilt](TF/filtfilt.md)
-- [ButFilter](TF/ButFilter.md)
+- [ButFilter](ButFilter.md)

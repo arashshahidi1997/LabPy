@@ -15,7 +15,7 @@
 - [gaussnewt](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/gaussnewt.md)
 - [inv](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/inv.md)
 - [sqrt](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/sqrt.md)
-- [stica](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/stica.md)
+- [stica](stica.md)
 - [data ](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/data .md)
 - [fminunc](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/fminunc.md)
 - [size](CSD/kCSD/ica/kCsd1D_ICA/STICA_CORE/size.md)

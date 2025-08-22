@@ -24,7 +24,7 @@
 - [atan2](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/atan2.md)
 - [azel](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/azel.md)
 - [u](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/u.md)
-- [JJROTATE](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/JJROTATE.md)
+- [jjrotate](jjrotate.md)
 - [ones](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/ones.md)
 - [sum](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/sum.md)
 - [z](CSD/kCSD/ica/kCsd1D_ICA/STICA_UTIL/z.md)

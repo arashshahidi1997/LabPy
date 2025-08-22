@@ -1,7 +1,7 @@
 # CalcRanks
 
 ## Function Calls
-- [CalcRanks](Stats/CalcRanks.md)
+- [CalcRanks](CalcRanks.md)
 - [xSort](Stats/xSort.md)
 - [sort](Stats/sort.md)
 - [if ](Stats/if .md)
