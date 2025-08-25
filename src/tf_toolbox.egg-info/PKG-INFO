@@ -9,7 +9,6 @@ Requires-Dist: numpy
 Requires-Dist: scipy
 Requires-Dist: matplotlib
 Requires-Dist: mne>=1.6.0
-Dynamic: requires-python
 
 # TF Toolbox (Python)
 

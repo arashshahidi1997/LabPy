@@ -34,4 +34,5 @@ tf_toolbox/utils/args.py
 tf_toolbox/utils/checks.py
 tf_toolbox/utils/dsp.py
 tf_toolbox/utils/filtering.py
+tf_toolbox/utils/find_funcion.py
 tf_toolbox/utils/peaks.py
