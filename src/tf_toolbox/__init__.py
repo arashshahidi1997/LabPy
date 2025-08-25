@@ -14,6 +14,7 @@ Subpackages:
 """
 from . import utils, spectral, timefreq, connectivity, oscillations, states, plotting
 from .utils.find_funcion import find_function
+from .utils import *
 
 # Create an alias so it can be called as mypackage.find
 find = find_function
